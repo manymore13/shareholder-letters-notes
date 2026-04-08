@@ -29,3 +29,21 @@ Each entry follows this format:
 
 <!-- New log entries will be appended below -->
 
+## 2026-04-08
+
+### [13:10] Ingest - Buffett's Letters Collection
+- **Operation**: Ingested Buffett's Letters to Shareholders (1977-2025)
+- **Created**: wiki/sources/source-buffett-letters.md
+- **Created**: wiki/sources/source-buffett-letters-1977.md
+- **Created**: wiki/entities/entity-warren-buffett.md
+- **Created**: wiki/entities/entity-berkshire-hathaway.md
+- **Created**: wiki/concepts/concept-value-investing.md
+- **Created**: wiki/concepts/concept-economic-moat.md
+- **Created**: wiki/concepts/concept-float.md
+- **Updated**: wiki/index.md
+- **Notes**: 
+  - Source files: raw/books/html/ (21 letters 1977-1997), raw/books/pdf/ (23 letters 2003-2025)
+  - Created core entities: Warren Buffett, Berkshire Hathaway
+  - Created core concepts: Value Investing, Economic Moat, Float
+  - Analyzed 1977 letter in detail, established foundation for future letters
+
