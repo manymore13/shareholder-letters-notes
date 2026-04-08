@@ -24,20 +24,20 @@ source_file: [path in raw/]
 **Source File**: `raw/[category]/[filename]`  
 
 ### For Papers
-- **Authors**: [[entity-author1]], [[entity-author2]]
-- **Institution**: [[entity-institution]]
+- **Authors**: [Author 1](../entities/entity-author1.md), [Author 2](../entities/entity-author2.md)
+- **Institution**: [Institution](../entities/entity-institution.md)
 - **Publication**: [Journal/Conference name]
 - **Year**: [YYYY]
 - **DOI/URL**: [Link to paper]
 
 ### For Articles
-- **Author**: [[entity-author]]
+- **Author**: [Author](../entities/entity-author.md)
 - **Publication**: [Website/Blog name]
 - **URL**: [Link to article]
 - **Read Date**: [YYYY-MM-DD]
 
 ### For Books
-- **Author**: [[entity-author]]
+- **Author**: [Author](../entities/entity-author.md)
 - **Publisher**: [Publisher name]
 - **Year**: [YYYY]
 - **ISBN**: [ISBN number]
@@ -130,26 +130,26 @@ How can this knowledge be applied?
 ### Entities Mentioned
 
 #### People
-- [[entity-person1]] - Role and significance
-- [[entity-person2]] - Role and significance
+- [Person 1](../entities/entity-person1.md) - Role and significance
+- [Person 2](../entities/entity-person2.md) - Role and significance
 
 #### Organizations
-- [[entity-org1]] - Context and significance
-- [[entity-org2]] - Context and significance
+- [Org 1](../entities/entity-org1.md) - Context and significance
+- [Org 2](../entities/entity-org2.md) - Context and significance
 
 #### Projects
-- [[entity-project1]] - Relevance to source
-- [[entity-project2]] - Relevance to source
+- [Project 1](../entities/entity-project1.md) - Relevance to source
+- [Project 2](../entities/entity-project2.md) - Relevance to source
 
 #### Tools
-- [[entity-tool1]] - How it's used in the source
-- [[entity-tool2]] - How it's used in the source
+- [Tool 1](../entities/entity-tool1.md) - How it's used in the source
+- [Tool 2](../entities/entity-tool2.md) - How it's used in the source
 
 ### Concepts Discussed
 
-- [[concept-name1]] - How it's discussed in the source
-- [[concept-name2]] - How it's discussed in the source
-- [[concept-name3]] - How it's discussed in the source
+- [Concept 1](../concepts/concept-name1.md) - How it's discussed in the source
+- [Concept 2](../concepts/concept-name2.md) - How it's discussed in the source
+- [Concept 3](../concepts/concept-name3.md) - How it's discussed in the source
 
 ### Methods/Techniques
 
@@ -185,9 +185,9 @@ How reliable and valid is this source?
 
 ### Comparison with Other Sources
 
-- **Similar to**: [[source-similar1]], [[source-similar2]]
-- **Contradicts**: [[source-contradict1]]
-- **Extends**: [[source-related1]]
+- **Similar to**: [Similar 1](../sources/source-similar1.md), [Similar 2](../sources/source-similar2.md)
+- **Contradicts**: [Contradict 1](../sources/source-contradict1.md)
+- **Extends**: [Related 1](../sources/source-related1.md)
 
 ---
 
@@ -195,18 +195,18 @@ How reliable and valid is this source?
 
 ### Builds Upon
 
-- [[source-previous1]] - Earlier work this builds on
-- [[source-previous2]] - Earlier work this builds on
+- [Previous 1](../sources/source-previous1.md) - Earlier work this builds on
+- [Previous 2](../sources/source-previous2.md) - Earlier work this builds on
 
 ### Related To
 
-- [[source-related1]] - Connection description
-- [[source-related2]] - Connection description
+- [Related 1](../sources/source-related1.md) - Connection description
+- [Related 2](../sources/source-related2.md) - Connection description
 
 ### Influenced
 
-- [[source-later1]] - Work influenced by this source
-- [[source-later2]] - Work influenced by this source
+- [Later 1](../sources/source-later1.md) - Work influenced by this source
+- [Later 2](../sources/source-later2.md) - Work influenced by this source
 
 ---
 
@@ -280,7 +280,7 @@ New questions or areas of curiosity.
 **Created**: [YYYY-MM-DD]  
 **Last Updated**: [YYYY-MM-DD]  
 **Source Type**: [Paper/Article/Book/Note]  
-**Related Pages**: [[entity-1]], [[concept-1]], [[source-related]]  
+**Related Pages**: [Entity 1](../entities/entity-1.md), [Concept 1](../concepts/concept-1.md), [Related Source](../sources/source-related.md)  
 
 ---
 

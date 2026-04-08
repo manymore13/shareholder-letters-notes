@@ -61,14 +61,30 @@ personal-wiki/
 - Sources: `source-[YYYY-MM-DD]-[short-title].md`
 - Synthesis: `synthesis-[topic].md`
 
-## Bidirectional Links
+## Standard Markdown Links
 
-Use Obsidian-compatible format: `[[page-name]]`
+Use standard Markdown link format to ensure compatibility across all platforms (GitHub, VSCode, Typora):
 
-When creating links:
-- Link to related entities, concepts, and sources
-- Ensure target pages exist or create them
-- Maintain bidirectional connections by updating related pages
+### Link Format
+```markdown
+[Display Text](relative-path)
+```
+
+### Relative Path Rules
+- From `wiki/index.md`: `[Entity](./entities/entity-name.md)`
+- From `wiki/concepts/*.md`: `[Entity](../entities/entity-name.md)`
+- From `wiki/entities/*.md`: `[Concept](../concepts/concept-name.md)`
+- From `wiki/sources/*.md`: `[Entity](../entities/entity-name.md)`
+
+### Naming Convention
+- Entities: `entity-[name].md`
+- Concepts: `concept-[name].md`
+- Sources: `source-[YYYY-MM-DD]-[short-title].md`
+
+### Best Practices
+- Use descriptive display text in Chinese or English
+- Ensure target files exist before creating links
+- Maintain bidirectional references by updating related pages
 
 ## Core Operations
 

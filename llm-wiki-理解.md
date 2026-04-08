@@ -133,6 +133,33 @@ LLM Wiki 的解决方案：
 | 提出问题 | 文档整理 |
 | 思考意义 | 保持一致性 |
 
+## 技术实现细节
+
+### 链接格式演进
+
+**早期方案**（Obsidian 专有格式）：
+```markdown
+[[entity-name]]
+[[entity-name|显示文本]]
+```
+
+**当前方案**（标准 Markdown 格式）：
+```markdown
+[显示文本](./entities/entity-name.md)
+[显示文本](../entities/entity-name.md)
+```
+
+**改进原因**：
+- 标准 Markdown 格式在所有平台（GitHub、VSCode、Typora）都可点击跳转
+- 不依赖于特定编辑器（Obsidian）
+- 更好的跨平台兼容性
+- 符合 Markdown 标准规范
+
+**相对路径规则**：
+- 从 `wiki/index.md` 引用：`[实体](./entities/entity-name.md)`
+- 从子目录引用：`[实体](../entities/entity-name.md)`
+- 同目录引用：`[文件](./filename.md)`
+
 ## 历史渊源
 
 这与 Vannevar Bush 1945 年提出的 Memex 概念一脉相承：
@@ -164,7 +191,7 @@ LLM Wiki 的解决方案：
 ### 未来可能性
 - 多人协作的 wiki 系统
 - 与专业工具的深度集成
-- 自动化资源发现和摄入
+- 自动化资源发现和收录
 - 更智能的矛盾检测和解决方案
 
 ---

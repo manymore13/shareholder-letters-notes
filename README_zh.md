@@ -203,7 +203,7 @@ Buffett'sLetter/
 2. **放入适当目录**：
    - HTML 信件 → `raw/books/html/`
    - PDF 信件 → `raw/books/pdf/`
-3. **使用 LLM 摄入**："摄入 [文件名]"
+3. **使用 LLM 收录**："收录 [文件名]"
 
 ### 浏览知识
 

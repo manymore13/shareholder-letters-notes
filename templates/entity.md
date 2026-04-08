@@ -27,22 +27,22 @@ Brief introduction to the entity (1-2 paragraphs).
 ## Key Information
 
 ### For People
-- **Affiliation**: [[entity-organization]]
+- **Affiliation**: [Organization](../entities/entity-organization.md)
 - **Role**: [Current position]
 - **Expertise**: [Key areas of expertise]
-- **Notable Work**: [[source-paper1]], [[source-paper2]]
+- **Notable Work**: [Paper 1](../sources/source-paper1.md), [Paper 2](../sources/source-paper2.md)
 
 ### For Organizations
 - **Industry**: [Industry sector]
 - **Founded**: [Year]
 - **Location**: [Geographic location]
-- **Key People**: [[entity-person1]], [[entity-person2]]
+- **Key People**: [Person 1](../entities/entity-person1.md), [Person 2](../entities/entity-person2.md)
 
 ### For Projects
 - **Start Date**: [YYYY-MM]
 - **Status**: [Planning / Active / Completed / Paused]
 - **Repository**: [URL if applicable]
-- **Key Contributors**: [[entity-person1]], [[entity-person2]]
+- **Key Contributors**: [Person 1](../entities/entity-person1.md), [Person 2](../entities/entity-person2.md)
 
 ### For Tools
 - **Type**: [Framework / Library / Platform / Software]
@@ -78,19 +78,19 @@ Historical context and origin.
 
 ### Connected Entities
 
-- **Related to**: [[entity-name1]], [[entity-name2]]
-- **Part of**: [[entity-parent]]
-- **Collaborates with**: [[entity-partner]]
+- **Related to**: [Name 1](../entities/entity-name1.md), [Name 2](../entities/entity-name2.md)
+- **Part of**: [Parent](../entities/entity-parent.md)
+- **Collaborates with**: [Partner](../entities/entity-partner.md)
 
 ### Associated Concepts
 
-- [[concept-name1]] - Brief explanation of relationship
-- [[concept-name2]] - Brief explanation of relationship
+- [Concept 1](../concepts/concept-name1.md) - Brief explanation of relationship
+- [Concept 2](../concepts/concept-name2.md) - Brief explanation of relationship
 
 ### Source References
 
-- [[source-doc1]] - How this entity is mentioned
-- [[source-doc2]] - How this entity is mentioned
+- [Doc 1](../sources/source-doc1.md) - How this entity is mentioned
+- [Doc 2](../sources/source-doc2.md) - How this entity is mentioned
 
 ---
 
@@ -98,16 +98,16 @@ Historical context and origin.
 
 ### From Sources
 
-1. **Insight from [[source-doc1]]**: 
+1. **Insight from [Doc 1](../sources/source-doc1.md)**: 
    - Key observation or finding
 
-2. **Insight from [[source-doc2]]**: 
+2. **Insight from [Doc 2](../sources/source-doc2.md)**: 
    - Key observation or finding
 
 ### Synthesis
 
-- Cross-reference with [[concept-topic]]
-- Comparative analysis with [[entity-similar]]
+- Cross-reference with [Topic](../concepts/concept-topic.md)
+- Comparative analysis with [Similar](../entities/entity-similar.md)
 
 ---
 
@@ -130,7 +130,7 @@ Historical context and origin.
 - **Website**: [URL]
 - **Documentation**: [URL]
 - **Repository**: [URL]
-- **Key Publications**: [[source-paper1]], [[source-paper2]]
+- **Key Publications**: [Paper 1](../sources/source-paper1.md), [Paper 2](../sources/source-paper2.md)
 
 ---
 
@@ -146,8 +146,8 @@ Historical context and origin.
 
 **Created**: [YYYY-MM-DD]  
 **Last Updated**: [YYYY-MM-DD]  
-**Sources**: [[source-doc1]], [[source-doc2]]  
-**Related Pages**: [[entity-related1]], [[concept-related1]]  
+**Sources**: [Doc 1](../sources/source-doc1.md), [Doc 2](../sources/source-doc2.md)  
+**Related Pages**: [Related 1](../entities/entity-related1.md), [Related 2](../concepts/concept-related1.md)  
 
 ---
 

@@ -47,7 +47,7 @@ The fundamental principle or idea behind the concept.
 Historical context and development of the concept.
 
 - **Origin**: When and where the concept emerged
-- **Founders**: [[entity-person1]], [[entity-person2]]
+- **Founders**: [Person 1](../entities/entity-person1.md), [Person 2](../entities/entity-person2.md)
 - **Evolution**: How the concept developed over time
 
 ### Theoretical Foundation
@@ -81,8 +81,8 @@ How the concept works in practice.
 
 ### Real-World Examples
 
-- **Example 1**: Description from [[source-doc1]]
-- **Example 2**: Description from [[source-doc2]]
+- **Example 1**: Description from [Doc 1](../sources/source-doc1.md)
+- **Example 2**: Description from [Doc 2](../sources/source-doc2.md)
 
 ---
 
@@ -112,21 +112,21 @@ How the concept works in practice.
 
 ### Related Concepts
 
-- **Prerequisite**: [[concept-prerequisite]] - Concept you need to understand first
-- **Related**: [[concept-related1]], [[concept-related2]] - Similar or complementary concepts
-- **Extension**: [[concept-extension]] - Advanced or extended version
-- **Alternative**: [[concept-alternative]] - Different approach to same problem
+- **Prerequisite**: [Prerequisite](../concepts/concept-prerequisite.md) - Concept you need to understand first
+- **Related**: [Related 1](../concepts/concept-related1.md), [Related 2](../concepts/concept-related2.md) - Similar or complementary concepts
+- **Extension**: [Extension](../concepts/concept-extension.md) - Advanced or extended version
+- **Alternative**: [Alternative](../concepts/concept-alternative.md) - Different approach to same problem
 
 ### Associated Entities
 
-- **Proposed by**: [[entity-person1]]
-- **Developed by**: [[entity-organization1]]
-- **Used by**: [[entity-project1]], [[entity-project2]]
+- **Proposed by**: [Person 1](../entities/entity-person1.md)
+- **Developed by**: [Organization 1](../entities/entity-organization1.md)
+- **Used by**: [Project 1](../entities/entity-project1.md), [Project 2](../entities/entity-project2.md)
 
 ### Source References
 
-- [[source-doc1]] - Where this concept is discussed
-- [[source-doc2]] - Where this concept is applied
+- [Doc 1](../sources/source-doc1.md) - Where this concept is discussed
+- [Doc 2](../sources/source-doc2.md) - Where this concept is applied
 
 ---
 
@@ -134,16 +134,16 @@ How the concept works in practice.
 
 ### From Sources
 
-1. **Insight from [[source-doc1]]**: 
+1. **Insight from [Doc 1](../sources/source-doc1.md)**: 
    - Key observation about the concept
 
-2. **Insight from [[source-doc2]]**: 
+2. **Insight from [Doc 2](../sources/source-doc2.md)**: 
    - Key observation about the concept
 
 ### Synthesis
 
-- Connection to [[concept-broader]]: How this fits into a bigger picture
-- Comparison with [[concept-alternative]]: Key differences and similarities
+- Connection to [Broader](../concepts/concept-broader.md): How this fits into a bigger picture
+- Comparison with [Alternative](../concepts/concept-alternative.md): Key differences and similarities
 
 ---
 
@@ -160,12 +160,12 @@ How to evaluate or measure the concept in practice.
 ## Further Reading
 
 ### Academic Sources
-- [[source-paper1]]: Key paper on the concept
-- [[source-paper2]]: Comprehensive review
+- [Paper 1](../sources/source-paper1.md): Key paper on the concept
+- [Paper 2](../sources/source-paper2.md): Comprehensive review
 
 ### Practical Guides
-- [[source-article1]]: Tutorial or guide
-- [[source-article2]]: Case study
+- [Article 1](../sources/source-article1.md): Tutorial or guide
+- [Article 2](../sources/source-article2.md): Case study
 
 ---
 
@@ -189,8 +189,8 @@ How to evaluate or measure the concept in practice.
 
 **Created**: [YYYY-MM-DD]  
 **Last Updated**: [YYYY-MM-DD]  
-**Sources**: [[source-doc1]], [[source-doc2]]  
-**Related Pages**: [[concept-related1]], [[entity-related1]]  
+**Sources**: [Doc 1](../sources/source-doc1.md), [Doc 2](../sources/source-doc2.md)  
+**Related Pages**: [Related 1](../concepts/concept-related1.md), [Related 2](../entities/entity-related1.md)  
 
 ---
 
