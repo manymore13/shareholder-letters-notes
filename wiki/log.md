@@ -218,3 +218,22 @@ Each entry follows this format:
   - 1977-2025年（除1985年外）共44封信件全部处理完成
   - 所有5个批次均成功完成
 
+### [21:59] Ingest - Wesco Financial 1997 Letter (Munger)
+- **Operation**: Ingested Charlie Munger's Wesco Financial Corporation 1997 Letter to Shareholders
+- **Source File**: raw/books/pdf/cm1997.pdf
+- **Created Source Pages**:
+  - source-wesco-letter-1997.md - 芒格撰写的Wesco股东信，超级巨灾再保险、内在价值估算、可转换优先股
+- **Created Entity Pages**:
+  - entity-charlie-munger.md - 查理·芒格，伯克希尔副董事长，Wesco董事长
+  - entity-wesco-financial.md - Wesco Financial Corporation，伯克希尔持股80%
+  - Updated: entity-kansas-bankers-surety.md - 补充1996年收购详情和财务表现
+- **Created Concept Pages**:
+  - concept-super-cat-reinsurance.md - 超级巨灾再保险，需要堡垒级资产负债表
+  - Updated: concept-intrinsic-value.md - 添加芒格估算法（清算价值+递延税优势）
+- **Updated**: wiki/index.md
+- **Notes**:
+  - 芒格以坦诚著称，公开承认Wesco质量不如伯克希尔
+  - 提供了独特的内在价值估算方法：清算价值 + 递延税优势价值
+  - 详细阐述了超级巨灾再保险的业务逻辑
+  - 展示了可转换优先股投资的成功案例（Gillette、Salomon→Travelers）
+

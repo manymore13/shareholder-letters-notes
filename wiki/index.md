@@ -11,6 +11,7 @@
 ### 人物
 
 - [沃伦·巴菲特](./entities/entity-warren-buffett.md) - 奥马哈先知，伯克希尔·哈撒韦董事长兼 CEO
+- [查理·芒格](./entities/entity-charlie-munger.md) - 伯克希尔副董事长，Wesco Financial 董事长，多元思维模型倡导者
 - [本杰明·格雷厄姆](./entities/entity-benjamin-graham.md) - 价值投资之父，《聪明的投资者》作者
 
 ### 组织
@@ -45,6 +46,8 @@
 - [MidAmerican Energy](./entities/entity-midamerican-energy.md) - 公用事业公司
 - [IBM](./entities/entity-ibm.md) - 科技公司，2011年重大投资
 - [美国运通](./entities/entity-american-express.md) - 金融服务公司，永久持股
+- [Wesco Financial](./entities/entity-wesco-financial.md) - 芒格领导的金融公司，伯克希尔持股80%，2011年合并
+- [Kansas Bankers Surety](./entities/entity-kansas-bankers-surety.md) - 银行保险专家，1996年被Wesco收购
 
 ---
 
@@ -75,6 +78,7 @@
 - [每股增长](./concepts/concept-per-share-growth.md) - 每股价值的增长，而非总规模
 - [补充性收购](./concepts/concept-bolt-on-acquisitions.md) - 整合到现有业务的小型收购
 - [逆向思维](./concepts/concept-inversion.md) - 查理·芒格的问题解决方法
+- [超级巨灾再保险](./concepts/concept-super-cat-reinsurance.md) - 需要堡垒级资产负债表的特殊保险业务
 
 ### 原则与模式
 
@@ -163,6 +167,10 @@
 - [Letter 2024](./sources/source-buffett-letters-2024.md) - 税收记录268亿，Pete Liegl致敬，Greg Abel继任
 - [Letter 2025](./sources/source-buffett-letters-2025.md) - Greg Abel首信，文化与价值观系统阐述，OxyChem与Bell Labs收购
 
+#### Wesco Financial 股东信
+
+- [Wesco 1997 Letter](./sources/source-wesco-letter-1997.md) - 芒格撰写，超级巨灾再保险、内在价值估算、可转换优先股投资
+
 ---
 
 ## 综合分析
@@ -182,9 +190,9 @@
 
 ## 统计数据
 
-- **实体总数**：34（已完成创建）
-- **概念总数**：21（已完成创建）
-- **来源总数**：48（1977-2025年）
+- **实体总数**：36（+2 新增：Charlie Munger, Wesco Financial）
+- **概念总数**：22（+1 新增：超级巨灾再保险）
+- **来源总数**：49（+1 新增：Wesco 1997 Letter）
 - **综合分析总数**：0
 - **最后更新**：2026-04-08
 
