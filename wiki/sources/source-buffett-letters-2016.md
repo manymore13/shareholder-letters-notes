@@ -79,18 +79,18 @@ source_url: https://www.berkshirehathaway.com/letters/2016ltr.pdf
 
 ## 关键实体
 
-- [[entity-dexter-shoe|Dexter Shoe]] - 1993年重大错误收购
-- [[entity-general-re|General Reinsurance]] - 1998年错误收购（后改进）
-- [[entity-geico|GEICO]] - 1996年成功全资收购
-- [[entity-midamerican-energy|MidAmerican Energy]] - 2000年成功收购
-- [[entity-bnsf|BNSF]] - 2009年收购，少数股份发行
+- [Dexter Shoe](../entities/entity-dexter-shoe.md) - 1993年重大错误收购
+- [General Reinsurance](../entities/entity-general-re.md) - 1998年错误收购（后改进）
+- [GEICO](../entities/entity-geico.md) - 1996年成功全资收购
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 2000年成功收购
+- [BNSF](../entities/entity-bnsf.md) - 2009年收购，少数股份发行
 
 ## 关键概念
 
-- [[concept-transformation|转型]] - 从投资组合到企业拥有者
-- [[concept-stock-vs-cash|股票vs现金]] - 支付方式的重大影响
-- [[concept-mistake-admission|错误承认]] - 巴菲特的坦诚反思
-- [[concept-intrinsic-vs-book|内在价值vs账面价值]] - 会计局限
+- [转型](../concepts/concept-transformation.md) - 从投资组合到企业拥有者
+- [股票vs现金](../concepts/concept-stock-vs-cash.md) - 支付方式的重大影响
+- [错误承认](../concepts/concept-mistake-admission.md) - 巴菲特的坦诚反思
+- [内在价值vs账面价值](../concepts/concept-intrinsic-vs-book.md) - 会计局限
 
 ## 重要数据
 
@@ -118,9 +118,9 @@ source_url: https://www.berkshirehathaway.com/letters/2016ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2015]]
-- 后一年：[[source-buffett-letters-2017]]
+- 前一年：[source-buffett-letters-2015](./source-buffett-letters-2015.md)
+- 后一年：[source-buffett-letters-2017](./source-buffett-letters-2017.md)
 
 **相关主题**：
-- [[concept-capital-allocation|资本配置]]
-- [[concept-american-miracle|美国奇迹]]
+- [资本配置](../concepts/concept-capital-allocation.md)
+- [美国奇迹](../concepts/concept-american-miracle.md)

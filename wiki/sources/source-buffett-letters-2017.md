@@ -102,20 +102,20 @@ source_url: https://www.berkshirehathaway.com/letters/2017ltr.pdf
 
 ## 关键实体
 
-- [[entity-pilot-flying-j|Pilot Flying J]] - 旅行中心运营商
-- [[entity-haslam-family|Haslam Family]] - "Big Jim"和Jimmy
-- [[entity-homeservices|HomeServices]] - 房地产经纪业务
-- [[entity-clayton-homes|Clayton Homes]] - 制造住宅
-- [[entity-shaw-industries|Shaw Industries]] - 地板覆盖物
-- [[entity-ajit-jain|Ajit Jain]] - 保险业务负责人
-- [[entity-greg-abel|Greg Abel]] - 非保险业务负责人
+- [Pilot Flying J](../entities/entity-pilot-flying-j.md) - 旅行中心运营商
+- [Haslam Family](../entities/entity-haslam-family.md) - "Big Jim"和Jimmy
+- [HomeServices](../entities/entity-homeservices.md) - 房地产经纪业务
+- [Clayton Homes](../entities/entity-clayton-homes.md) - 制造住宅
+- [Shaw Industries](../entities/entity-shaw-industries.md) - 地板覆盖物
+- [Ajit Jain](../entities/entity-ajit-jain.md) - 保险业务负责人
+- [Greg Abel](../entities/entity-greg-abel.md) - 非保险业务负责人
 
 ## 关键概念
 
-- [[concept-tax-reform|税制改革]] - 290亿美元的一次性收益
-- [[concept-gaap-distortion|GAAP扭曲]] - 新规则的误导性影响
-- [[concept-acquisition-prudence|收购审慎]] - 在高价市场中保持纪律
-- [[concept-management-succession|管理层继任]] - Jain和Abel的任命
+- [税制改革](../concepts/concept-tax-reform.md) - 290亿美元的一次性收益
+- [GAAP扭曲](../concepts/concept-gaap-distortion.md) - 新规则的误导性影响
+- [收购审慎](../concepts/concept-acquisition-prudence.md) - 在高价市场中保持纪律
+- [管理层继任](../concepts/concept-management-succession.md) - Jain和Abel的任命
 
 ## 重要数据
 
@@ -146,9 +146,9 @@ source_url: https://www.berkshirehathaway.com/letters/2017ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2016]]
-- 后一年：[[source-buffett-letters-2018]]
+- 前一年：[source-buffett-letters-2016](./source-buffett-letters-2016.md)
+- 后一年：[source-buffett-letters-2018](./source-buffett-letters-2018.md)
 
 **相关主题**：
-- [[concept-earnings-quality|收益质量]]
-- [[concept-corporate-governance|公司治理]]
+- [收益质量](../concepts/concept-earnings-quality.md)
+- [公司治理](../concepts/concept-corporate-governance.md)

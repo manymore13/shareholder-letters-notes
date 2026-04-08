@@ -82,18 +82,18 @@ source_url: https://www.berkshirehathaway.com/letters/2014ltr.pdf
 
 ## 关键实体
 
-- [[entity-duracell|Duracell]] - 电池制造商，2014年签约收购
-- [[entity-van-tuyl-automotive|Van Tuyl Automotive]] - 汽车经销商集团
-- [[entity-tim-hortons|Tim Hortons]] - 加拿大咖啡连锁，Burger King收购
-- [[entity-burger-king|Burger King]] - 快餐连锁
-- [[entity-kraft-heinz|Kraft Heinz]] - 后来的合并公司
+- [Duracell](../entities/entity-duracell.md) - 电池制造商，2014年签约收购
+- [Van Tuyl Automotive](../entities/entity-van-tuyl-automotive.md) - 汽车经销商集团
+- [Tim Hortons](../entities/entity-tim-hortons.md) - 加拿大咖啡连锁，Burger King收购
+- [Burger King](../entities/entity-burger-king.md) - 快餐连锁
+- [Kraft Heinz](../entities/entity-kraft-heinz.md) - 后来的合并公司
 
 ## 关键概念
 
-- [[concept-bolt-on-acquisitions|补强型收购]] - 31项收购，总成本78亿美元
-- [[concept-powerhouse-five|五大金刚]] - 五大非保险核心业务
-- [[concept-service-excellence|服务卓越]] - BNSF改进服务的承诺
-- [[concept-experience-learning|经验学习]] - 投资与商业的双向启发
+- [补强型收购](../concepts/concept-bolt-on-acquisitions.md) - 31项收购，总成本78亿美元
+- [五大金刚](../concepts/concept-powerhouse-five.md) - 五大非保险核心业务
+- [服务卓越](../concepts/concept-service-excellence.md) - BNSF改进服务的承诺
+- [经验学习](../concepts/concept-experience-learning.md) - 投资与商业的双向启发
 
 ## 重要数据
 
@@ -119,9 +119,9 @@ source_url: https://www.berkshirehathaway.com/letters/2014ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2013]]
-- 后一年：[[source-buffett-letters-2015]]
+- 前一年：[source-buffett-letters-2013](./source-buffett-letters-2013.md)
+- 后一年：[source-buffett-letters-2015](./source-buffett-letters-2015.md)
 
 **相关主题**：
-- [[concept-long-term-value|长期价值]]
-- [[concept-berkshire-culture|伯克希尔文化]]
+- [长期价值](../concepts/concept-long-term-value.md)
+- [伯克希尔文化](../concepts/concept-berkshire-culture.md)

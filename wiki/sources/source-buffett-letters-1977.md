@@ -43,7 +43,7 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 **保险业的竞争优势**：
 > "保险公司提供可以被任何人复制的标准化保单。它们的唯一产品是承诺...毫无疑问，保险业务的性质放大了个人管理者对公司业绩的影响。"
 
-这预示了他后来对管理质量和[[concept-economic-moat]]的关注。
+这预示了他后来对管理质量和[concept-economic-moat](../concepts/concept-economic-moat.md)的关注。
 
 ### 投资哲学
 
@@ -114,21 +114,21 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 
 ## 关键实体
 
-- [[entity-national-indemnity|National Indemnity]] - 保险业务基石
-- [[entity-geico|GEICO]] - 主要投资
-- [[entity-washington-post|华盛顿邮报]] - 主要投资
-- [[entity-sees-candies|See's Candies]] - Blue Chip控股子公司
-- [[entity-phil-liesche|Phil Liesche]] - National Indemnity领导人
-- [[entity-gene-abegg|Gene Abegg]] - 伊利诺伊国民银行创始人
-- [[entity-chuck-huggins|Chuck Huggins]] - See's Candies管理者
+- [National Indemnity](../entities/entity-national-indemnity.md) - 保险业务基石
+- [GEICO](../entities/entity-geico.md) - 主要投资
+- [华盛顿邮报](../entities/entity-washington-post.md) - 主要投资
+- [See's Candies](../entities/entity-sees-candies.md) - Blue Chip控股子公司
+- [Phil Liesche](../entities/entity-phil-liesche.md) - National Indemnity领导人
+- [Gene Abegg](../entities/entity-gene-abegg.md) - 伊利诺伊国民银行创始人
+- [Chuck Huggins](../entities/entity-chuck-huggins.md) - See's Candies管理者
 
 ## 关键概念
 
-- [[concept-return-on-equity|股本回报率]] - 核心业绩衡量标准
-- [[concept-float|浮存金]] - 保险作为资本生成引擎
-- [[concept-value-investing|价值投资]] - 长期业务评估
-- [[concept-management-quality|管理质量]] - 个人管理者对结果的影响
-- [[concept-stakeholder-thinking|利益相关者思维]] - 平衡股东回报与社会责任
+- [股本回报率](../concepts/concept-return-on-equity.md) - 核心业绩衡量标准
+- [浮存金](../concepts/concept-float.md) - 保险作为资本生成引擎
+- [价值投资](../concepts/concept-value-investing.md) - 长期业务评估
+- [管理质量](../concepts/concept-management-quality.md) - 个人管理者对结果的影响
+- [利益相关者思维](../concepts/concept-stakeholder-thinking.md) - 平衡股东回报与社会责任
 
 ## 重要数据
 
@@ -146,8 +146,8 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 
 这封信确立了将在巴菲特后续信件中反复出现的主题：
 
-1. **[[concept-float]]关注**：保险作为资本生成引擎
-2. **[[concept-value-investing]]纪律**：长期业务评估
+1. **[concept-float](../concepts/concept-float.md)关注**：保险作为资本生成引擎
+2. **[concept-value-investing](../concepts/concept-value-investing.md)纪律**：长期业务评估
 3. **管理质量**：个人管理者对结果的影响
 4. **诚实自我评估**：承认错误（纺织预测）
 5. **利益相关者思维**：平衡股东回报与社会责任
@@ -169,9 +169,9 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 ---
 
 **相关信件**：
-- 后一年：[[source-buffett-letters-1978]]
+- 后一年：[source-buffett-letters-1978](./source-buffett-letters-1978.md)
 
 **相关主题**：
-- [[concept-float|浮存金]]
-- [[concept-value-investing|价值投资]]
-- [[concept-return-on-equity|股本回报率]]
+- [浮存金](../concepts/concept-float.md)
+- [价值投资](../concepts/concept-value-investing.md)
+- [股本回报率](../concepts/concept-return-on-equity.md)

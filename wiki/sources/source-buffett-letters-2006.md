@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2006
 year: 2006
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -96,17 +96,17 @@ Don Keough的建议：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-productivity|生产力]] - 效率提升
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-capital-allocation|资本配置]] - 资金部署决策
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [生产力](../concepts/concept-productivity.md) - 效率提升
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [资本配置](../concepts/concept-capital-allocation.md) - 资金部署决策
 
 ## 投资理念
 
@@ -157,9 +157,9 @@ Don Keough的建议：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-2005|Letter 2005]]
-- 下一年：[[source-buffett-letters-2007|Letter 2007]]
-- 相关：[[source-buffett-letters-1995|Letter 1995]] - GEICO全资收购
+- 前一年：[Letter 2005](./source-buffett-letters-2005.md)
+- 下一年：[Letter 2007](./source-buffett-letters-2007.md)
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - GEICO全资收购
 
 ## 注释
 

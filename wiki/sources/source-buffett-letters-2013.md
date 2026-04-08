@@ -68,22 +68,22 @@ source_url: https://www.berkshirehathaway.com/letters/2013ltr.pdf
 
 ## 关键实体
 
-- [[entity-nv-energy|NV Energy]] - 内华达州公用事业公司
-- [[entity-heinz|H.J. Heinz]] - 食品公司，与3G Capital联合收购
-- [[entity-3g-capital|3G Capital]] - 巴西私募股权公司，新合作伙伴
-- [[entity-jorge-paulo-lemann|Jorge Paulo Lemann]] - 3G Capital创始人
-- [[entity-iscar|Iscar (IMC)]] - 以色列金属切削工具制造商
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-bnsf|BNSF]] - 伯灵顿北方圣达菲铁路
-- [[entity-berkshire-hathaway-energy|Berkshire Hathaway Energy]] - 公用事业公司
+- [NV Energy](../entities/entity-nv-energy.md) - 内华达州公用事业公司
+- [H.J. Heinz](../entities/entity-heinz.md) - 食品公司，与3G Capital联合收购
+- [3G Capital](../entities/entity-3g-capital.md) - 巴西私募股权公司，新合作伙伴
+- [Jorge Paulo Lemann](../entities/entity-jorge-paulo-lemann.md) - 3G Capital创始人
+- [Iscar (IMC)](../entities/entity-iscar.md) - 以色列金属切削工具制造商
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [BNSF](../entities/entity-bnsf.md) - 伯灵顿北方圣达菲铁路
+- [Berkshire Hathaway Energy](../entities/entity-berkshire-hathaway-energy.md) - 公用事业公司
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 企业真实经济价值vs账面价值
-- [[concept-bolt-on-acquisitions|补强型收购]] - 现有业务的增量收购
-- [[concept-powerhouse-five|五大金刚]] - 五大非保险核心业务
-- [[concept-per-share-growth|每股增长]] - 关注每股收益而非总规模
-- [[concept-partnership-template|合作模板]] - Heinz收购创造的新模式
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实经济价值vs账面价值
+- [补强型收购](../concepts/concept-bolt-on-acquisitions.md) - 现有业务的增量收购
+- [五大金刚](../concepts/concept-powerhouse-five.md) - 五大非保险核心业务
+- [每股增长](../concepts/concept-per-share-growth.md) - 关注每股收益而非总规模
+- [合作模板](../concepts/concept-partnership-template.md) - Heinz收购创造的新模式
 
 ## 重要数据
 
@@ -103,9 +103,9 @@ source_url: https://www.berkshirehathaway.com/letters/2013ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2012]]
-- 后一年：[[source-buffett-letters-2014]]
+- 前一年：[source-buffett-letters-2012](./source-buffett-letters-2012.md)
+- 后一年：[source-buffett-letters-2014](./source-buffett-letters-2014.md)
 
 **相关主题**：
-- [[concept-acquisitions|收购策略]]
-- [[concept-american-optimism|美国乐观主义]]
+- [收购策略](../concepts/concept-acquisitions.md)
+- [美国乐观主义](../concepts/concept-american-optimism.md)

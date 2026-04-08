@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1995
 year: 1995
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -99,19 +99,19 @@ Peter Drucker的观点：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司（全资收购）
-- [[entity-helzbergs|Helzberg's Diamond Shops]] - 海尔兹伯格珠宝店
-- [[entity-rc-willey|R.C. Willey Home Furnishings]] - R.C.威利家具
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-gillette|Gillette]] - 吉列公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司（全资收购）
+- [Helzberg's Diamond Shops](../entities/entity-helzbergs.md) - 海尔兹伯格珠宝店
+- [R.C. Willey Home Furnishings](../entities/entity-rc-willey.md) - R.C.威利家具
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-economic-moat|经济护城河]] - 竞争优势
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [经济护城河](../concepts/concept-economic-moat.md) - 竞争优势
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -159,10 +159,10 @@ Peter Drucker的观点：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1994|Letter 1994]]
-- 下一年：[[source-buffett-letters-1996|Letter 1996]]
-- 相关：[[source-buffett-letters-1976|Letter 1976]] - GEICO首次重要投资
-- 相关：[[source-buffett-letters-1951|Letter 1951]] - 首次买入GEICO（历史）
+- 前一年：[Letter 1994](./source-buffett-letters-1994.md)
+- 下一年：[Letter 1996](./source-buffett-letters-1996.md)
+- 相关：[Letter 1976](./source-buffett-letters-1976.md) - GEICO首次重要投资
+- 相关：[Letter 1951](./source-buffett-letters-1951.md) - 首次买入GEICO（历史）
 
 ## 注释
 

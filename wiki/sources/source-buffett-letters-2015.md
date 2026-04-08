@@ -79,19 +79,19 @@ source_url: https://www.berkshirehathaway.com/letters/2015ltr.pdf
 
 ## 关键实体
 
-- [[entity-precision-castparts|Precision Castparts]] - 航空航天零部件制造商
-- [[entity-kraft-heinz|Kraft Heinz]] - 食品公司合并
-- [[entity-mark-donegan|Mark Donegan]] - PCC CEO
-- [[entity-jacob-harpaz|Jacob Harpaz]] - IMC CEO
-- [[entity-matt-rose|Matt Rose]] - BNSF CEO
-- [[entity-carl-ice|Carl Ice]] - BNSF总裁
+- [Precision Castparts](../entities/entity-precision-castparts.md) - 航空航天零部件制造商
+- [Kraft Heinz](../entities/entity-kraft-heinz.md) - 食品公司合并
+- [Mark Donegan](../entities/entity-mark-donegan.md) - PCC CEO
+- [Jacob Harpaz](../entities/entity-jacob-harpaz.md) - IMC CEO
+- [Matt Rose](../entities/entity-matt-rose.md) - BNSF CEO
+- [Carl Ice](../entities/entity-carl-ice.md) - BNSF总裁
 
 ## 关键概念
 
-- [[concept-powerhouse-six|六大金刚]] - 从五大金刚升级
-- [[concept-renewable-energy|可再生能源]] - 公用事业的领导地位
-- [[concept-service-improvement|服务改进]] - BNSF的卓越改进
-- [[concept-large-acquisitions|大型收购]] - PCC收购策略
+- [六大金刚](../concepts/concept-powerhouse-six.md) - 从五大金刚升级
+- [可再生能源](../concepts/concept-renewable-energy.md) - 公用事业的领导地位
+- [服务改进](../concepts/concept-service-improvement.md) - BNSF的卓越改进
+- [大型收购](../concepts/concept-large-acquisitions.md) - PCC收购策略
 
 ## 重要数据
 
@@ -121,9 +121,9 @@ source_url: https://www.berkshirehathaway.com/letters/2015ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2014]]
-- 后一年：[[source-buffett-letters-2016]]
+- 前一年：[source-buffett-letters-2014](./source-buffett-letters-2014.md)
+- 后一年：[source-buffett-letters-2016](./source-buffett-letters-2016.md)
 
 **相关主题**：
-- [[concept-acquisition-integration|收购整合]]
-- [[concept-renewable-investment|可再生能源投资]]
+- [收购整合](../concepts/concept-acquisition-integration.md)
+- [可再生能源投资](../concepts/concept-renewable-investment.md)

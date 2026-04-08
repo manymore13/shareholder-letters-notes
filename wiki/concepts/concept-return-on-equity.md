@@ -4,7 +4,7 @@
 
 ## 概述
 
-股本回报率（Return on Equity，ROE）是衡量公司为股东创造价值能力的关键财务指标。这是巴菲特评估管理层经济表现最重要的指标之一，也是 [[concept-value-investing]] 中的核心概念。
+股本回报率（Return on Equity，ROE）是衡量公司为股东创造价值能力的关键财务指标。这是巴菲特评估管理层经济表现最重要的指标之一，也是 [concept-value-investing](./concept-value-investing.md) 中的核心概念。
 
 **类型**：财务指标  
 **类别**：盈利能力  
@@ -114,7 +114,7 @@ $$ROE = \frac{净收益}{期初股东权益}$$
 
 ---
 
-## ROE 与 [[concept-intrinsic-value]]
+## ROE 与 [concept-intrinsic-value](./concept-intrinsic-value.md)
 
 ### ROE 是内在价值的信号
 
@@ -226,10 +226,10 @@ $$ROIC = \frac{净营业利润（NOPAT）}{投入资本}$$
 
 ## 相关概念
 
-- [[concept-value-investing]]：价值投资框架
-- [[concept-intrinsic-value]]：内在价值
-- [[concept-owner-earnings]]：所有者收益
-- [[entity-berkshire-hathaway]]：伯克希尔哈撒韦
+- [concept-value-investing](./concept-value-investing.md)：价值投资框架
+- [concept-intrinsic-value](./concept-intrinsic-value.md)：内在价值
+- [concept-owner-earnings](./concept-owner-earnings.md)：所有者收益
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)：伯克希尔哈撒韦
 
 ---
 
@@ -237,7 +237,7 @@ $$ROIC = \frac{净营业利润（NOPAT）}{投入资本}$$
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[entity-berkshire-hathaway]]，[[concept-value-investing]]，[[concept-intrinsic-value]]
+**相关页面**：[entity-warren-buffett](../entities/entity-warren-buffett.md)，[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)，[concept-value-investing](./concept-value-investing.md)，[concept-intrinsic-value](./concept-intrinsic-value.md)
 
 ---
 

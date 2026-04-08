@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1996
 year: 1996
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -76,7 +76,7 @@ Al Ueltschi：
 
 ### 4. 保险浮存金
 
-深入讨论[[concept-float|浮存金]]：
+深入讨论[浮存金](../concepts/concept-float.md)：
 - 1996年浮存金：67.02亿美元
 - 成本：负（承保盈利）
 - 1967年以来年复合增长率：22.3%
@@ -117,19 +117,19 @@ Al Ueltschi：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-flightsafety|FlightSafety International]] - 飞行安全国际
-- [[entity-kansas-bankers-surety|Kansas Bankers Surety]] - 堪萨斯银行家保险
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-gillette|Gillette]] - 吉列公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [FlightSafety International](../entities/entity-flightsafety.md) - 飞行安全国际
+- [Kansas Bankers Surety](../entities/entity-kansas-bankers-surety.md) - 堪萨斯银行家保险
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-margin-of-safety|安全边际]] - 价格保护
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [安全边际](../concepts/concept-margin-of-safety.md) - 价格保护
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -186,9 +186,9 @@ Al Ueltschi：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1995|Letter 1995]]
-- 下一年：[[source-buffett-letters-1997|Letter 1997]]
-- 相关：[[source-buffett-letters-1995|Letter 1995]] - GEICO全资收购
+- 前一年：[Letter 1995](./source-buffett-letters-1995.md)
+- 下一年：[Letter 1997](./source-buffett-letters-1997.md)
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - GEICO全资收购
 
 ## 注释
 

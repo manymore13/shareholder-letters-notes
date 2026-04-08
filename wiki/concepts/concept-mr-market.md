@@ -4,7 +4,7 @@
 
 ## 概述
 
-"市场先生"是 **[[entity-benjamin-graham]]** 提出的著名投资隐喻，是 [[concept-value-investing]] 理论的核心组成部分。这个概念帮助投资者理解市场波动的本质，避免被情绪左右投资决策。
+"市场先生"是 **[entity-benjamin-graham](../entities/entity-benjamin-graham.md)** 提出的著名投资隐喻，是 [concept-value-investing](./concept-value-investing.md) 理论的核心组成部分。这个概念帮助投资者理解市场波动的本质，避免被情绪左右投资决策。
 
 **类型**：概念 / 投资心理学  
 **类别**：市场心理  
@@ -58,7 +58,7 @@
 
 ---
 
-## 与 [[entity-warren-buffett]] 的关系
+## 与 [entity-warren-buffett](../entities/entity-warren-buffett.md) 的关系
 
 ### 巴菲特的发展
 
@@ -148,14 +148,14 @@
 
 ## 与其他概念的关系
 
-### [[concept-value-investing]]
+### [concept-value-investing](./concept-value-investing.md)
 
 市场先生是价值投资的基础：
 - **内在价值**：你的投资决策依据
 - **安全边际**：对市场错误的保护
 - **逆向投资**：利用非理性价格
 
-### [[concept-intrinsic-value]]
+### [concept-intrinsic-value](./concept-intrinsic-value.md)
 
 - 内在价值是评估市场先生报价的标准
 - 只有知道价值，才能判断高估还是低估
@@ -204,11 +204,11 @@
 
 ## 相关概念
 
-- [[concept-value-investing]]：价值投资框架
-- [[concept-margin-of-safety]]：安全边际
-- [[concept-intrinsic-value]]：内在价值
-- [[entity-benjamin-graham]]：概念创始人
-- [[entity-warren-buffett]]：概念发展者
+- [concept-value-investing](./concept-value-investing.md)：价值投资框架
+- [concept-margin-of-safety](./concept-margin-of-safety.md)：安全边际
+- [concept-intrinsic-value](./concept-intrinsic-value.md)：内在价值
+- [entity-benjamin-graham](../entities/entity-benjamin-graham.md)：概念创始人
+- [entity-warren-buffett](../entities/entity-warren-buffett.md)：概念发展者
 
 ---
 
@@ -216,7 +216,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-benjamin-graham]]，[[entity-warren-buffett]]，[[concept-value-investing]]，[[concept-intrinsic-value]]
+**相关页面**：[entity-benjamin-graham](../entities/entity-benjamin-graham.md)，[entity-warren-buffett](../entities/entity-warren-buffett.md)，[concept-value-investing](./concept-value-investing.md)，[concept-intrinsic-value](./concept-intrinsic-value.md)
 
 ---
 

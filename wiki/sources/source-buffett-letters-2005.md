@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2005
 year: 2005
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -116,18 +116,18 @@ Tony Nicely的领导：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-medical-protective|Medical Protective]] - 医疗保护公司
-- [[entity-forest-river|Forest River]] - 森河房车
-- [[entity-business-wire|Business Wire]] - 商业电讯
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Medical Protective](../entities/entity-medical-protective.md) - 医疗保护公司
+- [Forest River](../entities/entity-forest-river.md) - 森河房车
+- [Business Wire](../entities/entity-business-wire.md) - 商业电讯
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-productivity|生产力]] - 效率提升
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [生产力](../concepts/concept-productivity.md) - 效率提升
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -174,9 +174,9 @@ Tony Nicely的领导：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-2004|Letter 2004]]
-- 下一年：[[source-buffett-letters-2006|Letter 2006]]
-- 相关：[[source-buffett-letters-1995|Letter 1995]] - GEICO全资收购
+- 前一年：[Letter 2004](./source-buffett-letters-2004.md)
+- 下一年：[Letter 2006](./source-buffett-letters-2006.md)
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - GEICO全资收购
 
 ## 注释
 

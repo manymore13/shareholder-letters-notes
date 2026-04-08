@@ -120,21 +120,21 @@
 
 ## 相关实体
 
-- [[entity-bnsf|Burlington Northern Santa Fe]] - 铁路公司，2010年完成收购
-- [[entity-geico|GEICO]] - 汽车保险子公司
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 母公司
+- [Burlington Northern Santa Fe](../entities/entity-bnsf.md) - 铁路公司，2010年完成收购
+- [GEICO](../entities/entity-geico.md) - 汽车保险子公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
 
 ## 相关概念
 
-- [[concept-normal-earning-power|正常盈利能力]] - 估算基准
-- [[concept-capital-intensity|资本密集度]] - 投资需求特征
-- [[concept-five-year-periods|五年周期]] - 业绩评估方法
-- [[concept-american-optimism|美国乐观主义]] - 长期经济信心
+- [正常盈利能力](../concepts/concept-normal-earning-power.md) - 估算基准
+- [资本密集度](../concepts/concept-capital-intensity.md) - 投资需求特征
+- [五年周期](../concepts/concept-five-year-periods.md) - 业绩评估方法
+- [美国乐观主义](../concepts/concept-american-optimism.md) - 长期经济信心
 
 ## 引用与链接
 
-**前一年**: [[source-buffett-letters-2009|Letter 2009]]
-**后一年**: [[source-buffett-letters-2011|Letter 2011]]
+**前一年**: [Letter 2009](./source-buffett-letters-2009.md)
+**后一年**: [Letter 2011](./source-buffett-letters-2011.md)
 
 ---
 *创建日期: 2026-04-08*

@@ -91,16 +91,16 @@ source_url: https://www.berkshirehathaway.com/letters/2021ltr.pdf
 
 ## 关键实体
 
-- [[entity-berkshire-fine-spinning|Berkshire Fine Spinning]] - 1955年合并前
-- [[entity-hathaway-manufacturing|Hathaway Manufacturing]] - 1955年合并前
-- [[entity-lehman-brothers|Lehman Brothers]] - 1955年合并顾问
+- [Berkshire Fine Spinning](../entities/entity-berkshire-fine-spinning.md) - 1955年合并前
+- [Hathaway Manufacturing](../entities/entity-hathaway-manufacturing.md) - 1955年合并前
+- [Lehman Brothers](../entities/entity-lehman-brothers.md) - 1955年合并顾问
 
 ## 关键概念
 
-- [[concept-infrastructure-assets|基础设施资产]] - 伯克希尔的真正规模
-- [[concept-business-pickers|业务选择者]] - 非股票选择者
-- [[concept-tax-partnership|税收伙伴关系]] - 政府与企业
-- [[concept-creative-destruction|创造性破坏]] - Schumpeter理论
+- [基础设施资产](../concepts/concept-infrastructure-assets.md) - 伯克希尔的真正规模
+- [业务选择者](../concepts/concept-business-pickers.md) - 非股票选择者
+- [税收伙伴关系](../concepts/concept-tax-partnership.md) - 政府与企业
+- [创造性破坏](../concepts/concept-creative-destruction.md) - Schumpeter理论
 
 ## 重要数据
 
@@ -149,9 +149,9 @@ source_url: https://www.berkshirehathaway.com/letters/2021ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2020]]
-- 后一年：[[source-buffett-letters-2022]]
+- 前一年：[source-buffett-letters-2020](./source-buffett-letters-2020.md)
+- 后一年：[source-buffett-letters-2022](./source-buffett-letters-2022.md)
 
 **相关主题**：
-- [[concept-american-business|美国商业]]
-- [[concept-shareholder-culture|股东文化]]
+- [美国商业](../concepts/concept-american-business.md)
+- [股东文化](../concepts/concept-shareholder-culture.md)

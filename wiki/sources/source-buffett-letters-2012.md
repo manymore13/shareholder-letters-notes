@@ -175,31 +175,31 @@
 
 ## 相关实体
 
-- [[entity-heinz|H.J. Heinz]] - 食品公司，2013年收购
-- [[entity-bnsf|Burlington Northern Santa Fe]] - 铁路公司
-- [[entity-iscar|Iscar]] - 金属切削工具制造商
-- [[entity-lubrizol|Lubrizol]] - 特种化学品公司
-- [[entity-marmon-group|Marmon Group]] - 工业集团
-- [[entity-midamerican-energy|MidAmerican Energy]] - 公用事业
-- [[entity-geico|GEICO]] - 汽车保险公司
-- [[entity-american-express|American Express]] - 金融服务业持股
-- [[entity-coca-cola|Coca-Cola]] - 消费品持股
-- [[entity-ibm|IBM]] - 科技公司持股
-- [[entity-wells-fargo|Wells Fargo]] - 银行持股
+- [H.J. Heinz](../entities/entity-heinz.md) - 食品公司，2013年收购
+- [Burlington Northern Santa Fe](../entities/entity-bnsf.md) - 铁路公司
+- [Iscar](../entities/entity-iscar.md) - 金属切削工具制造商
+- [Lubrizol](../entities/entity-lubrizol.md) - 特种化学品公司
+- [Marmon Group](../entities/entity-marmon-group.md) - 工业集团
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 公用事业
+- [GEICO](../entities/entity-geico.md) - 汽车保险公司
+- [American Express](../entities/entity-american-express.md) - 金融服务业持股
+- [Coca-Cola](../entities/entity-coca-cola.md) - 消费品持股
+- [IBM](../entities/entity-ibm.md) - 科技公司持股
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 银行持股
 
 ## 相关概念
 
-- [[concept-per-share-growth|每股增长]] - 核心目标
-- [[concept-buy-and-hold|买入持有]] - 投资哲学
-- [[concept-bolt-on-acquisitions|补强型收购]] - 增长策略
-- [[concept-insurance-float|保险浮存金]] - 免费资本来源
-- [[concept-underwriting-profit|承保盈利]] - 保险业务卓越
-- [[concept-capital-allocation|资本配置]] - 管理层核心职责
+- [每股增长](../concepts/concept-per-share-growth.md) - 核心目标
+- [买入持有](../concepts/concept-buy-and-hold.md) - 投资哲学
+- [补强型收购](../concepts/concept-bolt-on-acquisitions.md) - 增长策略
+- [保险浮存金](../concepts/concept-insurance-float.md) - 免费资本来源
+- [承保盈利](../concepts/concept-underwriting-profit.md) - 保险业务卓越
+- [资本配置](../concepts/concept-capital-allocation.md) - 管理层核心职责
 
 ## 引用与链接
 
-**前一年**: [[source-buffett-letters-2011|Letter 2011]]
-**后一年**: [[source-buffett-letters-2013|Letter 2013]]
+**前一年**: [Letter 2011](./source-buffett-letters-2011.md)
+**后一年**: [Letter 2013](./source-buffett-letters-2013.md)
 
 ---
 *创建日期: 2026-04-08*

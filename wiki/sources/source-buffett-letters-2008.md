@@ -137,23 +137,23 @@ Charlie和巴菲特专注于四个目标：
 
 ## 相关实体
 
-- [[entity-marmon-group|Marmon Group]] - 2008年收购完成
-- [[entity-midamerican-energy|MidAmerican Energy]] - 公用事业业务
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 母公司
-- [[entity-wrigley|Wrigley]] - 协助收购的企业
+- [Marmon Group](../entities/entity-marmon-group.md) - 2008年收购完成
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 公用事业业务
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
+- [Wrigley](../entities/entity-wrigley.md) - 协助收购的企业
 
 ## 相关概念
 
-- [[concept-financial-strength|财务实力]] - 直布罗陀般的财务地位
-- [[concept-moat|经济护城河]] - 持久竞争优势
-- [[concept-float|保险浮存金]] - 免费资本来源
-- [[concept-margin-of-safety|安全边际]] - Ben Graham理论
-- [[concept-american-resilience|美国韧性]] - 经济系统长期活力
+- [财务实力](../concepts/concept-financial-strength.md) - 直布罗陀般的财务地位
+- [经济护城河](../concepts/concept-moat.md) - 持久竞争优势
+- [保险浮存金](../concepts/concept-float.md) - 免费资本来源
+- [安全边际](../concepts/concept-margin-of-safety.md) - Ben Graham理论
+- [美国韧性](../concepts/concept-american-resilience.md) - 经济系统长期活力
 
 ## 引用与链接
 
-**前一年**: [[source-buffett-letters-2007|Letter 2007]]
-**后一年**: [[source-buffett-letters-2009|Letter 2009]]
+**前一年**: [Letter 2007](./source-buffett-letters-2007.md)
+**后一年**: [Letter 2009](./source-buffett-letters-2009.md)
 
 ---
 *创建日期: 2026-04-08*

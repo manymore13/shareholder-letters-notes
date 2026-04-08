@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2004
 year: 2004
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -91,17 +91,17 @@ HomeServices of America：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-midamerican-energy|MidAmerican Energy]] - 中美能源
-- [[entity-homeservices|HomeServices of America]] - 美国家庭服务
-- [[entity-geico|GEICO]] - 政府雇员保险公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 中美能源
+- [HomeServices of America](../entities/entity-homeservices.md) - 美国家庭服务
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
 
 ## 关键概念
 
-- [[concept-capital-allocation|资本配置]] - 资金部署决策
-- [[concept-simple-business|简单业务]] - 避免复杂性
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [资本配置](../concepts/concept-capital-allocation.md) - 资金部署决策
+- [简单业务](../concepts/concept-simple-business.md) - 避免复杂性
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -147,9 +147,9 @@ HomeServices of America：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-2003|Letter 2003]]
-- 下一年：[[source-buffett-letters-2005|Letter 2005]]
-- 相关：[[source-buffett-letters-2000|Letter 2000]] - 公用事业投资
+- 前一年：[Letter 2003](./source-buffett-letters-2003.md)
+- 下一年：[Letter 2005](./source-buffett-letters-2005.md)
+- 相关：[Letter 2000](./source-buffett-letters-2000.md) - 公用事业投资
 
 ## 注释
 

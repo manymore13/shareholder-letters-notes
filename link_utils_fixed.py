@@ -139,7 +139,12 @@ class PathCalculator:
             # 无法识别类型，返回默认路径
             return f"./{target_link_name}.md"
         
-        # 直接使用手动计算相对路径
+        # 构建目标文件的完整路径
+        wiki_dir = source_file.parent.parent if source_file.parent.name in ['entities', 'concepts', 'sources'] else source_file.parent
+        target_file = wiki_dir / link_type / f"{target_link_name}.md"
+        
+        # 计算相对路径
+        # 直接使用手动计算，更可靠
         return PathCalculator._manual_relative_path(source_file, link_type, target_link_name)
     
     @staticmethod
@@ -149,7 +154,7 @@ class PathCalculator:
         target_link_name: str
     ) -> str:
         """
-        手动计算相对路径
+        手动计算相对路径（回退方案）
         
         Args:
             source_file: 源文件路径
@@ -161,11 +166,8 @@ class PathCalculator:
         """
         source_dir = source_file.parent
         
-        # 判断源文件是否在 wiki 根目录
-        in_wiki_root = source_dir.name not in ['entities', 'concepts', 'sources']
-        
-        # 情况1: 源文件在 wiki 根目录（如 index.md, about.md）
-        if in_wiki_root:
+        # 情况1: 源文件在 wiki 根目录（如 index.md）
+        if source_dir.name == 'wiki' or (source_dir.parent.name == '' and source_dir.name != 'entities' and source_dir.name != 'concepts' and source_dir.name != 'sources'):
             return f"./{link_type}/{target_link_name}.md"
         
         # 情况2: 源文件在子目录（entities/concepts/sources）
@@ -313,3 +315,7 @@ def count_obsidian_links(content: str) -> int:
         链接数量
     """
     return len(re.findall(LinkParser.PATTERN, content))
+
+
+# 导入 os 模块（用于 relpath）
+import os

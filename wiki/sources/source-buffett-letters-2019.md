@@ -93,17 +93,17 @@ source_url: https://www.berkshirehathaway.com/letters/2019ltr.pdf
 
 ## 关键实体
 
-- [[entity-edgar-lawrence-smith|Edgar Lawrence Smith]] - 1924年《Common Stocks as Long Term Investments》作者
-- [[entity-john-maynard-keynes|John Maynard Keynes]] - 经济学家，支持Smith理论
-- [[entity-coca-cola|Coca-Cola]] - 25年股息增长典范
-- [[entity-american-express|American Express]] - 另一个长期持股成功案例
+- [Edgar Lawrence Smith](../entities/entity-edgar-lawrence-smith.md) - 1924年《Common Stocks as Long Term Investments》作者
+- [John Maynard Keynes](../entities/entity-john-maynard-keynes.md) - 经济学家，支持Smith理论
+- [Coca-Cola](../entities/entity-coca-cola.md) - 25年股息增长典范
+- [American Express](../entities/entity-american-express.md) - 另一个长期持股成功案例
 
 ## 关键概念
 
-- [[concept-retained-earnings|留存收益]] - 复利增长的核心引擎
-- [[concept-compound-interest|复利]] - "储蓄+复利=奇迹"
-- [[concept-long-term-holding|长期持股]] - 耐心等待价值实现
-- [[concept-dividend-growth|股息增长]] - 持续增长的现金流
+- [留存收益](../concepts/concept-retained-earnings.md) - 复利增长的核心引擎
+- [复利](../concepts/concept-compound-interest.md) - "储蓄+复利=奇迹"
+- [长期持股](../concepts/concept-long-term-holding.md) - 耐心等待价值实现
+- [股息增长](../concepts/concept-dividend-growth.md) - 持续增长的现金流
 
 ## 重要数据
 
@@ -136,9 +136,9 @@ source_url: https://www.berkshirehathaway.com/letters/2019ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2018]]
-- 后一年：[[source-buffett-letters-2020]]
+- 前一年：[source-buffett-letters-2018](./source-buffett-letters-2018.md)
+- 后一年：[source-buffett-letters-2020](./source-buffett-letters-2020.md)
 
 **相关主题**：
-- [[concept-value-creation|价值创造]]
-- [[concept-investment-philosophy|投资哲学]]
+- [价值创造](../concepts/concept-value-creation.md)
+- [投资哲学](../concepts/concept-investment-philosophy.md)

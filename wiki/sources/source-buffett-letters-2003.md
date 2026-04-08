@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2003
 year: 2003
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -78,18 +78,18 @@ Clayton的优势：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-clayton-homes|Clayton Homes]] - 克莱顿家园
-- [[entity-oakwood-homes|Oakwood Homes]] - 橡木家园（投资失败案例）
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Clayton Homes](../entities/entity-clayton-homes.md) - 克莱顿家园
+- [Oakwood Homes](../entities/entity-oakwood-homes.md) - 橡木家园（投资失败案例）
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 未来现金流折现
-- [[concept-margin-of-safety|安全边际]] - 价格保护
-- [[concept-capital-allocation|资本配置]] - 资金部署决策
-- [[concept-value-investing|价值投资]] - 价值投资理念
+- [内在价值](../concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [安全边际](../concepts/concept-margin-of-safety.md) - 价格保护
+- [资本配置](../concepts/concept-capital-allocation.md) - 资金部署决策
+- [价值投资](../concepts/concept-value-investing.md) - 价值投资理念
 
 ## 投资理念
 
@@ -133,9 +133,9 @@ Clayton的优势：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-2002|Letter 2002]]（缺失）
-- 下一年：[[source-buffett-letters-2004|Letter 2004]]
-- 相关：[[source-buffett-letters-2003|Letter 2003]] - Clayton收购
+- 前一年：[Letter 2002](./source-buffett-letters-2002.md)（缺失）
+- 下一年：[Letter 2004](./source-buffett-letters-2004.md)
+- 相关：[Letter 2003](./source-buffett-letters-2003.md) - Clayton收购
 
 ## 注释
 

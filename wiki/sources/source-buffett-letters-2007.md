@@ -92,23 +92,23 @@
 
 ## 相关实体
 
-- [[entity-marmon-group|Marmon Group]] - 工业集团，2007年收购
-- [[entity-tti|TTI Industries]] - 电子元器件分销商，2007年收购
-- [[entity-iscar|Iscar]] - 金属切削工具制造商
-- [[entity-wells-fargo|Wells Fargo]] - 银行业投资
-- [[entity-pritzker-family|Pritzker Family]] - Marmon集团前所有者
+- [Marmon Group](../entities/entity-marmon-group.md) - 工业集团，2007年收购
+- [TTI Industries](../entities/entity-tti.md) - 电子元器件分销商，2007年收购
+- [Iscar](../entities/entity-iscar.md) - 金属切削工具制造商
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 银行业投资
+- [Pritzker Family](../entities/entity-pritzker-family.md) - Marmon集团前所有者
 
 ## 相关概念
 
-- [[concept-yardsticks|双重价值衡量标准]] - 投资与非保险业务收益
-- [[concept-managerial-culture|管理文化]] - 独特的经理人结构
-- [[concept-float|保险浮存金]] - 免费投资资金
-- [[concept-scale-challenge|规模挑战]] - 大规模资金对收益的影响
+- [双重价值衡量标准](../concepts/concept-yardsticks.md) - 投资与非保险业务收益
+- [管理文化](../concepts/concept-managerial-culture.md) - 独特的经理人结构
+- [保险浮存金](../concepts/concept-float.md) - 免费投资资金
+- [规模挑战](../concepts/concept-scale-challenge.md) - 大规模资金对收益的影响
 
 ## 引用与链接
 
-**前一年**: [[source-buffett-letters-2006|Letter 2006]]
-**后一年**: [[source-buffett-letters-2008|Letter 2008]]
+**前一年**: [Letter 2006](./source-buffett-letters-2006.md)
+**后一年**: [Letter 2008](./source-buffett-letters-2008.md)
 
 ---
 *创建日期: 2026-04-08*

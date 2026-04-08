@@ -4,7 +4,7 @@
 
 ## 概述
 
-浮存金是保险行业特有的资本来源，指保险公司在赔付损失之前持有投保人缴纳的保费。这是 **[[entity-warren-buffett]]** 和 **[[entity-berkshire-hathaway]]** 投资帝国的核心资金来源。
+浮存金是保险行业特有的资本来源，指保险公司在赔付损失之前持有投保人缴纳的保费。这是 **[entity-warren-buffett](../entities/entity-warren-buffett.md)** 和 **[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)** 投资帝国的核心资金来源。
 
 **类型**：概念 / 金融工具  
 **类别**：保险金融  
@@ -84,7 +84,7 @@
 
 ---
 
-## 浮存金与 [[concept-value-investing]]
+## 浮存金与 [concept-value-investing](./concept-value-investing.md)
 
 ### 资本配置的灵活性
 
@@ -235,12 +235,12 @@
 
 ## 相关概念
 
-- [[concept-value-investing]]：价值投资框架
-- [[concept-economic-moat]]：竞争优势分析
-- [[concept-intrinsic-value]]：内在价值评估
-- [[entity-geico]]：GEICO 保险
-- [[entity-national-indemnity]]：国家伤亡保险公司
-- [[entity-berkshire-hathaway]]：伯克希尔哈撒韦
+- [concept-value-investing](./concept-value-investing.md)：价值投资框架
+- [concept-economic-moat](./concept-economic-moat.md)：竞争优势分析
+- [concept-intrinsic-value](./concept-intrinsic-value.md)：内在价值评估
+- [entity-geico](../entities/entity-geico.md)：GEICO 保险
+- [entity-national-indemnity](../entities/entity-national-indemnity.md)：国家伤亡保险公司
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)：伯克希尔哈撒韦
 
 ---
 
@@ -248,7 +248,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[entity-berkshire-hathaway]]，[[entity-geico]]，[[concept-value-investing]]，[[concept-economic-moat]]
+**相关页面**：[entity-warren-buffett](../entities/entity-warren-buffett.md)，[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)，[entity-geico](../entities/entity-geico.md)，[concept-value-investing](./concept-value-investing.md)，[concept-economic-moat](./concept-economic-moat.md)
 
 ---
 

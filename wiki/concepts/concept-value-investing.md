@@ -4,7 +4,7 @@
 
 ## 概述
 
-价值投资是一种投资理念，通过某种形式的基本面分析购买被低估的证券。这一方法由 **[[entity-benjamin-graham]]** 系统性地发展，后由 **[[entity-warren-buffett]]** 进一步完善，成为其最著名的实践者。
+价值投资是一种投资理念，通过某种形式的基本面分析购买被低估的证券。这一方法由 **[entity-benjamin-graham](../entities/entity-benjamin-graham.md)** 系统性地发展，后由 **[entity-warren-buffett](../entities/entity-warren-buffett.md)** 进一步完善，成为其最著名的实践者。
 
 **类型**：理论 / 投资理念  
 **类别**：投资策略  
@@ -47,9 +47,9 @@
 
 ## 关键概念
 
-### [[concept-economic-moat|经济护城河]]
+### [经济护城河](./concept-economic-moat.md)
 
-[[entity-warren-buffett]] 推广了这一概念——保护企业免受竞争对手侵害的竞争优势，就像中世纪城堡的护城河一样。
+[entity-warren-buffett](../entities/entity-warren-buffett.md) 推广了这一概念——保护企业免受竞争对手侵害的竞争优势，就像中世纪城堡的护城河一样。
 
 护城河的类型：
 - **无形资产**：品牌、专利、监管许可
@@ -58,7 +58,7 @@
 - **网络效应**：用户越多，价值越高
 - **有效规模**：市场只能支持一个有效参与者
 
-### [[concept-float|浮存金]]
+### [浮存金](./concept-float.md)
 
 保险浮存金（投保人浮存金）代表保险公司在赔付前持有的资金。巴菲特利用这些低成本资本进行投资。
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 来自 [[entity-warren-buffett]] 的名言
+## 来自 [entity-warren-buffett](../entities/entity-warren-buffett.md) 的名言
 
 > "价格是你付出的，价值是你得到的。"
 
@@ -134,10 +134,10 @@
 
 ## 相关概念
 
-- [[concept-economic-moat]]：竞争优势
-- [[concept-float]]：保险浮存金
-- [[entity-benjamin-graham]]：价值投资之父
-- [[entity-warren-buffett]]：现代价值投资大师
+- [concept-economic-moat](./concept-economic-moat.md)：竞争优势
+- [concept-float](./concept-float.md)：保险浮存金
+- [entity-benjamin-graham](../entities/entity-benjamin-graham.md)：价值投资之父
+- [entity-warren-buffett](../entities/entity-warren-buffett.md)：现代价值投资大师
 
 ---
 
@@ -145,7 +145,7 @@
 
 - 《证券分析》—— 本杰明·格雷厄姆和戴维·多德（1934年）
 - 《聪明的投资者》—— 本杰明·格雷厄姆（1949年）
-- [[source-buffett-letters]]：巴菲特关于投资理念的信件
+- [source-buffett-letters](../sources/source-buffett-letters.md)：巴菲特关于投资理念的信件
 
 ---
 
@@ -168,7 +168,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[entity-benjamin-graham]]，[[entity-berkshire-hathaway]]，[[concept-economic-moat]]，[[concept-float]]
+**相关页面**：[entity-warren-buffett](../entities/entity-warren-buffett.md)，[entity-benjamin-graham](../entities/entity-benjamin-graham.md)，[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)，[concept-economic-moat](./concept-economic-moat.md)，[concept-float](./concept-float.md)
 
 ---
 

@@ -22,8 +22,8 @@ source_file: raw/books/html/1982_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1983年3月1日  
 **源文件**: `raw/books/html/1982_buffett_letter.html`  
-**作者**: [[entity-warren-buffett]]  
-**机构**: [[entity-berkshire-hathaway]]
+**作者**: [entity-warren-buffett](../entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -89,15 +89,15 @@ source_file: raw/books/html/1982_buffett_letter.html
 ### 提到的实体
 
 #### 组织
-- [[entity-berkshire-hathaway]] - 母公司
-- [[entity-geico]] - 主要投资对象
-- [[entity-washington-post]] - 主要投资对象
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-geico](../entities/entity-geico.md) - 主要投资对象
+- [entity-washington-post](../entities/entity-washington-post.md) - 主要投资对象
 
 ### 讨论的概念
 
-- [[concept-undistributed-earnings]] - 未分配收益，保留利润的价值
-- [[concept-retained-earnings]] - 留存收益，企业保留的利润
-- [[concept-stock-dilution]] - 股票稀释，发行新股对现有股东的影响
+- [concept-undistributed-earnings](../concepts/concept-undistributed-earnings.md) - 未分配收益，保留利润的价值
+- [concept-retained-earnings](../concepts/concept-retained-earnings.md) - 留存收益，企业保留的利润
+- [concept-stock-dilution](../concepts/concept-stock-dilution.md) - 股票稀释，发行新股对现有股东的影响
 
 ### 数据/统计
 
@@ -110,12 +110,12 @@ source_file: raw/books/html/1982_buffett_letter.html
 
 ### 建立基础
 
-- [[source-buffett-letters-1981]] - 前一年讨论收购原则
+- [source-buffett-letters-1981](./source-buffett-letters-1981.md) - 前一年讨论收购原则
 
 ### 相关内容
 
-- [[concept-intrinsic-value]] - 未分配收益反映内在价值
-- [[concept-capital-allocation]] - 资本配置决定保留利润的价值
+- [concept-intrinsic-value](../concepts/concept-intrinsic-value.md) - 未分配收益反映内在价值
+- [concept-capital-allocation](../concepts/concept-capital-allocation.md) - 资本配置决定保留利润的价值
 
 ---
 
@@ -134,7 +134,7 @@ source_file: raw/books/html/1982_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [[entity-warren-buffett]], [[entity-berkshire-hathaway]], [[concept-undistributed-earnings]]
+**相关页面**: [entity-warren-buffett](../entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md), [concept-undistributed-earnings](../concepts/concept-undistributed-earnings.md)
 
 ---
 

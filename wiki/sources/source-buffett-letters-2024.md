@@ -129,19 +129,19 @@ source_url: https://www.berkshirehathaway.com/letters/2024ltr.pdf
 
 ## 关键实体
 
-- [[entity-pete-liegl|Pete Liegl]] - Forest River创始人，1944-2024
-- [[entity-forest-river|Forest River]] - 房车制造商
-- [[entity-greg-abel|Greg Abel]] - 即将接任的CEO
-- [[entity-todd-combs|Todd Combs]] - GEICO改革者
-- [[entity-apple|Apple]] - 最大股票持仓
-- [[entity-moodys|Moody's]] - 主要持股
+- [Pete Liegl](../entities/entity-pete-liegl.md) - Forest River创始人，1944-2024
+- [Forest River](../entities/entity-forest-river.md) - 房车制造商
+- [Greg Abel](../entities/entity-greg-abel.md) - 即将接任的CEO
+- [Todd Combs](../entities/entity-todd-combs.md) - GEICO改革者
+- [Apple](../entities/entity-apple.md) - 最大股票持仓
+- [Moody's](../entities/entity-moodys.md) - 主要持股
 
 ## 关键概念
 
-- [[concept-mistake-culture|错误文化]] - 坦率承认和快速纠正
-- [[concept-tax-record|税收记录]] - 268亿美元的历史记录
-- [[concept-manager-selection|经理人选择]] - 不看学校，看天赋和诚信
-- [[concept-ambidextrous-capital|双箭资本配置]] - 控制vs少数股权
+- [错误文化](../concepts/concept-mistake-culture.md) - 坦率承认和快速纠正
+- [税收记录](../concepts/concept-tax-record.md) - 268亿美元的历史记录
+- [经理人选择](../concepts/concept-manager-selection.md) - 不看学校，看天赋和诚信
+- [双箭资本配置](../concepts/concept-ambidextrous-capital.md) - 控制vs少数股权
 
 ## 重要数据
 
@@ -189,9 +189,9 @@ source_url: https://www.berkshirehathaway.com/letters/2024ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2023]]
-- 后一年：[[source-buffett-letters-2025]]
+- 前一年：[source-buffett-letters-2023](./source-buffett-letters-2023.md)
+- 后一年：[source-buffett-letters-2025](./source-buffett-letters-2025.md)
 
 **相关主题**：
-- [[concept-leadership-transition|领导层过渡]]
-- [[concept-managerial-excellence|管理卓越]]
+- [领导层过渡](../concepts/concept-leadership-transition.md)
+- [管理卓越](../concepts/concept-managerial-excellence.md)

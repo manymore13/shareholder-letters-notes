@@ -93,17 +93,17 @@ source_url: https://www.berkshirehathaway.com/letters/2018ltr.pdf
 
 ## 关键实体
 
-- [[entity-kraft-heinz|Kraft Heinz]] - 卡夫亨氏，无形资产减值
-- [[entity-ajit-jain|Ajit Jain]] - 保险业务负责人
-- [[entity-greg-abel|Greg Abel]] - 非保险业务负责人
-- [[entity-berkadia|Berkadia]] - 合资企业
+- [Kraft Heinz](../entities/entity-kraft-heinz.md) - 卡夫亨氏，无形资产减值
+- [Ajit Jain](../entities/entity-ajit-jain.md) - 保险业务负责人
+- [Greg Abel](../entities/entity-greg-abel.md) - 非保险业务负责人
+- [Berkadia](../entities/entity-berkadia.md) - 合资企业
 
 ## 关键概念
 
-- [[concept-forest-groves|森林林分]] - 伯克希尔的五大业务板块
-- [[concept-gaap-vs-operating|GAAPvs营业利润]] - 会计扭曲vs真实业绩
-- [[concept-book-value-obsolescence|账面价值过时]] - 为何不再适用
-- [[concept-dual-capital-allocation|双箭资本配置]] - 控制vs被动投资
+- [森林林分](../concepts/concept-forest-groves.md) - 伯克希尔的五大业务板块
+- [GAAPvs营业利润](../concepts/concept-gaap-vs-operating.md) - 会计扭曲vs真实业绩
+- [账面价值过时](../concepts/concept-book-value-obsolescence.md) - 为何不再适用
+- [双箭资本配置](../concepts/concept-dual-capital-allocation.md) - 控制vs被动投资
 
 ## 重要数据
 
@@ -139,9 +139,9 @@ source_url: https://www.berkshirehathaway.com/letters/2018ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2017]]
-- 后一年：[[source-buffett-letters-2019]]
+- 前一年：[source-buffett-letters-2017](./source-buffett-letters-2017.md)
+- 后一年：[source-buffett-letters-2019](./source-buffett-letters-2019.md)
 
 **相关主题**：
-- [[concept-earnings-quality|收益质量]]
-- [[concept-business-valuation|企业估值]]
+- [收益质量](../concepts/concept-earnings-quality.md)
+- [企业估值](../concepts/concept-business-valuation.md)

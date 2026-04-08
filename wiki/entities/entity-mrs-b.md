@@ -4,11 +4,11 @@
 
 ## 概述
 
-芒格夫人，正式名称为 **Ruth Bader（1903-1983）**，是美国女商人、慈善家，以创立 **MidAmerican Energy Holdings**（现为伯克希尔·哈撒韦能源）而闻名。她是 **[[entity-warren-buffett]]** 和 **查理·芒格** 的亲密朋友和商业伙伴。
+芒格夫人，正式名称为 **Ruth Bader（1903-1983）**，是美国女商人、慈善家，以创立 **MidAmerican Energy Holdings**（现为伯克希尔·哈撒韦能源）而闻名。她是 **[entity-warren-buffett](./entity-warren-buffett.md)** 和 **查理·芒格** 的亲密朋友和商业伙伴。
 
 **类型**：人物 / 企业家  
 **创建公司**：MidAmerican Energy Holdings  
-**关联**：[[entity-berkshire-hathaway]]
+**关联**：[entity-berkshire-hathaway](./entity-berkshire-hathaway.md)
 
 ---
 
@@ -123,8 +123,8 @@ MidAmerican 起源于一家小型保险公司：
 
 ## 相关实体
 
-- [[entity-warren-buffett]]：商业伙伴和朋友
-- [[entity-berkshire-hathaway]]：MidAmerican 的收购方
+- [entity-warren-buffett](./entity-warren-buffett.md)：商业伙伴和朋友
+- [entity-berkshire-hathaway](./entity-berkshire-hathaway.md)：MidAmerican 的收购方
 - **查理·芒格**：长期朋友和商业伙伴
 
 ---
@@ -133,7 +133,7 @@ MidAmerican 起源于一家小型保险公司：
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[entity-berkshire-hathaway]]
+**相关页面**：[entity-warren-buffett](./entity-warren-buffett.md)，[entity-berkshire-hathaway](./entity-berkshire-hathaway.md)
 
 ---
 

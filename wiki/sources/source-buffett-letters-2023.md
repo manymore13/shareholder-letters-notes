@@ -131,16 +131,16 @@ source_url: https://www.berkshirehathaway.com/letters/2023ltr.pdf
 
 ## 关键实体
 
-- [[entity-charlie-munger|Charlie Munger]] - 伯克希尔建筑师，1924-2023
-- [[entity-bertie|Bertie]] - 巴菲特的妹妹，理想股东模型
-- [[entity-ben-graham|Ben Graham]] - 巴菲特的导师，但方法需放弃
+- [Charlie Munger](../entities/entity-charlie-munger.md) - 伯克希尔建筑师，1924-2023
+- [Bertie](../entities/entity-bertie.md) - 巴菲特的妹妹，理想股东模型
+- [Ben Graham](../entities/entity-ben-graham.md) - 巴菲特的导师，但方法需放弃
 
 ## 关键概念
 
-- [[concept-architect-vs-contractor|建筑师vs承包商]] - Charlie与Warren的角色分工
-- [[concept-lifetime-shareholders|终身股东]] - 伯克希尔的独特股东群体
-- [[concept-casino-markets|赌场市场]] - 现代市场的投机行为
-- [[concept-permanent-capital-loss|永久资本损失]] - 永远不要冒的风险
+- [建筑师vs承包商](../concepts/concept-architect-vs-contractor.md) - Charlie与Warren的角色分工
+- [终身股东](../concepts/concept-lifetime-shareholders.md) - 伯克希尔的独特股东群体
+- [赌场市场](../concepts/concept-casino-markets.md) - 现代市场的投机行为
+- [永久资本损失](../concepts/concept-permanent-capital-loss.md) - 永远不要冒的风险
 
 ## 重要数据
 
@@ -173,9 +173,9 @@ source_url: https://www.berkshirehathaway.com/letters/2023ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2022]]
-- 后一年：[[source-buffett-letters-2024]]
+- 前一年：[source-buffett-letters-2022](./source-buffett-letters-2022.md)
+- 后一年：[source-buffett-letters-2024](./source-buffett-letters-2024.md)
 
 **相关主题**：
-- [[concept-charlie-munger|Charlie Munger遗产]]
-- [[concept-shareholder-partnership|股东伙伴关系]]
+- [Charlie Munger遗产](../concepts/concept-charlie-munger.md)
+- [股东伙伴关系](../concepts/concept-shareholder-partnership.md)

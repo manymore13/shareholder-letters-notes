@@ -180,22 +180,22 @@ source_url: https://www.berkshirehathaway.com/letters/2025ltr.pdf
 
 ## 关键实体
 
-- [[entity-warren-buffett|Warren Buffett]] - 董事长，仍在办公室
-- [[entity-greg-abel|Greg Abel]] - 新任CEO
-- [[entity-charlie-munger|Charlie Munger]] - 精神导师
-- [[entity-walter-scott|Walter Scott, Jr.]] - Greg的导师
-- [[entity-ajit-jain|Ajit Jain]] - 风险管理大师
-- [[entity-oxychem|OxyChem]] - 2025年收购
-- [[entity-bell-laboratories|Bell Laboratories]] - 2025年收购
-- [[entity-steve-levy|Steve Levy]] - Bell Laboratories CEO
+- [Warren Buffett](../entities/entity-warren-buffett.md) - 董事长，仍在办公室
+- [Greg Abel](../entities/entity-greg-abel.md) - 新任CEO
+- [Charlie Munger](../entities/entity-charlie-munger.md) - 精神导师
+- [Walter Scott, Jr.](../entities/entity-walter-scott.md) - Greg的导师
+- [Ajit Jain](../entities/entity-ajit-jain.md) - 风险管理大师
+- [OxyChem](../entities/entity-oxychem.md) - 2025年收购
+- [Bell Laboratories](../entities/entity-bell-laboratories.md) - 2025年收购
+- [Steve Levy](../entities/entity-steve-levy.md) - Bell Laboratories CEO
 
 ## 关键概念
 
-- [[concept-culture-values|文化与价值观]] - 五大基础价值观
-- [[concept-decentralized-model|去中心化模型]] - 自主权+问责制
-- [[concept-financial-strength|财务实力]] - 堡垒般资产负债表
-- [[concept-capital-discipline|资本纪律]] - 每股内在价值增长
-- [[concept-risk-management|风险管理]] - CEO是首席风险官
+- [文化与价值观](../concepts/concept-culture-values.md) - 五大基础价值观
+- [去中心化模型](../concepts/concept-decentralized-model.md) - 自主权+问责制
+- [财务实力](../concepts/concept-financial-strength.md) - 堡垒般资产负债表
+- [资本纪律](../concepts/concept-capital-discipline.md) - 每股内在价值增长
+- [风险管理](../concepts/concept-risk-management.md) - CEO是首席风险官
 
 ## 重要数据
 
@@ -236,8 +236,8 @@ source_url: https://www.berkshirehathaway.com/letters/2025ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2024]]
+- 前一年：[source-buffett-letters-2024](./source-buffett-letters-2024.md)
 
 **相关主题**：
-- [[concept-berkshire-culture|伯克希尔文化]]
-- [[concept-succession|继任计划]]
+- [伯克希尔文化](../concepts/concept-berkshire-culture.md)
+- [继任计划](../concepts/concept-succession.md)

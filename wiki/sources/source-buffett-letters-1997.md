@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1997
 year: 1997
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -134,19 +134,19 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-gillette|Gillette]] - 吉列公司
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
-- [[entity-washington-post|Washington Post]] - 华盛顿邮报
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
+- [Washington Post](../entities/entity-washington-post.md) - 华盛顿邮报
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 未来现金流折现
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-margin-of-safety|安全边际]] - 价格保护
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [内在价值](../concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [安全边际](../concepts/concept-margin-of-safety.md) - 价格保护
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -203,10 +203,10 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1996|Letter 1996]]
-- 下一年：[[source-buffett-letters-1998|Letter 1998]]（待创建）
-- 相关：[[source-buffett-letters-1995|Letter 1995]] - GEICO全资收购
-- 相关：[[source-buffett-letters-1997|Letter 1997]] - 市场波动哲学
+- 前一年：[Letter 1996](./source-buffett-letters-1996.md)
+- 下一年：[Letter 1998](./source-buffett-letters-1998.md)（待创建）
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - GEICO全资收购
+- 相关：[Letter 1997](./source-buffett-letters-1997.md) - 市场波动哲学
 
 ## 注释
 

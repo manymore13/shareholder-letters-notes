@@ -4,7 +4,7 @@
 
 ## 概述
 
-**[[entity-warren-buffett]]** 致 **[[entity-berkshire-hathaway]]** 股东年度信被认为是史上最重要的投资文献之一。自1970年以来，巴菲特撰写了全面的信件，讨论企业业绩、投资理念和经验教训。
+**[entity-warren-buffett](../entities/entity-warren-buffett.md)** 致 **[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)** 股东年度信被认为是史上最重要的投资文献之一。自1970年以来，巴菲特撰写了全面的信件，讨论企业业绩、投资理念和经验教训。
 
 **类型**：年度信函合集  
 **时间范围**：1970年至今  
@@ -46,8 +46,8 @@
 
 ### 投资原则
 
-1. **[[concept-value-investing]]**：内在价值方法的持续应用
-2. **[[concept-economic-moat]]**：关注持久竞争优势
+1. **[concept-value-investing](../concepts/concept-value-investing.md)**：内在价值方法的持续应用
+2. **[concept-economic-moat](../concepts/concept-economic-moat.md)**：关注持久竞争优势
 3. **长期思维**：强调多年视野
 4. **集中投资**：高置信度仓位
 
@@ -60,7 +60,7 @@
 
 ### 保险业务
 
-1. **[[concept-float]]**：建立和使用保险浮存金
+1. **[concept-float](../concepts/concept-float.md)**：建立和使用保险浮存金
 2. **承保纪律**：只做有利可图的业务
 3. **灾难意识**：管理尾部风险
 
@@ -85,7 +85,7 @@
 ### 按年代
 
 #### 1977-1979
-- [[source-buffett-letters-1977]]：保险战略基础
+- [source-buffett-letters-1977](./source-buffett-letters-1977.md)：保险战略基础
 
 #### 1980-1989
 - （1980-1989年信件可查阅）
@@ -116,10 +116,10 @@
 ### 深度研究
 
 针对特定主题：
-- **[[concept-value-investing]]**：1987年、2000年、2014年
-- **[[concept-economic-moat]]**：1983年、2007年、2019年
-- **[[concept-float]]**：1977年、1997年、2019年
-- **[[entity-warren-buffett|管理理念]]**：1987年、1992年、2014年
+- **[concept-value-investing](../concepts/concept-value-investing.md)**：1987年、2000年、2014年
+- **[concept-economic-moat](../concepts/concept-economic-moat.md)**：1983年、2007年、2019年
+- **[concept-float](../concepts/concept-float.md)**：1977年、1997年、2019年
+- **[管理理念](../entities/entity-warren-buffett.md)**：1987年、1992年、2014年
 
 ---
 
@@ -167,11 +167,11 @@ raw/books/pdf/
 
 ## 相关页面
 
-- [[entity-warren-buffett]]：作者
-- [[entity-berkshire-hathaway]]：所讨论的公司
-- [[concept-value-investing]]：核心理念
-- [[concept-economic-moat]]：关键分析框架
-- [[concept-float]]：保险策略
+- [entity-warren-buffett](../entities/entity-warren-buffett.md)：作者
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)：所讨论的公司
+- [concept-value-investing](../concepts/concept-value-investing.md)：核心理念
+- [concept-economic-moat](../concepts/concept-economic-moat.md)：关键分析框架
+- [concept-float](../concepts/concept-float.md)：保险策略
 
 ---
 

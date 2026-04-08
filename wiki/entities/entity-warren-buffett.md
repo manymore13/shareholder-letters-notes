@@ -18,7 +18,7 @@
 - **教育背景**：哥伦比亚大学（MBA，1951年）
 - **当前居住地**：内布拉斯加州奥马哈市
 - **绰号**："奥马哈先知"
-- **主要关联**：[[entity-berkshire-hathaway]]
+- **主要关联**：[entity-berkshire-hathaway](./entity-berkshire-hathaway.md)
 
 ---
 
@@ -41,11 +41,11 @@
 
 ## 投资哲学
 
-巴菲特的投资方法根植于他的导师本杰明·格雷厄姆开发的 **[[concept-value-investing]]**。核心原则包括：
+巴菲特的投资方法根植于他的导师本杰明·格雷厄姆开发的 **[concept-value-investing](../concepts/concept-value-investing.md)**。核心原则包括：
 
 1. **内在价值**：关注企业的内在价值而非股价
 2. **安全边际**：只在价格显著低于内在价值时买入
-3. **护城河**：寻找具有持久竞争优势的企业（[[concept-economic-moat]]）
+3. **护城河**：寻找具有持久竞争优势的企业（[concept-economic-moat](../concepts/concept-economic-moat.md)）
 4. **长期视角**：以十年为单位思考，而非季度
 5. **能力圈**：只投资自己理解的企业
 
@@ -55,14 +55,14 @@
 
 巴菲特将伯克希尔·哈撒韦从一家衰落的纺织厂转变为业务涵盖广泛的巨型集团：
 
-- **保险业务**：包括 [[entity-geico]]、国家伤亡保险公司
+- **保险业务**：包括 [entity-geico](./entity-geico.md)、国家伤亡保险公司
 - **铁路业务**：BNSF 铁路
 - **公用事业**：伯克希尔·哈撒韦能源
 - **制造业**： various 工业公司
 - **消费品**：See's Candies、劲量电池
 - **零售业务**：various 零售业务
 
-保险业务尤为重要，因为它提供了用于投资的 **[[concept-float]]**（保险浮存金）。
+保险业务尤为重要，因为它提供了用于投资的 **[concept-float](../concepts/concept-float.md)**（保险浮存金）。
 
 ---
 
@@ -82,7 +82,7 @@
 
 ### 主要导师
 
-- **[[entity-benjamin-graham]]**：他在哥伦比亚大学的教授和导师，《聪明的投资者》的作者
+- **[entity-benjamin-graham](./entity-benjamin-graham.md)**：他在哥伦比亚大学的教授和导师，《聪明的投资者》的作者
 - **查理·芒格**：伯克希尔·哈撒韦副董事长，长期合作伙伴
 
 ### 商业伙伴
@@ -104,7 +104,7 @@
 
 ## 参考文献
 
-- [[source-buffett-letters]]：巴菲特致股东年度信函（1977年至今）
+- [source-buffett-letters](../sources/source-buffett-letters.md)：巴菲特致股东年度信函（1977年至今）
 - 《聪明的投资者》—— 本杰明·格雷厄姆
 - 《滚雪球》—— 爱丽丝·施罗德（传记）
 
@@ -122,7 +122,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-berkshire-hathaway]]，[[entity-benjamin-graham]]，[[concept-value-investing]]，[[concept-economic-moat]]，[[concept-float]]
+**相关页面**：[entity-berkshire-hathaway](./entity-berkshire-hathaway.md)，[entity-benjamin-graham](./entity-benjamin-graham.md)，[concept-value-investing](../concepts/concept-value-investing.md)，[concept-economic-moat](../concepts/concept-economic-moat.md)，[concept-float](../concepts/concept-float.md)
 
 ---
 

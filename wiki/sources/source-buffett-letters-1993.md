@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1993
 year: 1993
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -50,16 +50,16 @@ tags:
 
 ### 3. 透视盈余
 
-继续讨论[[concept-look-through-earnings|透视盈余]]：
+继续讨论[透视盈余](../concepts/concept-look-through-earnings.md)：
 - 主要投资对象的未分配盈余
 - 1993年透视盈余约8.56亿美元
 - 目标：2000年达到18.5亿美元
 
 主要贡献者：
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐（9400万美元）
-- [[entity-geico|GEICO]] - GEICO（7600万美元）
-- [[entity-gillette|Gillette]] - 吉列（4400万美元）
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行（5300万美元）
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐（9400万美元）
+- [GEICO](../entities/entity-geico.md) - GEICO（7600万美元）
+- [Gillette](../entities/entity-gillette.md) - 吉列（4400万美元）
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行（5300万美元）
 
 ### 4. 会计准则变化
 
@@ -82,19 +82,19 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-dexter-shoe|Dexter Shoe]] - 德克斯特鞋业
-- [[entity-h-h-brown|H.H. Brown]] - 布朗鞋业
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-gillette|Gillette]] - 吉列公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Dexter Shoe](../entities/entity-dexter-shoe.md) - 德克斯特鞋业
+- [H.H. Brown](../entities/entity-h-h-brown.md) - 布朗鞋业
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [[concept-look-through-earnings|透视盈余]] - 真实经济收益
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-value-investing|价值投资]] - 长期投资理念
+- [透视盈余](../concepts/concept-look-through-earnings.md) - 真实经济收益
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 
@@ -138,9 +138,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1992|Letter 1992]]
-- 下一年：[[source-buffett-letters-1994|Letter 1994]]
-- 相关：[[source-buffett-letters-1991|Letter 1991]] - H.H. Brown收购
+- 前一年：[Letter 1992](./source-buffett-letters-1992.md)
+- 下一年：[Letter 1994](./source-buffett-letters-1994.md)
+- 相关：[Letter 1991](./source-buffett-letters-1991.md) - H.H. Brown收购
 
 ## 注释
 

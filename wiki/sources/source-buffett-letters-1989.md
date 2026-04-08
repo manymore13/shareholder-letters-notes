@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1989
 year: 1989
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -28,9 +28,9 @@ tags:
 - 应关注企业真实盈利能力
 
 示例：
-- [[entity-coca-cola|Coca-Cola]]：未分配盈余计入
-- [[entity-geico|GEICO]]：留存利润创造价值
-- [[entity-cap-cities-abc|Capital Cities/ABC]]：内在价值增长
+- [Coca-Cola](../entities/entity-coca-cola.md)：未分配盈余计入
+- [GEICO](../entities/entity-geico.md)：留存利润创造价值
+- [Capital Cities/ABC](../entities/entity-cap-cities-abc.md)：内在价值增长
 
 ### 2. 重大收购
 
@@ -56,8 +56,8 @@ tags:
 
 ### 4. 保险业务
 
-- [[entity-geico|GEICO]]持续表现优异
-- [[concept-float|浮存金]]规模增长
+- [GEICO](../entities/entity-geico.md)持续表现优异
+- [浮存金](../concepts/concept-float.md)规模增长
 - 承保利润为正，浮存金成本为负
 
 ### 5. 25年业绩回顾
@@ -69,18 +69,18 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-borsheims|Borsheim's]] - 波仙珠宝
-- [[entity-fechheimer|Fechheimer Bros.]] - 制服制造商
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Borsheim's](../entities/entity-borsheims.md) - 波仙珠宝
+- [Fechheimer Bros.](../entities/entity-fechheimer.md) - 制服制造商
 
 ## 关键概念
 
-- [[concept-look-through-earnings|透视盈余]] - 包括未分配利润的真实盈余
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-owner-earnings|所有者收益]] - 真实盈利能力
+- [透视盈余](../concepts/concept-look-through-earnings.md) - 包括未分配利润的真实盈余
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [所有者收益](../concepts/concept-owner-earnings.md) - 真实盈利能力
 
 ## 投资理念
 
@@ -118,9 +118,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1988|Letter 1988]]
-- 下一年：[[source-buffett-letters-1990|Letter 1990]]
-- 相关：[[source-buffett-letters-1995|Letter 1995]] - Helzberg's收购
+- 前一年：[Letter 1988](./source-buffett-letters-1988.md)
+- 下一年：[Letter 1990](./source-buffett-letters-1990.md)
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - Helzberg's收购
 
 ## 注释
 

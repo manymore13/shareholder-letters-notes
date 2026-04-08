@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1992
 year: 1992
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -20,7 +20,7 @@ tags:
 
 ### 1. 内在价值评估
 
-深入讨论[[concept-intrinsic-value|内在价值]]：
+深入讨论[内在价值](../concepts/concept-intrinsic-value.md)：
 
 定义：
 - 企业未来现金流的折现值
@@ -39,7 +39,7 @@ tags:
 
 ### 2. 安全边际
 
-强调[[concept-margin-of-safety|安全边际]]的重要性：
+强调[安全边际](../concepts/concept-margin-of-safety.md)的重要性：
 - 以低于内在价值的价格买入
 - 容错空间
 - 抵御不确定性
@@ -63,15 +63,15 @@ tags:
 
 ### 4. 透视盈余
 
-继续讨论[[concept-look-through-earnings|透视盈余]]：
+继续讨论[透视盈余](../concepts/concept-look-through-earnings.md)：
 - 主要投资对象的盈余
 - 未分配利润的价值
 - 反映真实经济收益
 
 主要贡献者：
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-gillette|Gillette]] - 吉列
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Gillette](../entities/entity-gillette.md) - 吉列
 
 ### 5. 市场估值
 
@@ -87,19 +87,19 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-lowell-shoe|Lowell Shoe]] - 洛威尔鞋业
-- [[entity-h-h-brown|H.H. Brown]] - 布朗鞋业
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-gillette|Gillette]] - 吉列公司
-- [[entity-geico|GEICO]] - 政府雇员保险公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Lowell Shoe](../entities/entity-lowell-shoe.md) - 洛威尔鞋业
+- [H.H. Brown](../entities/entity-h-h-brown.md) - 布朗鞋业
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 未来现金流折现
-- [[concept-margin-of-safety|安全边际]] - 买入价格缓冲
-- [[concept-look-through-earnings|透视盈余]] - 真实经济收益
-- [[concept-value-investing|价值投资]] - 价值投资理念
+- [内在价值](../concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [安全边际](../concepts/concept-margin-of-safety.md) - 买入价格缓冲
+- [透视盈余](../concepts/concept-look-through-earnings.md) - 真实经济收益
+- [价值投资](../concepts/concept-value-investing.md) - 价值投资理念
 
 ## 投资理念
 
@@ -142,9 +142,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1991|Letter 1991]]
-- 下一年：[[source-buffett-letters-1993|Letter 1993]]
-- 相关：[[source-buffett-letters-1996|Letter 1996]] - 内在价值方法
+- 前一年：[Letter 1991](./source-buffett-letters-1991.md)
+- 下一年：[Letter 1993](./source-buffett-letters-1993.md)
+- 相关：[Letter 1996](./source-buffett-letters-1996.md) - 内在价值方法
 
 ## 注释
 

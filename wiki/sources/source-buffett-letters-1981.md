@@ -22,8 +22,8 @@ source_file: raw/books/html/1981_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1982年2月26日  
 **源文件**: `raw/books/html/1981_buffett_letter.html`  
-**作者**: [[entity-warren-buffett]]  
-**机构**: [[entity-berkshire-hathaway]]
+**作者**: [entity-warren-buffett](../entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -89,13 +89,13 @@ source_file: raw/books/html/1981_buffett_letter.html
 ### 提到的实体
 
 #### 组织
-- [[entity-berkshire-hathaway]] - 母公司
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
 
 ### 讨论的概念
 
-- [[concept-stock-issuance]] - 股票发行，收购中的稀释效应
-- [[concept-acquisition-criteria]] - 收购标准，选择目标企业的原则
-- [[concept-inflation-impact]] - 通胀影响，对企业真实回报的侵蚀
+- [concept-stock-issuance](../concepts/concept-stock-issuance.md) - 股票发行，收购中的稀释效应
+- [concept-acquisition-criteria](../concepts/concept-acquisition-criteria.md) - 收购标准，选择目标企业的原则
+- [concept-inflation-impact](../concepts/concept-inflation-impact.md) - 通胀影响，对企业真实回报的侵蚀
 
 ### 数据/统计
 
@@ -108,12 +108,12 @@ source_file: raw/books/html/1981_buffett_letter.html
 
 ### 建立基础
 
-- [[source-buffett-letters-1980]] - 前一年讨论非控股收益
+- [source-buffett-letters-1980](./source-buffett-letters-1980.md) - 前一年讨论非控股收益
 
 ### 相关内容
 
-- [[concept-intrinsic-value]] - 收购基于内在价值
-- [[concept-capital-allocation]] - 资本配置原则
+- [concept-intrinsic-value](../concepts/concept-intrinsic-value.md) - 收购基于内在价值
+- [concept-capital-allocation](../concepts/concept-capital-allocation.md) - 资本配置原则
 
 ---
 
@@ -132,7 +132,7 @@ source_file: raw/books/html/1981_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [[entity-warren-buffett]], [[entity-berkshire-hathaway]], [[concept-acquisition-criteria]]
+**相关页面**: [entity-warren-buffett](../entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md), [concept-acquisition-criteria](../concepts/concept-acquisition-criteria.md)
 
 ---
 

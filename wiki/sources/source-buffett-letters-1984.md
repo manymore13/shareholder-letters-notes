@@ -22,8 +22,8 @@ source_file: raw/books/html/1984_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1985年3月5日  
 **源文件**: `raw/books/html/1984_buffett_letter.html`  
-**作者**: [[entity-warren-buffett]]  
-**机构**: [[entity-berkshire-hathaway]]
+**作者**: [entity-warren-buffett](../entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -89,17 +89,17 @@ source_file: raw/books/html/1984_buffett_letter.html
 ### 提到的实体
 
 #### 组织
-- [[entity-berkshire-hathaway]] - 母公司
-- [[entity-national-indemnity]] - 保险子公司
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-national-indemnity](../entities/entity-national-indemnity.md) - 保险子公司
 
 #### 项目
 - WPPSS - 华盛顿公共电力供应系统
 
 ### 讨论的概念
 
-- [[concept-dividend-policy]] - 股息政策，分红与保留利润的决策
-- [[concept-special-situations]] - 特殊情况投资，非常规投资机会
-- [[concept-capital-allocation]] - 资本配置，利润如何使用
+- [concept-dividend-policy](../concepts/concept-dividend-policy.md) - 股息政策，分红与保留利润的决策
+- [concept-special-situations](../concepts/concept-special-situations.md) - 特殊情况投资，非常规投资机会
+- [concept-capital-allocation](../concepts/concept-capital-allocation.md) - 资本配置，利润如何使用
 
 ### 数据/统计
 
@@ -112,12 +112,12 @@ source_file: raw/books/html/1984_buffett_letter.html
 
 ### 建立基础
 
-- [[source-buffett-letters-1983]] - 前一年讨论商誉
+- [source-buffett-letters-1983](./source-buffett-letters-1983.md) - 前一年讨论商誉
 
 ### 相关内容
 
-- [[concept-undistributed-earnings]] - 未分配收益与股息政策相关
-- [[concept-risk-return]] - WPPSS投资的风险回报分析
+- [concept-undistributed-earnings](../concepts/concept-undistributed-earnings.md) - 未分配收益与股息政策相关
+- [concept-risk-return](../concepts/concept-risk-return.md) - WPPSS投资的风险回报分析
 
 ---
 
@@ -136,7 +136,7 @@ source_file: raw/books/html/1984_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [[entity-warren-buffett]], [[entity-berkshire-hathaway]], [[concept-dividend-policy]]
+**相关页面**: [entity-warren-buffett](../entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md), [concept-dividend-policy](../concepts/concept-dividend-policy.md)
 
 ---
 

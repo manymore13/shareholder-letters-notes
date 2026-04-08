@@ -165,23 +165,23 @@
 
 ## 相关实体
 
-- [[entity-bnsf|Burlington Northern Santa Fe]] - 铁路公司，2009年收购
-- [[entity-geico|GEICO]] - 保险子公司
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 母公司
-- [[entity-wrigley|Wrigley]] - 协助收购
+- [Burlington Northern Santa Fe](../entities/entity-bnsf.md) - 铁路公司，2009年收购
+- [GEICO](../entities/entity-geico.md) - 保险子公司
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 母公司
+- [Wrigley](../entities/entity-wrigley.md) - 协助收购
 
 ## 相关概念
 
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-book-value|账面价值]] - 会计价值作为代理
-- [[concept-capital-investment|资本投资]] - 对美国的信心
-- [[concept-decentralization|去中心化管理]] - 组织哲学
-- [[concept-inversion|逆向思维]] - Charlie Munger智慧
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [账面价值](../concepts/concept-book-value.md) - 会计价值作为代理
+- [资本投资](../concepts/concept-capital-investment.md) - 对美国的信心
+- [去中心化管理](../concepts/concept-decentralization.md) - 组织哲学
+- [逆向思维](../concepts/concept-inversion.md) - Charlie Munger智慧
 
 ## 引用与链接
 
-**前一年**: [[source-buffett-letters-2008|Letter 2008]]
-**后一年**: [[source-buffett-letters-2010|Letter 2010]]
+**前一年**: [Letter 2008](./source-buffett-letters-2008.md)
+**后一年**: [Letter 2010](./source-buffett-letters-2010.md)
 
 ---
 *创建日期: 2026-04-08*

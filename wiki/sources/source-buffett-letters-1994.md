@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1994
 year: 1994
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -111,18 +111,18 @@ Scott Fetzer的薪酬方案：
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-scott-fetzer|Scott Fetzer]] - 斯科特·费泽
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-gillette|Gillette]] - 吉列公司
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Scott Fetzer](../entities/entity-scott-fetzer.md) - 斯科特·费泽
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../entities/entity-gillette.md) - 吉列公司
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
 
 ## 关键概念
 
-- [[concept-intrinsic-value|内在价值]] - 未来现金流折现
-- [[concept-book-value|账面价值]] - 历史投入资本
-- [[concept-return-on-equity|净资产收益率]] - 盈利能力指标
-- [[concept-capital-allocation|资本配置]] - 资金部署决策
+- [内在价值](../concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [账面价值](../concepts/concept-book-value.md) - 历史投入资本
+- [净资产收益率](../concepts/concept-return-on-equity.md) - 盈利能力指标
+- [资本配置](../concepts/concept-capital-allocation.md) - 资金部署决策
 
 ## 投资理念
 
@@ -166,9 +166,9 @@ Scott Fetzer的薪酬方案：
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1993|Letter 1993]]
-- 下一年：[[source-buffett-letters-1995|Letter 1995]]
-- 相关：[[source-buffett-letters-1986|Letter 1986]] - Scott Fetzer收购
+- 前一年：[Letter 1993](./source-buffett-letters-1993.md)
+- 下一年：[Letter 1995](./source-buffett-letters-1995.md)
+- 相关：[Letter 1986](./source-buffett-letters-1986.md) - Scott Fetzer收购
 
 ## 注释
 

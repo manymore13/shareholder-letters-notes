@@ -93,16 +93,16 @@ source_url: https://www.berkshirehathaway.com/letters/2001.html
 
 ## 关键实体
 
-- [[entity-fruit-of-the-loom|Fruit of the Loom]] - 通过破产程序收购
-- [[entity-mitek|MiTek]] - 管理层参与的收购
-- [[entity-xtra|XTRA]] - 拖车租赁
-- [[entity-larson-juhl|Larson-Juhl]] - 相框业务
+- [Fruit of the Loom](../entities/entity-fruit-of-the-loom.md) - 通过破产程序收购
+- [MiTek](../entities/entity-mitek.md) - 管理层参与的收购
+- [XTRA](../entities/entity-xtra.md) - 拖车租赁
+- [Larson-Juhl](../entities/entity-larson-juhl.md) - 相框业务
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险业务的核心
-- [[concept-capital-allocation|资本配置]] - 管理层激励
-- [[concept-risk-management|风险管理]] - 承保纪律的重要性
+- [浮存金](../concepts/concept-float.md) - 保险业务的核心
+- [资本配置](../concepts/concept-capital-allocation.md) - 管理层激励
+- [风险管理](../concepts/concept-risk-management.md) - 承保纪律的重要性
 
 ## 重要数据
 
@@ -122,9 +122,9 @@ source_url: https://www.berkshirehathaway.com/letters/2001.html
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2000]]
-- 后一年：[[source-buffett-letters-2002]]
+- 前一年：[source-buffett-letters-2000](./source-buffett-letters-2000.md)
+- 后一年：[source-buffett-letters-2002](./source-buffett-letters-2002.md)
 
 **相关主题**：
-- [[concept-float|浮存金]]
-- [[concept-risk-management|风险管理]]
+- [浮存金](../concepts/concept-float.md)
+- [风险管理](../concepts/concept-risk-management.md)

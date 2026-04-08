@@ -84,16 +84,16 @@ source_url: https://www.berkshirehathaway.com/letters/2000.html
 
 ## 关键实体
 
-- [[entity-midamerican-energy|MidAmerican Energy]] - 公用事业收购
-- [[entity-geico|GEICO]] - 保险业务面临挑战
-- [[entity-shaw|Shaw Industries]] - 全球最大地毯制造商
-- [[entity-benjamin-moore|Benjamin Moore]] - 油漆制造商
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 公用事业收购
+- [GEICO](../entities/entity-geico.md) - 保险业务面临挑战
+- [Shaw Industries](../entities/entity-shaw.md) - 全球最大地毯制造商
+- [Benjamin Moore](../entities/entity-benjamin-moore.md) - 油漆制造商
 
 ## 关键概念
 
-- [[concept-acquisitions|收购战略]] - 伯克希尔的收购方法
-- [[concept-capital-allocation|资本配置]] - 80亿收购的资本配置
-- [[concept-float|浮存金]] - 保险业务的资金来源
+- [收购战略](../concepts/concept-acquisitions.md) - 伯克希尔的收购方法
+- [资本配置](../concepts/concept-capital-allocation.md) - 80亿收购的资本配置
+- [浮存金](../concepts/concept-float.md) - 保险业务的资金来源
 
 ## 重要数据
 
@@ -115,9 +115,9 @@ source_url: https://www.berkshirehathaway.com/letters/2000.html
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-1999]]
-- 后一年：[[source-buffett-letters-2001]]
+- 前一年：[source-buffett-letters-1999](./source-buffett-letters-1999.md)
+- 后一年：[source-buffett-letters-2001](./source-buffett-letters-2001.md)
 
 **相关主题**：
-- [[concept-capital-allocation|资本配置]]
-- [[concept-float|浮存金]]
+- [资本配置](../concepts/concept-capital-allocation.md)
+- [浮存金](../concepts/concept-float.md)

@@ -103,15 +103,15 @@ source_url: https://www.berkshirehathaway.com/letters/2022ltr.pdf
 
 ## 关键实体
 
-- [[entity-coca-cola|Coca-Cola]] - 28年持股，股息增长近10倍
-- [[entity-american-express|American Express]] - 27年持股，股息增长超7倍
+- [Coca-Cola](../entities/entity-coca-cola.md) - 28年持股，股息增长近10倍
+- [American Express](../entities/entity-american-express.md) - 27年持股，股息增长超7倍
 
 ## 关键概念
 
-- [[concept-secret-sauce|秘密武器]] - 长期持股的复利效应
-- [[concept-business-pickers|业务选择者]] - 非股票选择者
-- [[concept-efficient-market-myth|有效市场神话]] - 市场价格常愚蠢
-- [[concept-good-decisions|好决策频率]] - 每5年约1个
+- [秘密武器](../concepts/concept-secret-sauce.md) - 长期持股的复利效应
+- [业务选择者](../concepts/concept-business-pickers.md) - 非股票选择者
+- [有效市场神话](../concepts/concept-efficient-market-myth.md) - 市场价格常愚蠢
+- [好决策频率](../concepts/concept-good-decisions.md) - 每5年约1个
 
 ## 重要数据
 
@@ -154,9 +154,9 @@ source_url: https://www.berkshirehathaway.com/letters/2022ltr.pdf
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2021]]
-- 后一年：[[source-buffett-letters-2023]]
+- 前一年：[source-buffett-letters-2021](./source-buffett-letters-2021.md)
+- 后一年：[source-buffett-letters-2023](./source-buffett-letters-2023.md)
 
 **相关主题**：
-- [[concept-compound-interest|复利效应]]
-- [[concept-patience|耐心投资]]
+- [复利效应](../concepts/concept-compound-interest.md)
+- [耐心投资](../concepts/concept-patience.md)

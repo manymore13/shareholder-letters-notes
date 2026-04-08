@@ -4,7 +4,7 @@
 
 ## 概述
 
-伯克希尔·哈撒韦（Berkshire Hathaway）是一家美国跨国多元化控股公司，由传奇投资者 **[[entity-warren-buffett]]** 领导。公司最初是一家衰落的纺织厂，如今已发展成为世界上最大、最有价值的公司之一。
+伯克希尔·哈撒韦（Berkshire Hathaway）是一家美国跨国多元化控股公司，由传奇投资者 **[entity-warren-buffett](./entity-warren-buffett.md)** 领导。公司最初是一家衰落的纺织厂，如今已发展成为世界上最大、最有价值的公司之一。
 
 **类型**：组织 / 跨国公司  
 **总部**：美国内布拉斯加州奥马哈  
@@ -42,7 +42,7 @@
 保险业务是伯克希尔的"增长引擎"，提供投资所需的浮存金。
 
 **主要保险公司**：
-- **[[entity-geico]]**：政府雇员保险公司，美国第三大汽车保险公司
+- **[entity-geico](./entity-geico.md)**：政府雇员保险公司，美国第三大汽车保险公司
 - **National Indemnity**：再保险公司，拥有美国最大的一般保险业务
 - **通用再保险（General Re）**：全球领先再保险商
 - **伯克希尔·哈撒韦主体保险**：涵盖各种专业保险业务
@@ -76,7 +76,7 @@
 
 #### 零售与消费品
 
-- **[[entity-sees-candies|See's Candies]]**：糖果制造商
+- **[See's Candies](./entity-sees-candies.md)**：糖果制造商
 - **Borsheim's**：珠宝零售商
 - **Nebraska Furniture Mart**：家具零售商
 - **Helzberg's Diamond Shops**：珠宝店
@@ -175,7 +175,7 @@
 
 ## 竞争优势
 
-### [[concept-economic-moat|经济护城河]]
+### [经济护城河](../concepts/concept-economic-moat.md)
 
 伯克希尔拥有多条强大护城河：
 
@@ -217,11 +217,11 @@
 
 ## 相关实体
 
-- [[entity-warren-buffett]]：董事长兼 CEO
-- [[entity-geico]]：GEICO 保险
-- [[entity-mrs-b]]：芒格夫人（MidAmerican Energy）
-- [[concept-float]]：保险浮存金
-- [[concept-economic-moat]]：经济护城河
+- [entity-warren-buffett](./entity-warren-buffett.md)：董事长兼 CEO
+- [entity-geico](./entity-geico.md)：GEICO 保险
+- [entity-mrs-b](./entity-mrs-b.md)：芒格夫人（MidAmerican Energy）
+- [concept-float](../concepts/concept-float.md)：保险浮存金
+- [concept-economic-moat](../concepts/concept-economic-moat.md)：经济护城河
 
 ---
 
@@ -229,7 +229,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[concept-value-investing]]，[[concept-float]]，[[concept-economic-moat]]
+**相关页面**：[entity-warren-buffett](./entity-warren-buffett.md)，[concept-value-investing](../concepts/concept-value-investing.md)，[concept-float](../concepts/concept-float.md)，[concept-economic-moat](../concepts/concept-economic-moat.md)
 
 ---
 

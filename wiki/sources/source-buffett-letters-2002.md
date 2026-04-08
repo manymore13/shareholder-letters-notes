@@ -150,16 +150,16 @@ source_url: https://www.berkshirehathaway.com/letters/2002.html
 
 ## 关键实体
 
-- [[entity-the-pampered-chef|The Pampered Chef]] - 厨房用品直销
-- [[entity-midamerican-energy|MidAmerican Energy]] - 公用事业和管道
-- [[entity-ctb|CTB]] - 农业设备
-- [[entity-homeservices|HomeServices]] - 房地产经纪
+- [The Pampered Chef](../entities/entity-the-pampered-chef.md) - 厨房用品直销
+- [MidAmerican Energy](../entities/entity-midamerican-energy.md) - 公用事业和管道
+- [CTB](../entities/entity-ctb.md) - 农业设备
+- [HomeServices](../entities/entity-homeservices.md) - 房地产经纪
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险业务的核心
-- [[concept-derivatives|衍生品]] - 金融大规模杀伤性武器
-- [[concept-risk-management|风险管理]] - 承保纪律
+- [浮存金](../concepts/concept-float.md) - 保险业务的核心
+- [衍生品](../concepts/concept-derivatives.md) - 金融大规模杀伤性武器
+- [风险管理](../concepts/concept-risk-management.md) - 承保纪律
 
 ## 重要数据
 
@@ -183,10 +183,10 @@ source_url: https://www.berkshirehathaway.com/letters/2002.html
 ---
 
 **相关信件**：
-- 前一年：[[source-buffett-letters-2001]]
-- 后一年：[[source-buffett-letters-2003]]
+- 前一年：[source-buffett-letters-2001](./source-buffett-letters-2001.md)
+- 后一年：[source-buffett-letters-2003](./source-buffett-letters-2003.md)
 
 **相关主题**：
-- [[concept-float|浮存金]]
-- [[concept-derivatives|衍生品]]
-- [[concept-risk-management|风险管理]]
+- [浮存金](../concepts/concept-float.md)
+- [衍生品](../concepts/concept-derivatives.md)
+- [风险管理](../concepts/concept-risk-management.md)

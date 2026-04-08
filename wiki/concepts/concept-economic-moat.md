@@ -4,7 +4,7 @@
 
 ## 概述
 
-经济护城河是 **[[entity-warren-buffett]]** 提出的核心投资概念，指企业拥有的可持续竞争优势，能够保护其在市场中免受竞争对手侵害。这就像中世纪城堡周围的护城河——使企业能够长期保持超额利润。
+经济护城河是 **[entity-warren-buffett](../entities/entity-warren-buffett.md)** 提出的核心投资概念，指企业拥有的可持续竞争优势，能够保护其在市场中免受竞争对手侵害。这就像中世纪城堡周围的护城河——使企业能够长期保持超额利润。
 
 **类型**：概念 / 投资框架  
 **类别**：竞争优势分析  
@@ -148,24 +148,24 @@
 
 ### 伯克希尔的护城河企业
 
-**[[entity-geico]]**：
+**[entity-geico](../entities/entity-geico.md)**：
 - 低成本保险模式
 - 直接销售模式
 - 客户忠诚度高
 
-**[[entity-sees-candies|See's Candies]]**：
+**[See's Candies](../entities/entity-sees-candies.md)**：
 - 强大加州品牌
 - 客户忠诚度
 - 定价权
 
-**[[entity-borsheims|Borsheim's]]**：
+**[Borsheim's](../entities/entity-borsheims.md)**：
 - 珠宝行业 Know-It-All 销售模式
 - 客户关系
 - 强大的市场地位
 
 ---
 
-## 护城河与 [[concept-value-investing]] 的关系
+## 护城河与 [concept-value-investing](./concept-value-investing.md) 的关系
 
 ### 内在联系
 
@@ -236,11 +236,11 @@
 
 ## 相关概念
 
-- [[concept-value-investing]]：价值投资基础
-- [[concept-float]]：保险浮存金作为竞争优势
-- [[concept-intrinsic-value]]：内在价值评估
-- [[entity-warren-buffett]]：护城河概念的推广者
-- [[entity-berkshire-hathaway]]：护城河企业的集合
+- [concept-value-investing](./concept-value-investing.md)：价值投资基础
+- [concept-float](./concept-float.md)：保险浮存金作为竞争优势
+- [concept-intrinsic-value](./concept-intrinsic-value.md)：内在价值评估
+- [entity-warren-buffett](../entities/entity-warren-buffett.md)：护城河概念的推广者
+- [entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)：护城河企业的集合
 
 ---
 
@@ -248,7 +248,7 @@
 
 **创建日期**：2026-04-08  
 **最后更新**：2026-04-08  
-**相关页面**：[[entity-warren-buffett]]，[[entity-berkshire-hathaway]]，[[concept-value-investing]]，[[concept-float]]
+**相关页面**：[entity-warren-buffett](../entities/entity-warren-buffett.md)，[entity-berkshire-hathaway](../entities/entity-berkshire-hathaway.md)，[concept-value-investing](./concept-value-investing.md)，[concept-float](./concept-float.md)
 
 ---
 

@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1991
 year: 1991
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -20,7 +20,7 @@ tags:
 
 ### 1. 经济商誉 vs 会计商誉
 
-巴菲特详细阐述[[concept-economic-goodwill|经济商誉]]概念：
+巴菲特详细阐述[经济商誉](../concepts/concept-economic-goodwill.md)概念：
 
 **会计商誉**：
 - 资产负债表上的数字
@@ -54,7 +54,7 @@ tags:
 ### 3. 传媒业务挑战
 
 讨论报业面临的挑战：
-- [[entity-buffalo-news|Buffalo News]]利润下滑
+- [Buffalo News](../entities/entity-buffalo-news.md)利润下滑
 - 报纸失去定价权
 - 电视和新媒体竞争
 - 广告收入下降
@@ -66,38 +66,38 @@ tags:
 
 ### 4. 保险业务
 
-[[entity-geico|GEICO]]持续优异：
+[GEICO](../entities/entity-geico.md)持续优异：
 - 承保利润丰厚
 - 市场份额增长
 - 低成本优势
 
-[[concept-float|浮存金]]：
+[浮存金](../concepts/concept-float.md)：
 - 规模持续增长
 - 成本仍为负
 
 ### 5. 可口可乐投资
 
-[[entity-coca-cola|Coca-Cola]]成为重要投资：
+[Coca-Cola](../entities/entity-coca-cola.md)成为重要投资：
 - 持股比例增加
 - 内在价值持续增长
 - 未分配盈余创造价值
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-h-h-brown|H.H. Brown]] - 布朗鞋业
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-buffalo-news|Buffalo News]] - 布法罗新闻报
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [H.H. Brown](../entities/entity-h-h-brown.md) - 布朗鞋业
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Buffalo News](../entities/entity-buffalo-news.md) - 布法罗新闻报
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
 
 ## 关键概念
 
-- [[concept-economic-goodwill|经济商誉]] - 真实无形价值
-- [[concept-economic-moat|经济护城河]] - 竞争优势
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-value-investing|价值投资]] - 基于内在价值投资
+- [经济商誉](../concepts/concept-economic-goodwill.md) - 真实无形价值
+- [经济护城河](../concepts/concept-economic-moat.md) - 竞争优势
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../concepts/concept-value-investing.md) - 基于内在价值投资
 
 ## 投资理念
 
@@ -143,9 +143,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1990|Letter 1990]]
-- 下一年：[[source-buffett-letters-1992|Letter 1992]]
-- 相关：[[source-buffett-letters-1983|Letter 1983]] - 商誉附录
+- 前一年：[Letter 1990](./source-buffett-letters-1990.md)
+- 下一年：[Letter 1992](./source-buffett-letters-1992.md)
+- 相关：[Letter 1983](./source-buffett-letters-1983.md) - 商誉附录
 
 ## 注释
 

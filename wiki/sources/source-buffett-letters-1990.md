@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1990
 year: 1990
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -21,7 +21,7 @@ tags:
 ### 1. 银行业投资与危机
 
 讨论对银行业的投资：
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
 - 银行业面临房地产贷款损失
 - 房地产市场崩溃的影响
 - 为什么仍看好富国银行
@@ -34,7 +34,7 @@ tags:
 
 ### 2. 保险浮存金
 
-深入讨论[[concept-float|浮存金]]的价值：
+深入讨论[浮存金](../concepts/concept-float.md)的价值：
 - 浮存金 = 持有但不拥有的资金
 - 成本通常为正（承保亏损）
 - 伯克希尔的浮存金成本为负（承保盈利）
@@ -42,7 +42,7 @@ tags:
 
 ### 3. GEICO的卓越表现
 
-[[entity-geico|GEICO]]持续创造价值：
+[GEICO](../entities/entity-geico.md)持续创造价值：
 - 承保利润丰厚
 - 市场份额增长
 - Tony Nicely的卓越管理
@@ -50,7 +50,7 @@ tags:
 
 ### 4. 透视盈余更新
 
-继续讨论[[concept-look-through-earnings|透视盈余]]：
+继续讨论[透视盈余](../concepts/concept-look-through-earnings.md)：
 - 包括未分配利润
 - 反映真实经济收益
 - 主要投资对象的盈余贡献
@@ -64,18 +64,18 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-wells-fargo|Wells Fargo]] - 富国银行
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐
-- [[entity-nebraska-furniture-mart|Nebraska Furniture Mart]] - 内布拉斯加家具城
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Wells Fargo](../entities/entity-wells-fargo.md) - 富国银行
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐
+- [Nebraska Furniture Mart](../entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
 
 ## 关键概念
 
-- [[concept-float|浮存金]] - 保险浮存金的价值
-- [[concept-look-through-earnings|透视盈余]] - 真实经济收益
-- [[concept-intrinsic-value|内在价值]] - 企业真实价值
-- [[concept-value-investing|价值投资]] - 在危机中投资
+- [浮存金](../concepts/concept-float.md) - 保险浮存金的价值
+- [透视盈余](../concepts/concept-look-through-earnings.md) - 真实经济收益
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../concepts/concept-value-investing.md) - 在危机中投资
 
 ## 投资理念
 
@@ -118,9 +118,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1989|Letter 1989]]
-- 下一年：[[source-buffett-letters-1991|Letter 1991]]
-- 相关：[[source-buffett-letters-1990|Letter 1990]] - 富国银行投资逻辑
+- 前一年：[Letter 1989](./source-buffett-letters-1989.md)
+- 下一年：[Letter 1991](./source-buffett-letters-1991.md)
+- 相关：[Letter 1990](./source-buffett-letters-1990.md) - 富国银行投资逻辑
 
 ## 注释
 

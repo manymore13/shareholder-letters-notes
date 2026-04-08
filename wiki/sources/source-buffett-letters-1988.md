@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1988
 year: 1988
-author: [[entity-warren-buffett|Warren Buffett]]
+author: [Warren Buffett](../entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -28,9 +28,9 @@ tags:
 ### 2. 永久持股原则
 
 明确表示以下股票为"永久持股"，不会因价格高估而出售：
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-cap-cities-abc|Capital Cities/ABC]] - 大都会/美国广播公司
-- [[entity-washington-post|Washington Post]] - 华盛顿邮报
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Capital Cities/ABC](../entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
+- [Washington Post](../entities/entity-washington-post.md) - 华盛顿邮报
 
 理由：
 - 这些公司拥有卓越的经济特征
@@ -48,7 +48,7 @@ tags:
 
 - GEICO承保利润显著
 - 浮存金（Float）成本为负
-- [[concept-float|浮存金]]是伯克希尔的重要资金来源
+- [浮存金](../concepts/concept-float.md)是伯克希尔的重要资金来源
 
 ### 5. 收购原则
 
@@ -60,20 +60,20 @@ tags:
 
 ## 重要实体
 
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - 伯克希尔·哈撒韦
-- [[entity-geico|GEICO]] - 政府雇员保险公司
-- [[entity-cap-cities-abc|Capital Cities/ABC]] - 大都会/美国广播公司
-- [[entity-washington-post|Washington Post]] - 华盛顿邮报
-- [[entity-coca-cola|Coca-Cola]] - 可口可乐（开始大量买入）
-- [[entity-nebraska-furniture-mart|Nebraska Furniture Mart]] - 内布拉斯加家具城
+- [Berkshire Hathaway](../entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../entities/entity-geico.md) - 政府雇员保险公司
+- [Capital Cities/ABC](../entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
+- [Washington Post](../entities/entity-washington-post.md) - 华盛顿邮报
+- [Coca-Cola](../entities/entity-coca-cola.md) - 可口可乐（开始大量买入）
+- [Nebraska Furniture Mart](../entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
 
 ## 关键概念
 
-- [[concept-mr-market|市场先生（Mr. Market）]] - 格雷厄姆的市场比喻
-- [[concept-intrinsic-value|内在价值]] - 企业真实经济价值
-- [[concept-float|浮存金]] - 保险浮存金
-- [[concept-permanent-holdings|永久持股]] - 不因价格出售的股票
-- [[concept-value-investing|价值投资]] - 基于内在价值投资
+- [市场先生（Mr. Market）](../concepts/concept-mr-market.md) - 格雷厄姆的市场比喻
+- [内在价值](../concepts/concept-intrinsic-value.md) - 企业真实经济价值
+- [浮存金](../concepts/concept-float.md) - 保险浮存金
+- [永久持股](../concepts/concept-permanent-holdings.md) - 不因价格出售的股票
+- [价值投资](../concepts/concept-value-investing.md) - 基于内在价值投资
 
 ## 投资理念
 
@@ -110,9 +110,9 @@ tags:
 
 ## 相关信件
 
-- 前一年：[[source-buffett-letters-1987|Letter 1987]]
-- 下一年：[[source-buffett-letters-1989|Letter 1989]]
-- 参见：[[source-buffett-letters-1977|Letter 1977]] - ROE理念起源
+- 前一年：[Letter 1987](./source-buffett-letters-1987.md)
+- 下一年：[Letter 1989](./source-buffett-letters-1989.md)
+- 参见：[Letter 1977](./source-buffett-letters-1977.md) - ROE理念起源
 
 ## 注释
 
