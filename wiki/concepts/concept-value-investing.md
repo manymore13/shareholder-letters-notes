@@ -1,175 +1,175 @@
-# Value Investing
+# 价值投资
 
 ---
 
-## Overview
+## 概述
 
-Value investing is an investment philosophy that involves purchasing securities that appear underpriced by some form of fundamental analysis. The approach was systematically developed by **[[entity-benjamin-graham]]** and later refined by **[[entity-warren-buffett]]**, who became its most famous practitioner.
+价值投资是一种投资理念，通过某种形式的基本面分析购买被低估的证券。这一方法由 **[[entity-benjamin-graham]]** 系统性地发展，后由 **[[entity-warren-buffett]]** 进一步完善，成为其最著名的实践者。
 
-**Type**: Theory / Investment Philosophy  
-**Category**: Investment Strategy  
-**Domain**: Finance / Securities Analysis  
+**类型**：理论 / 投资理念  
+**类别**：投资策略  
+**领域**：金融 / 证券分析  
 
 ---
 
-## Core Principles
+## 核心原则
 
-### 1. Intrinsic Value
+### 1. 内在价值
 
-Every investment has an "intrinsic value" - the present value of all future cash flows. Value investors seek to buy securities when their market price is below this intrinsic value.
+每项投资都有"内在价值"——即所有未来现金流量的现值。价值投资者寻求在市场价格低于内在价值时购买证券。
 
-**Key Question**: "Is this business worth more than the market is pricing it?"
+**关键问题**："这家企业是否比市场定价更有价值？"
 
-### 2. Margin of Safety
+### 2. 安全边际
 
-> "The margin of safety is always dependent on the price paid." - Benjamin Graham
+> "安全边际总是取决于所支付的价格。" —— 本杰明·格雷厄姆
 
-The margin of safety is the difference between a security's intrinsic value and its market price. A larger margin provides greater protection against errors in analysis or market volatility.
+安全边际是证券内在价值与市场价格之间的差额。更大的边际为分析错误或市场波动提供更大的保护。
 
-**Formula Concept**:
+**公式概念**：
 ```
-Margin of Safety = (Intrinsic Value - Price) / Intrinsic Value
+安全边际 = (内在价值 - 价格) / 内在价值
 ```
 
-### 3. Mr. Market
+### 3. 市场先生
 
-Graham introduced the metaphor of "Mr. Market" - a manic-depressive investor who offers to buy or sell shares at varying prices. Value investors take advantage of Mr. Market's irrational behavior by:
+格雷厄姆引入了"市场先生"的比喻——一个躁狂抑郁症患者，以不同价格提出买卖股票的报价。价值投资者通过以下方式利用市场先生的非理性行为：
 
-- Buying when prices are depressed (fear)
-- Selling or holding when prices are inflated (greed)
-- Ignoring daily price fluctuations
+- 当价格低迷时买入（恐惧）
+- 当价格膨胀时持有或卖出（贪婪）
+- 忽略每日价格波动
 
-### 4. Circle of Competence
+### 4. 能力圈
 
-Investors should only evaluate businesses they understand well. This limits investments to areas where one has genuine expertise.
-
----
-
-## Key Concepts
-
-### [[concept-economic-moat|Economic Moat]]
-
-[[entity-warren-buffett]] popularized this concept - the competitive advantages that protect a business from competitors, much like a medieval castle's moat.
-
-Types of moats:
-- **Intangible Assets**: Brand, patents, regulatory licenses
-- **Cost Advantage**: Lower costs through location, scale, or process
-- **Switching Costs**: Customers can't easily leave
-- **Network Effects**: Value increases with more users
-- **Efficient Scale**: Market can only support one efficient player
-
-### [[concept-float|Float]]
-
-Insurance float (policyholder float) represents money held by insurance companies before claims are paid. Buffett uses this low-cost capital for investments.
-
-### Intrinsic Value Calculation
-
-Methods for estimating intrinsic value:
-- **Discounted Cash Flow (DCF)**: Present value of future cash flows
-- **Book Value**: Net asset value
-- **Earnings Power Value**: Normalized earnings × multiplier
+投资者应该只评估他们深入了解的企业。这将投资限制在具有真正专业知识的领域。
 
 ---
 
-## Investment Process
+## 关键概念
 
-### Step 1: Identify Quality Businesses
+### [[concept-economic-moat|经济护城河]]
 
-Look for businesses with:
-- Sustainable competitive advantages
-- Honest, competent management
-- Predictable cash flows
-- High returns on capital
+[[entity-warren-buffett]] 推广了这一概念——保护企业免受竞争对手侵害的竞争优势，就像中世纪城堡的护城河一样。
 
-### Step 2: Determine Intrinsic Value
+护城河的类型：
+- **无形资产**：品牌、专利、监管许可
+- **成本优势**：通过位置、规模或流程降低成本
+- **转换成本**：客户不能轻易离开
+- **网络效应**：用户越多，价值越高
+- **有效规模**：市场只能支持一个有效参与者
 
-Use conservative assumptions:
-- Focus on free cash flow
-- Use appropriate discount rate
-- Apply margin of safety in assumptions
+### [[concept-float|浮存金]]
 
-### Step 3: Assess Price
+保险浮存金（投保人浮存金）代表保险公司在赔付前持有的资金。巴菲特利用这些低成本资本进行投资。
 
-- Compare price to intrinsic value
-- Calculate margin of safety
-- Consider time horizon
+### 内在价值计算
 
-### Step 4: Position Size
-
-- Concentrated positions in high-conviction ideas
-- "Best ideas get the most capital"
-- Diversification as protection against ignorance
+估算内在价值的方法：
+- **折现现金流（DCF）**：未来现金流量的现值
+- **账面价值**：净资产值
+- **盈利 power 值**：标准化盈利 × 乘数
 
 ---
 
-## Famous Quotes from [[entity-warren-buffett]]
+## 投资流程
 
-> "Price is what you pay. Value is what you get."
+### 步骤 1：识别优质企业
 
-> "Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down."
+寻找具有以下特征的企业：
+- 可持续的竞争优势
+- 诚实、有能力的管理层
+- 可预测的现金流
+- 高资本回报率
 
-> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
+### 步骤 2：确定内在价值
 
-> "The stock market is a device for transferring money from the impatient to the patient."
+使用保守假设：
+- 关注自由现金流
+- 使用适当的折现率
+- 在假设中应用安全边际
 
----
+### 步骤 3：评估价格
 
-## Advantages & Limitations
+- 将价格与内在价值比较
+- 计算安全边际
+- 考虑时间范围
 
-### Advantages
+### 步骤 4：仓位大小
 
-- **Downside Protection**: Margin of safety limits losses
-- **Emotional Discipline**: Rules-based approach reduces emotional decisions
-- **Long-term Focus**: Aligns with business reality
-- **Proven Track Record**: Graham, Buffett, and others have demonstrated long-term success
-
-### Limitations
-
-- **Underperformance in Growth Markets**: Can miss high-growth stocks
-- **Requires Patience**: May take years for thesis to unfold
-- **Analysis Intensive**: Requires fundamental analysis skills
-- **Market Inefficiency**: Depends on market mispricing (which may disappear)
-
----
-
-## Related Concepts
-
-- [[concept-economic-moat]]: Competitive advantages
-- [[concept-float]]: Insurance float
-- [[entity-benjamin-graham]]: Founder of value investing
-- [[entity-warren-buffett]]: Modern value investing master
+- 在高置信度的想法上集中仓位
+- "最好的想法获得最多的资本"
+- 多元化作为防止无知的保护
 
 ---
 
-## Source References
+## 来自 [[entity-warren-buffett]] 的名言
 
-- "Security Analysis" by Benjamin Graham and David Dodd (1934)
-- "The Intelligent Investor" by Benjamin Graham (1949)
-- [[source-buffett-letters]]: Buffett's letters on investment philosophy
+> "价格是你付出的，价值是你得到的。"
 
----
+> "无论是袜子还是股票，我都喜欢在打折时购买优质商品。"
 
-## Further Reading
+> "用合理的价格买一家伟大的公司，远比用惊人的价格买一家合理的公司要好得多。"
 
-1. "Security Analysis" - Benjamin Graham & David Dodd
-2. "The Intelligent Investor" - Benjamin Graham
-3. "Snowball" - Alice Schroeder (Buffett biography)
-4. "Warren Buffett's Letters to Shareholders"
+> "股票市场是一种将资金从急躁者转移到耐心者手中的工具。"
 
 ---
 
-## Notes
+## 优势与局限
 
-Value investing is often contrasted with "growth investing" - but Buffett has evolved the approach to focus on "growth at a reasonable price" (GARP), emphasizing quality businesses with durable competitive advantages over cheap, mediocre businesses.
+### 优势
+
+- **下行保护**：安全边际限制损失
+- **情绪纪律**：基于规则的方法减少情绪化决策
+- **长期关注**：与商业现实相符
+- **经证实的历史记录**：格雷厄姆、巴菲特等人展示了长期成功
+
+### 局限
+
+- **增长市场表现不佳**：可能错过高增长股票
+- **需要耐心**：可能需要数年才能看到论点展开
+- **分析密集型**：需要基本面分析技能
+- **市场低效**：取决于市场错误定价（可能消失）
 
 ---
 
-## Metadata
+## 相关概念
 
-**Created**: 2026-04-08  
-**Last Updated**: 2026-04-08  
-**Related Pages**: [[entity-warren-buffett]], [[entity-benjamin-graham]], [[entity-berkshire-hathaway]], [[concept-economic-moat]], [[concept-float]]
+- [[concept-economic-moat]]：竞争优势
+- [[concept-float]]：保险浮存金
+- [[entity-benjamin-graham]]：价值投资之父
+- [[entity-warren-buffett]]：现代价值投资大师
 
 ---
 
-*This page follows the concept template*
+## 参考文献
+
+- 《证券分析》—— 本杰明·格雷厄姆和戴维·多德（1934年）
+- 《聪明的投资者》—— 本杰明·格雷厄姆（1949年）
+- [[source-buffett-letters]]：巴菲特关于投资理念的信件
+
+---
+
+## 延伸阅读
+
+1. 《证券分析》—— 本杰明·格雷厄姆 & 戴维·多德
+2. 《聪明的投资者》—— 本杰明·格雷厄姆
+3. 《滚雪球》—— 爱丽丝·施罗德（巴菲特传记）
+4. 《巴菲特致股东信》
+
+---
+
+## 备注
+
+价值投资经常与"成长投资"对比——但巴菲特已将其发展为关注"合理价格成长"（GARP），强调具有持久竞争优势的优质企业，而不是廉价的一般企业。
+
+---
+
+## 元数据
+
+**创建日期**：2026-04-08  
+**最后更新**：2026-04-08  
+**相关页面**：[[entity-warren-buffett]]，[[entity-benjamin-graham]]，[[entity-berkshire-hathaway]]，[[concept-economic-moat]]，[[concept-float]]
+
+---
+
+*本页面遵循概念模板*

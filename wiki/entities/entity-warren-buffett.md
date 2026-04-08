@@ -1,129 +1,129 @@
-# Warren Buffett
+# 沃伦·巴菲特
 
 ---
 
-## Overview
+## 概述
 
-Warren Buffett (born August 30, 1930) is an American investor, business tycoon, and philanthropist. He is widely regarded as one of the most successful investors in history. Buffett is the chairman and CEO of Berkshire Hathaway, a multinational conglomerate holding company.
+沃伦·巴菲特（1930年8月30日出生）是一位美国投资者、商业巨头和慈善家。他被广泛认为是历史上最成功的投资者之一。巴菲特是伯克希尔·哈撒韦公司的董事长兼 CEO，这是一家跨国多元化控股公司。
 
-**Type**: Person  
-**Role**: Chairman and CEO of Berkshire Hathaway  
-**Net Worth**: Over $100 billion (consistently among the world's wealthiest)
-
----
-
-## Key Information
-
-- **Born**: August 30, 1930, Omaha, Nebraska, USA
-- **Education**: Columbia University (MBA, 1951)
-- **Current Residence**: Omaha, Nebraska
-- **Nickname**: "Oracle of Omaha"
-- **Primary Affiliation**: [[entity-berkshire-hathaway]]
+**类型**：人物  
+**角色**：伯克希尔·哈撒韦董事长兼 CEO  
+**净资产**：超过 1000 亿美元（长期位居全球最富有行列）
 
 ---
 
-## Biography
+## 关键信息
 
-### Early Life
-
-Buffett showed an early interest in business and investing. At age 11, he made his first stock purchase. He attended Columbia Business School after being inspired by Benjamin Graham's book, "The Intelligent Investor."
-
-### Career Milestones
-
-- **1951**: Graduated from Columbia University, worked at Buffett-Falk & Co.
-- **1956**: Formed Buffett Partnership Ltd.
-- **1962**: Began buying shares in Berkshire Hathaway
-- **1965**: Took control of Berkshire Hathaway
-- **1970**: Wrote first letter to Berkshire Hathaway shareholders
-- **Present**: Continues as Chairman and CEO of Berkshire Hathaway
+- **出生日期**：1930年8月30日，内布拉斯加州奥马哈市，美国
+- **教育背景**：哥伦比亚大学（MBA，1951年）
+- **当前居住地**：内布拉斯加州奥马哈市
+- **绰号**："奥马哈先知"
+- **主要关联**：[[entity-berkshire-hathaway]]
 
 ---
 
-## Investment Philosophy
+## 生平简介
 
-Buffett's investment approach is rooted in **[[concept-value-investing]]**, developed by his mentor Benjamin Graham. Key principles include:
+### 早年经历
 
-1. **Intrinsic Value**: Focus on the intrinsic value of a business rather than its stock price
-2. **Margin of Safety**: Only buy when the price is significantly below intrinsic value
-3. **Moat**: Seek businesses with durable competitive advantages ([[concept-economic-moat]])
-4. **Long-term Horizon**: Think in terms of decades, not quarters
-5. **Circle of Competence**: Invest only in businesses you understand
+巴菲特从小就对商业和投资表现出浓厚兴趣。11岁时，他进行了第一次股票投资。在阅读了本杰明·格雷厄姆的《聪明的投资者》后，他受到启发，进入了哥伦比亚商学院深造。
 
----
+### 职业里程碑
 
-## Berkshire Hathaway
-
-Buffett transformed Berkshire Hathaway from a failing textile company into a massive conglomerate with businesses in:
-
-- **Insurance**: Including [[entity-geico]], National Indemnity
-- **Railroads**: BNSF Railway
-- **Utilities**: Berkshire Hathaway Energy
-- **Manufacturing**: Various industrial companies
-- **Consumer Products**: See's Candies, Duracell
-- **Retail**: Various retail operations
-
-The insurance operations are particularly important as they provide **[[concept-float]]** (insurance float) for investment.
+- **1951年**：毕业于哥伦比亚大学，在 Buffett-Falk & Co. 工作
+- **1956年**：创立 Buffett Partnership Ltd.
+- **1962年**：开始购买伯克希尔·哈撒韦的股票
+- **1965年**：控制伯克希尔·哈撒韦
+- **1970年**：撰写第一封致伯克希尔·哈撒韦股东的信
+- **至今**：继续担任伯克希尔·哈撒韦董事长兼 CEO
 
 ---
 
-## Notable Quotes
+## 投资哲学
 
-> "Be fearful when others are greedy, and greedy when others are fearful."
+巴菲特的投资方法根植于他的导师本杰明·格雷厄姆开发的 **[[concept-value-investing]]**。核心原则包括：
 
-> "Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."
-
-> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
-
-> "The most important investment you can make is in yourself."
-
----
-
-## Relationships
-
-### Key Mentors
-
-- **[[entity-benjamin-graham]]**: His professor and mentor at Columbia, author of "The Intelligent Investor"
-- **Charlie Munger**: Vice Chairman of Berkshire Hathaway, long-time partner and collaborator
-
-### Business Partners
-
-- **Charlie Munger** (1924-2023): Vice Chairman, Berkshire Hathaway
-- **Various CEOs**: Leaders of Berkshire's operating subsidiaries
+1. **内在价值**：关注企业的内在价值而非股价
+2. **安全边际**：只在价格显著低于内在价值时买入
+3. **护城河**：寻找具有持久竞争优势的企业（[[concept-economic-moat]]）
+4. **长期视角**：以十年为单位思考，而非季度
+5. **能力圈**：只投资自己理解的企业
 
 ---
 
-## Key Contributions
+## 伯克希尔·哈撒韦
 
-1. **Annual Letters**: Since 1970, Buffett has written detailed annual letters to shareholders, considered essential reading for investors worldwide.
+巴菲特将伯克希尔·哈撒韦从一家衰落的纺织厂转变为业务涵盖广泛的巨型集团：
 
-2. **Philanthropy**: Pledged to give away 99% of his wealth, with major donations to the Bill & Melinda Gates Foundation and his family's foundations.
+- **保险业务**：包括 [[entity-geico]]、国家伤亡保险公司
+- **铁路业务**：BNSF 铁路
+- **公用事业**：伯克希尔·哈撒韦能源
+- **制造业**： various 工业公司
+- **消费品**：See's Candies、劲量电池
+- **零售业务**：various 零售业务
 
-3. **Investment Education**: Through his letters and annual meetings, educated millions about sound investment principles.
-
----
-
-## Source References
-
-- [[source-buffett-letters]]: Buffett's annual letters to shareholders (1977-present)
-- "The Intelligent Investor" by Benjamin Graham
-- "Snowball" by Alice Schroeder (biography)
+保险业务尤为重要，因为它提供了用于投资的 **[[concept-float]]**（保险浮存金）。
 
 ---
 
-## Notes
+## 名言警句
 
-- Known for his humility and simple lifestyle despite immense wealth
-- Annual Berkshire Hathaway shareholder meeting attracts tens of thousands
-- His letters are considered a masterclass in business and investing
+> "当别人恐惧时我贪婪，当别人贪婪时我恐惧。"
 
----
+> "第一条规则：永远不要亏损。第二条规则：永远不要忘记第一条规则。"
 
-## Metadata
+> "用合理的价格买一家伟大的公司，远比用惊人的价格买一家合理的公司要好得多。"
 
-**Created**: 2026-04-08  
-**Last Updated**: 2026-04-08  
-**Related Pages**: [[entity-berkshire-hathaway]], [[entity-benjamin-graham]], [[entity-charlie-munger]], [[concept-value-investing]], [[concept-economic-moat]], [[concept-float]]
+> "最重要的投资是你对自身的投资。"
 
 ---
 
-*This page follows the entity template*
+## 人际关系
+
+### 主要导师
+
+- **[[entity-benjamin-graham]]**：他在哥伦比亚大学的教授和导师，《聪明的投资者》的作者
+- **查理·芒格**：伯克希尔·哈撒韦副董事长，长期合作伙伴
+
+### 商业伙伴
+
+- **查理·芒格**（1924-2023）：伯克希尔·哈撒韦副董事长
+- **various CEOs**：伯克希尔旗下运营子公司负责人
+
+---
+
+## 主要贡献
+
+1. **年度致股东信**：自1970年以来，巴菲特撰写了详细的年度致股东信，被全球投资者视为必读经典。
+
+2. **慈善事业**：承诺捐出99%的财富，主要捐赠给比尔和梅琳达·盖茨基金会及其家族基金会。
+
+3. **投资教育**：通过致股东信和年度股东大会，教育了数百万人关于正确投资原则的知识。
+
+---
+
+## 参考文献
+
+- [[source-buffett-letters]]：巴菲特致股东年度信函（1977年至今）
+- 《聪明的投资者》—— 本杰明·格雷厄姆
+- 《滚雪球》—— 爱丽丝·施罗德（传记）
+
+---
+
+## 备注
+
+- 尽管拥有巨额财富，他以谦逊和简朴的生活方式著称
+- 伯克希尔·哈撒韦年度股东大会吸引数万人参加
+- 他的致股东信被认为是商业和投资的大师课
+
+---
+
+## 元数据
+
+**创建日期**：2026-04-08  
+**最后更新**：2026-04-08  
+**相关页面**：[[entity-berkshire-hathaway]]，[[entity-benjamin-graham]]，[[concept-value-investing]]，[[concept-economic-moat]]，[[concept-float]]
+
+---
+
+*本页面遵循实体模板*

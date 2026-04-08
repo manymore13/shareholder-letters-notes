@@ -1,112 +1,102 @@
-# Personal Wiki Index
+# 个人 Wiki 索引
 
-Welcome to your personal knowledge wiki. This index organizes all content across four main categories.
-
----
-
-## Entities
-
-Real-world entities: people, organizations, projects, and tools.
-
-### People
-
-- [[entity-warren-buffett|Warren Buffett]] - Oracle of Omaha, Chairman & CEO of Berkshire Hathaway
-- [[entity-benjamin-graham|Benjamin Graham]] - Father of value investing, author of "The Intelligent Investor"
-
-### Organizations
-
-- [[entity-berkshire-hathaway|Berkshire Hathaway]] - Multinational conglomerate holding company
-- [[entity-geico|GEICO]] - Government Employees Insurance Company, low-cost auto insurer
-- [[entity-national-indemnity|National Indemnity]] - Berkshire's insurance subsidiary
-- [[entity-washington-post|Washington Post]] - Media company, permanent holding
-- [[entity-cap-cities-abc|Capital Cities/ABC]] - Media company, permanent holding
-- [[entity-nebraska-furniture-mart|Nebraska Furniture Mart]] - Furniture retailer, acquired 1983
-- [[entity-sees-candies|See's Candies]] - Candy manufacturer and retailer
-- [[entity-buffalo-news|Buffalo News]] - Newspaper publisher
-- [[entity-fechheimer|Fechheimer Bros.]] - Uniform manufacturer, acquired 1986
-- [[entity-coca-cola|Coca-Cola]] - Beverage company, major investment
-- [[entity-gillette|Gillette]] - Consumer products company, major investment
-- [[entity-wells-fargo|Wells Fargo]] - Banking, major investment during 1990 crisis
-- [[entity-buffalo-news|Buffalo News]] - Newspaper publisher
-- [[entity-borsheims|Borsheim's]] - Jewelry retailer, acquired 1989
-- [[entity-h-h-brown|H.H. Brown]] - Shoe manufacturer, acquired 1991
-- [[entity-lowell-shoe|Lowell Shoe]] - Women's shoe manufacturer, acquired 1992
-- [[entity-dexter-shoe|Dexter Shoe]] - Shoe manufacturer, acquired 1993
-- [[entity-helzbergs|Helzberg's Diamond Shops]] - Jewelry retailer, acquired 1995
-- [[entity-rc-willey|R.C. Willey Home Furnishings]] - Furniture retailer, acquired 1995
-- [[entity-flightsafety|FlightSafety International]] - Pilot training, acquired 1996
-- [[entity-kansas-bankers-surety|Kansas Bankers Surety]] - Bank insurance, acquired 1996
-- [[entity-scott-fetzer|Scott Fetzer]] - Diversified manufacturer, acquired 1986
-- [[entity-marmon-group|Marmon Group]] - Industrial conglomerate, acquired 2007
-- [[entity-tti|TTI Industries]] - Electronics distributor, acquired 2007
-- [[entity-iscar|Iscar]] - Metal cutting tools, acquired 2006
-- [[entity-bnsf|Burlington Northern Santa Fe]] - Railroad, acquired 2009
-- [[entity-lubrizol|Lubrizol]] - Specialty chemicals, acquired 2011
-- [[entity-heinz|H.J. Heinz]] - Food company, acquired 2013
-- [[entity-midamerican-energy|MidAmerican Energy]] - Utility company
-- [[entity-ibm|IBM]] - Technology company, major investment 2011
+欢迎来到你的个人知识 Wiki。本索引将所有内容组织在四个主要类别中。
 
 ---
 
-## Concepts
+## 实体
 
-Abstract ideas: theories, frameworks, methods, and principles.
+真实世界的实体：人物、组织、项目和工具。
 
-### Theories & Frameworks
+### 人物
 
-- [[concept-value-investing|Value Investing]] - Investment philosophy based on intrinsic value and margin of safety
-- [[concept-economic-moat|Economic Moat]] - Sustainable competitive advantages that protect businesses
-- [[concept-float|Float]] - Insurance float as patient capital for investment
-- [[concept-return-on-equity|Return on Equity (ROE)]] - Key metric for evaluating business performance
-- [[concept-intrinsic-value|Intrinsic Value]] - True economic value of a business
-- [[concept-mr-market|Mr. Market]] - Graham's metaphor for market volatility
-- [[concept-permanent-holdings|Permanent Holdings]] - Stocks to be held indefinitely regardless of price
-- [[concept-owner-earnings|Owner Earnings]] - True profitability metric correcting GAAP deficiencies
-- [[concept-economic-goodwill|Economic Goodwill]] - True intangible value vs accounting goodwill
-- [[concept-look-through-earnings|Look-Through Earnings]] - True economic earnings including undistributed profits
-- [[concept-owner-earnings|Owner Earnings]] - True profitability metric correcting GAAP deficiencies
-- [[concept-margin-of-safety|Margin of Safety]] - Price buffer to protect against estimation errors
-- [[concept-book-value|Book Value]] - Historical capital input into business
-- [[concept-capital-allocation|Capital Allocation]] - Decision-making on deploying capital
-- [[concept-yardsticks|Yardsticks]] - Dual metrics: investments and non-insurance earnings
-- [[concept-managerial-culture|Managerial Culture]] - Unique Berkshire management structure
-- [[concept-financial-strength|Financial Strength]] - Gibraltar-like financial position
-- [[concept-moat|Economic Moat]] - Durable competitive advantages
-- [[concept-normal-earning-power|Normal Earning Power]] - Baseline earnings estimation
-- [[concept-five-year-periods|Five-Year Periods]] - Long-term performance evaluation
-- [[concept-per-share-growth|Per-Share Growth]] - Growth in per-share value, not total size
-- [[concept-bolt-on-acquisitions|Bolt-on Acquisitions]] - Small acquisitions integrated into existing businesses
-- [[concept-intrinsic-value|Intrinsic Value]] - True economic value of a business
-- [[concept-inversion|Inversion]] - Charlie Munger's problem-solving approach
+- [[entity-warren-buffett|沃伦·巴菲特]] - 奥马哈先知，伯克希尔·哈撒韦董事长兼 CEO
+- [[entity-benjamin-graham|本杰明·格雷厄姆]] - 价值投资之父，《聪明的投资者》作者
 
-### Principles & Patterns
+### 组织
 
-- **Intrinsic Value**: Present value of future cash flows
-- **Margin of Safety**: Buying below intrinsic value for protection
-- **Mr. Market**: Metaphor for market's irrational price swings
-- **Undistributed Earnings**: Value of retained profits in investee companies
-- **Underwriting Cycle**: Cyclical profitability in insurance industry
-- **Capital Allocation**: Deploying capital to highest return opportunities
-
-### Principles & Patterns
-
-- **Intrinsic Value**: Present value of future cash flows
-- **Margin of Safety**: Buying below intrinsic value for protection
-- **Mr. Market**: Metaphor for market's irrational price swings
+- [[entity-berkshire-hathaway|伯克希尔·哈撒韦]] - 跨国多元化控股公司
+- [[entity-geico|GEICO]] - 政府雇员保险公司，低成本汽车保险商
+- [[entity-national-indemnity|National Indemnity]] - 伯克希尔的保险子公司
+- [[entity-washington-post|华盛顿邮报]] - 媒体公司，永久持股
+- [[entity-cap-cities-abc|Capital Cities/ABC]] - 媒体公司，永久持股
+- [[entity-nebraska-furniture-mart|Nebraska Furniture Mart]] - 家具零售商，1983年收购
+- [[entity-sees-candies|See's Candies]] - 糖果制造商和零售商
+- [[entity-buffalo-news|Buffalo News]] - 报纸出版商
+- [[entity-fechheimer|Fechheimer Bros.]] - 制服制造商，1986年收购
+- [[entity-coca-cola|可口可乐]] - 饮料公司，重大投资
+- [[entity-gillette|吉列]] - 消费品公司，重大投资
+- [[entity-wells-fargo|富国银行]] - 银行业，1990年危机期间重大投资
+- [[entity-borsheims|Borsheim's]] - 珠宝零售商，1989年收购
+- [[entity-h-h-brown|H.H. Brown]] - 鞋类制造商，1991年收购
+- [[entity-lowell-shoe|Lowell Shoe]] - 女鞋制造商，1992年收购
+- [[entity-dexter-shoe|Dexter Shoe]] - 鞋类制造商，1993年收购
+- [[entity-helzbergs|Helzberg's Diamond Shops]] - 珠宝零售商，1995年收购
+- [[entity-rc-willey|R.C. Willey Home Furnishings]] - 家具零售商，1995年收购
+- [[entity-flightsafety|FlightSafety International]] - 飞行员培训，1996年收购
+- [[entity-kansas-bankers-surety|Kansas Bankers Surety]] - 银行保险，1996年收购
+- [[entity-scott-fetzer|Scott Fetzer]] - 多元化制造商，1986年收购
+- [[entity-marmon-group|Marmon Group]] - 工业集团，2007年收购
+- [[entity-tti|TTI Industries]] - 电子分销商，2007年收购
+- [[entity-iscar|Iscar]] - 金属切削工具，2006年收购
+- [[entity-bnsf|Burlington Northern Santa Fe]] - 铁路，2009年收购
+- [[entity-lubrizol|Lubrizol]] - 特种化学品，2011年收购
+- [[entity-heinz|H.J. Heinz]] - 食品公司，2013年收购
+- [[entity-midamerican-energy|MidAmerican Energy]] - 公用事业公司
+- [[entity-ibm|IBM]] - 科技公司，2011年重大投资
 
 ---
 
-## Sources
+## 概念
 
-Summaries of source documents: papers, articles, books, and notes.
+抽象思想：理论、框架、方法和原则。
 
-### Books
+### 理论与框架
 
-- [[source-buffett-letters|Buffett's Letters to Shareholders]] - Annual letters (1977-2025), 44 letters total
+- [[concept-value-investing|价值投资]] - 基于内在价值和安全边际的投资理念
+- [[concept-economic-moat|经济护城河]] - 保护企业的可持续竞争优势
+- [[concept-float|浮存金]] - 作为耐心投资资本的保险浮存金
+- [[concept-return-on-equity|股本回报率（ROE）]] - 评估企业业绩的关键指标
+- [[concept-intrinsic-value|内在价值]] - 企业的真实经济价值
+- [[concept-mr-market|市场先生]] - 格雷厄姆关于市场波动的比喻
+- [[concept-permanent-holdings|永久持股]] - 不论价格永久持有的股票
+- [[concept-owner-earnings|所有者收益]] - 修正 GAAP 缺陷的真实盈利指标
+- [[concept-economic-goodwill|经济商誉]] - 真实无形资产价值 vs 会计商誉
+- [[concept-look-through-earnings|透视盈余]] - 包括未分配利润的真实经济收益
+- [[concept-margin-of-safety|安全边际]] - 防止估算错误的价格缓冲
+- [[concept-book-value|账面价值]] - 投入企业的历史资本
+- [[concept-capital-allocation|资本配置]] - 部署资本的决策
+- [[concept-yardsticks|衡量标准]] - 双重指标：投资和非保险收益
+- [[concept-managerial-culture|管理层文化]] - 伯克希尔独特的管理结构
+- [[concept-financial-strength|财务实力]] - 如直布罗陀般的财务地位
+- [[concept-normal-earning-power|正常盈利能力]] - 基线收益估算
+- [[concept-five-year-periods|五年周期]] - 长期业绩评估
+- [[concept-per-share-growth|每股增长]] - 每股价值的增长，而非总规模
+- [[concept-bolt-on-acquisitions|补充性收购]] - 整合到现有业务的小型收购
+- [[concept-inversion|逆向思维]] - 查理·芒格的问题解决方法
 
-### Source Details
+### 原则与模式
 
-- [[source-buffett-letters-1977|Letter 1977]] - Foundation of insurance strategy, ROE as performance metric
+- **内在价值**：未来现金流量的现值
+- **安全边际**：低于内在价值买入以获得保护
+- **市场先生**：市场非理性价格波动的比喻
+- **未分配收益**：被投资公司留存利润的价值
+- **承保周期**：保险业的周期性盈利
+- **资本配置**：将资本部署到最高回报机会
+
+---
+
+## 来源
+
+源文档摘要：论文、文章、书籍和笔记。
+
+### 书籍
+
+- [[source-buffett-letters|巴菲特致股东信]] - 年度信件（1977-2025年），共44封
+
+### 来源详情
+
+- [[source-buffett-letters-1977|1977年信]] - 保险战略基础，ROE 作为业绩指标
 
 #### 第1批：1978-1987年
 
@@ -168,43 +158,43 @@ Summaries of source documents: papers, articles, books, and notes.
 
 ---
 
-## Synthesis
+## 综合分析
 
-Comprehensive analyses and cross-reference studies.
+综合分析和交叉引用研究。
 
-*No synthesis pages yet*
-
----
-
-## Quick Start
-
-1. Add documents to `raw/` directory
-2. Ask LLM to ingest: "Ingest [filename]"
-3. LLM will create structured pages with cross-references
-4. This index will be automatically updated
-
-## Statistics
-
-- **Total Entities**: 50
-- **Total Concepts**: 47
-- **Total Sources**: 44 (1977-2025, 1985 pending)
-- **Total Synthesis**: 0
-- **Last Updated**: 2026-04-08
+*暂无综合分析页面*
 
 ---
 
-## Raw Materials
+## 快速开始
 
-### Buffett's Letters Collection
+1. 将文档添加到 `raw/` 目录
+2. 请求 LLM 摄入："摄入 [文件名]"
+3. LLM 将创建带有交叉引用的结构化页面
+4. 本索引将自动更新
 
-**Location**: `raw/books/`
+## 统计数据
 
-| Format | Years | Count |
-|--------|-------|-------|
-| HTML | 1977-1997 | 21 letters |
-| PDF | 2003-2025 | 23 letters |
-| **Total** | | **44 letters** |
+- **实体总数**：50
+- **概念总数**：47
+- **来源总数**：44（1977-2025年，1985年待处理）
+- **综合分析总数**：0
+- **最后更新**：2026-04-08
 
 ---
 
-*This wiki is maintained by LLM following the schema in CLAUDE.md*
+## 原始材料
+
+### 巴菲特致股东信合集
+
+**位置**：`raw/books/`
+
+| 格式 | 年份 | 数量 |
+|------|------|------|
+| HTML | 1977-1997 | 21封信 |
+| PDF | 2003-2025 | 23封信 |
+| **总计** | | **44封信** |
+
+---
+
+*本 Wiki 由 LLM 按照 CLAUDE.md 中的模式维护*

@@ -1,173 +1,255 @@
-# Float (Insurance Float)
+# 浮存金
 
 ---
 
-## Overview
+## 概述
 
-Insurance float is money that insurance companies collect in premiums but have not yet paid out in claims. It represents a form of "borrower is the bank" leverage - insurers hold policyholders' money temporarily, invest it, and earn returns. This concept is central to [[entity-berkshire-hathaway]]'s investment strategy.
+浮存金是保险行业特有的资本来源，指保险公司在赔付损失之前持有投保人缴纳的保费。这是 **[[entity-warren-buffett]]** 和 **[[entity-berkshire-hathaway]]** 投资帝国的核心资金来源。
 
-**Type**: Concept / Financial Instrument  
-**Category**: Insurance Finance  
-**Domain**: Finance / Insurance  
-
----
-
-## Definition
-
-**Float** = Unearned Premiums + Loss Reserves
-
-- **Unearned Premiums**: Premiums collected for future coverage periods
-- **Loss Reserves**: Money set aside for claims that have occurred but not yet paid
-
-Buffett described float as: "money we hold but don't own" - it belongs to policyholders until claims are paid.
+**类型**：概念 / 金融工具  
+**类别**：保险金融  
+**领域**：资本配置 / 投资融资  
 
 ---
 
-## The Economics of Float
+## 核心定义
 
-### Key Characteristics
+### 什么是浮存金？
 
-| Feature | Description |
-|---------|-------------|
-| **Cost** | Usually zero or negative (policies are priced profitably) |
-| **Duration** | Can be held for decades in long-tail lines |
-| **Stability** | Relatively stable compared to other capital sources |
-| **Tax Treatment** | Deferred taxation while held |
+浮存金 = 保险公司收到的保费 - 已支付或预计支付的赔款
 
-### Float Cost Formula
+**简单理解**：在你向保险公司支付保费后，保险公司会用这笔钱进行投资获利，直到你需要理赔时才赔付。这中间的时间差就是"浮存"。
 
-```
-Float Cost = (Underwriting Loss + Investment Income Lost) / Float
-```
+### 浮存金的来源
 
-Ideally, the float is "free" or even "negative cost" - the company earns underwriting profit and gets to invest float for free.
+1. **保费预收**：客户预先支付保费
+2. **赔付延迟**：理赔审批需要时间
+3. **储备金**：为未来赔付预留资金
 
----
+### 浮存金的成本
 
-## [[entity-berkshire-hathaway]] and Float
-
-### Historical Float Growth
-
-Buffett has built Berkshire's insurance operations into the world's largest:
-
-| Year | Float |
-|------|-------|
-| 1967 | $22 million |
-| 1977 | $151 million |
-| 1987 | ~$1 billion |
-| 1997 | ~$15 billion |
-| 2007 | ~$50 billion |
-| 2017 | ~$115 billion |
-| 2024 | ~$170 billion |
-
-### Insurance Operations
-
-**Primary Insurers**:
-- [[entity-geico]]: Direct auto insurance, low-cost model
-- National Indemnity: Reinsurance and commercial insurance
-- General Re: Global reinsurance
-
-### Investment Strategy
-
-Buffett uses float differently than most insurers:
-1. **Equity-Heavy Portfolio**: Invests primarily in stocks, not bonds
-2. **Long-Term Focus**: Holds for decades, not quarters
-3. **Concentrated Bets**: High-conviction investments
-4. **Market Timing**: Opportunistic, though believes in consistent presence
+理想情况下，优秀的保险公司能够以**负成本**获得浮存金：
+- 保费收入产生的投资收益 > 赔付成本
+- 这意味着保险公司"被付钱"来持有这笔资金
 
 ---
 
-## Float Risks
+## 浮存金作为投资优势
 
-### Risk 1: Underwriting Losses
+### 为什么浮存金有价值？
 
-If combined ratio > 100%, the company loses money on operations. Float doesn't help if it's shrinking.
+巴菲特将浮存金视为"免费资金"，因为：
 
-### Risk 2: Long-Tail Losses
+1. **低成本融资**：远低于债券或银行贷款成本
+2. **长期稳定**：保险合同持续续保
+3. **无需偿还**：不像债务需要到期归还
+4. **投资自由**：可以长期持有优质投资
 
-Claims that take years to develop (medical malpractice, workers' compensation) tie up float indefinitely.
+### 浮存金的隐含成本
 
-### Risk 3: Catastrophe Risk
-
-Natural disasters or man-made events can cause sudden, massive claims.
-
-### Risk 4: Investment Losses
-
-If float is invested poorly, the "free capital" becomes expensive.
-
----
-
-## The Buffett Advantage
-
-What makes Berkshire's use of float unique:
-
-### 1. Operational Excellence
-
-Berkshire's insurance subsidiaries often achieve combined ratios below 100, meaning float comes essentially free or at negative cost.
-
-### 2. Investment Expertise
-
-Buffett's investment returns far exceed what most insurers achieve, maximizing the leverage effect of float.
-
-### 3. Financial Strength
-
-Berkshire's AAA credit rating allows it to write business others cannot, and its size provides diversification.
-
-### 4. Long-Term Orientation
-
-While most insurers optimize for quarterly results, Buffett thinks in decades - accepting short-term underwriting losses for long-term gain.
+- **承保亏损**：如果承保业务亏损
+- **投资风险**：市场波动影响投资回报
+- **精算假设偏差**：实际损失可能超过预期
+- **流动性风险**：大规模灾难性事件
 
 ---
 
-## Famous Buffett Quotes on Float
+## 伯克希尔的保险帝国
 
-> "An insurance business has float - money we hold but don't own. If we can acquire float at a low cost and invest it at high returns, we profit."
+### National Indemnity
 
-> "The insurance business is profitable because of float, but only if the underwriting result is at least break-even. Then the float is truly cost-free."
+**历史**：
+- 1967年收购：860万美元
+- 当时保费收入：2200万美元
 
-> "Our willingness to accept uncertainty in insurance - and indeed to embrace it - has been an important source of profits."
+**关键指标**（2019年）：
+- 浮存金规模：1290亿美元
+- 成本：约 1.2%（远低于债券收益率）
 
----
+### GEICO
 
-## Related Concepts
+**特点**：
+- 直接营销模式（低费用率）
+- 客户忠诚度高
+- 浮存金持续增长
 
-- [[concept-value-investing]]: The investment framework that uses float
-- [[concept-economic-moat]]: GEICO's low-cost model is a competitive moat
-- [[entity-berkshire-hathaway]]: Master user of float
-- [[entity-geico]]: Key insurance subsidiary generating float
+**关键优势**：
+> "在 GEICO，我们的费用率是 14%（行业平均为 25%）。这意味着每节省 11 美元的承保费用，我们就可以将其转化为更低的费率或更高的利润。"
 
----
+### Reinsurance
 
-## Source References
-
-- [[source-buffett-letters]]: Buffett discusses float extensively in annual letters
-- [[source-buffett-letters-1977]]: Early discussion of float strategy
-
----
-
-## Practical Implications
-
-For investors, understanding float is essential when evaluating insurance companies:
-
-1. **Float Quantity**: More float means more potential leverage
-2. **Float Cost**: Underwriting profit = negative cost float
-3. **Float Duration**: Longer-duration float is more valuable
-4. **Investment Returns**: Float is only valuable if invested well
+- **通用再保险（General Re）**：全球最大再保险公司之一
+- **澳大利亚再保险（Australian Re）**：补充通用再保险
+- 提供额外浮存金来源
 
 ---
 
-## Notes
+## 浮存金与 [[concept-value-investing]]
 
-Float is essentially "patient capital" that Berkshire deploys. When float grows faster than the economy, Berkshire's investment firepower compounds. This creates a powerful flywheel: more float → more investments → more returns → more float.
+### 资本配置的灵活性
+
+浮存金使伯克希尔能够：
+
+1. **逆向投资**：市场恐慌时买入
+2. **长期持有**：不需要短期变现
+3. **大规模投资**：支持数十亿美元的交易
+4. **等待机会**：耐心等待合适时机
+
+### 投资原则
+
+> "我们可以利用保险浮存金——这是不寻常的，因为我们可以进行大量投资而不会被赎回。" —— 巴菲特
 
 ---
 
-## Metadata
+## 浮存金的规模与成本
 
-**Created**: 2026-04-08  
-**Last Updated**: 2026-04-08  
-**Related Pages**: [[entity-berkshire-hathaway]], [[entity-geico]], [[entity-warren-buffett]], [[concept-value-investing]], [[concept-economic-moat]]
+### 伯克希尔浮存金历史
+
+| 年份 | 浮存金规模 | 成本 |
+|------|-----------|------|
+| 1970 | 3900万 | 22% |
+| 1980 | 2.37亿 | 14% |
+| 1990 | 16亿 | 4% |
+| 2000 | 280亿 | 1% |
+| 2010 | 660亿 | 负成本 |
+| 2019 | 1290亿 | 约 1.2% |
+
+### 浮存金成本的重要性
+
+- **成本为负**：相当于"被付钱"投资
+- **成本低于市场利率**：竞争优势
+- **成本越低，投资回报越高**
 
 ---
 
-*This page follows the concept template*
+## 承保纪律
+
+### 巴菲特的原则
+
+> "保险业务最重要的部分是承保纪律。"
+
+### 承保纪律的关键
+
+1. **只承保有利可图的业务**：
+   - "我们不会为了增长而牺牲利润"
+   - 拒绝价格低于成本的保单
+
+2. **长期视角**：
+   - 不追逐短期市场份额
+   - 在市场不好时保持理性
+
+3. **灾难性风险控制**：
+   - 避免可能摧毁公司的极端事件
+   - 控制巨灾敞口
+
+### 承保周期
+
+保险行业具有周期性：
+- **软市场**：价格下跌，竞争激烈
+- **硬市场**：价格上涨，利润改善
+
+**巴菲特策略**：在软市场保持承保纪律，在硬市场不贪婪。
+
+---
+
+## 浮存金使用案例
+
+### 大规模收购
+
+- **BNSF 铁路**（2009年）：260亿美元
+- **伯灵顿北圣太菲铁路**：利用浮存金融资
+
+### 投资组合支持
+
+- 持有可口可乐、美国运通等长期投资
+- 在危机时期增持（如2008年金融危机）
+
+### 灾难时期的优势
+
+> "在市场恐慌时，我们有资金能力采取行动，而大多数竞争对手只能袖手旁观。"
+
+---
+
+## 浮存金的风险
+
+### 承保风险
+
+- **定价过低**：未来赔付超过保费
+- **精算错误**：损失假设不准确
+- **巨灾风险**：地震、飓风等
+
+### 投资风险
+
+- **市场下跌**：投资组合价值缩水
+- **利率风险**：低利率环境
+- **汇率风险**：国际投资敞口
+
+### 负债风险
+
+- **未决赔款准备金**：可能不足
+- **长尾业务**：如工伤险，责任可能延续数十年
+
+---
+
+## 浮存金质量评估
+
+### 优质浮存金特征
+
+- ✅ 承保业务盈利或微利
+- ✅ 客户续保率高
+- ✅ 赔付可预测
+- ✅ 灾难敞口有限
+
+### 低质量浮存金特征
+
+- ❌ 长期承保亏损
+- ❌ 高赔付波动性
+- ❌ 巨灾密集型业务
+- ❌ 客户忠诚度低
+
+---
+
+## 护城河评估
+
+### 浮存金护城河的持久性
+
+**优势因素**：
+- 规模经济（更大的浮存金 → 更多的投资收入）
+- 品牌和信任
+- 进入壁垒（资本要求）
+
+**威胁因素**：
+- 监管变化
+- 技术颠覆
+- 新竞争者
+
+---
+
+## 关键引言
+
+> "保险公司产生浮存金——这些资金来自保险运营，在支付赔款之前可以用于投资。只要我们能够以低于市场利率的成本获得浮存金，我们就可以创造价值。"
+
+> "浮存金的有趣之处在于——如果我们以承保利润获得它，那几乎就像免费资金一样。"
+
+---
+
+## 相关概念
+
+- [[concept-value-investing]]：价值投资框架
+- [[concept-economic-moat]]：竞争优势分析
+- [[concept-intrinsic-value]]：内在价值评估
+- [[entity-geico]]：GEICO 保险
+- [[entity-national-indemnity]]：国家伤亡保险公司
+- [[entity-berkshire-hathaway]]：伯克希尔哈撒韦
+
+---
+
+## 元数据
+
+**创建日期**：2026-04-08  
+**最后更新**：2026-04-08  
+**相关页面**：[[entity-warren-buffett]]，[[entity-berkshire-hathaway]]，[[entity-geico]]，[[concept-value-investing]]，[[concept-economic-moat]]
+
+---
+
+*本页面遵循概念模板*

@@ -1,150 +1,151 @@
-# Buffett's Letters to Shareholders
+# 巴菲特致股东信
 
 ---
 
-## Overview
+## 概述
 
-The annual letters from **[[entity-warren-buffett]]** to shareholders of **[[entity-berkshire-hathaway]]** are considered among the most important investment documents ever written. Since 1970, Buffett has written comprehensive letters discussing business performance, investment philosophy, and lessons learned.
+**[[entity-warren-buffett]]** 致 **[[entity-berkshire-hathaway]]** 股东年度信被认为是史上最重要的投资文献之一。自1970年以来，巴菲特撰写了全面的信件，讨论企业业绩、投资理念和经验教训。
 
-**Type**: Collection of Annual Letters  
-**Date Range**: 1970 - Present  
-**Source Files**: `raw/books/html/` (1977-1997), `raw/books/pdf/` (2003-2025)  
-
----
-
-## Collection Metadata
-
-### Coverage
-
-| Period | Format | Count |
-|--------|--------|-------|
-| 1977-1997 | HTML | 21 letters |
-| 2003-2025 | PDF | 23 letters |
-| **Total** | - | **44 letters** |
-
-### Notable Absences
-- 1998-2002: Not available in current collection
+**类型**：年度信函合集  
+**时间范围**：1970年至今  
+**源文件**：`raw/books/html/`（1977-1997年），`raw/books/pdf/`（2003-2025年）  
 
 ---
 
-## Structure of Each Letter
+## 合集元数据
 
-Typical letter structure includes:
+### 覆盖范围
 
-1. **Opening**: Year in review summary
-2. **Operating Results**: Performance of each business segment
-3. **Insurance Operations**: Detailed discussion of float and underwriting
-4. **Investments**: Portfolio holdings and rationale
-5. **Acquisitions**: Major deals and thinking
-6. **Philosophy**: Investment and business lessons
-7. **Closing**: Outlook and reflections
+| 时期 | 格式 | 数量 |
+|------|------|------|
+| 1977-1997 | HTML | 21封信 |
+| 2003-2025 | PDF | 23封信 |
+| **总计** | - | **44封信** |
 
----
+### 缺失部分
 
-## Key Themes Across Letters
-
-### Investment Principles
-
-1. **[[concept-value-investing]]**: Consistent application of intrinsic value approach
-2. **[[concept-economic-moat]]**: Focus on durable competitive advantages
-3. **Long-term Thinking**: Emphasis on multi-year horizons
-4. **Concentration**: High-conviction positions
-
-### Business Management
-
-1. **Capital Allocation**: Efficient deployment of retained earnings
-2. **Incentive Alignment**: Management compensation tied to long-term value
-3. **Honest Communication**: Straightforward reporting, no quarterly guidance
-4. **Decentralization**: Operating autonomy for subsidiary CEOs
-
-### Insurance
-
-1. **[[concept-float]]**: Building and deploying insurance float
-2. **Underwriting Discipline**: Only writing profitable business
-3. **Catastrophe Awareness**: Managing tail risk
+- 1998-2002年：当前合集中未收录
 
 ---
 
-## Famous Concepts Introduced
+## 每封信的结构
 
-| Letter Year | Concept |
-|-------------|---------|
-| 1977 | ROE as performance metric |
-| 1983 | "Wide moat" concept introduced |
-| 1987 | "Mr. Market" adaptation |
-| 1990 | "Intrinsic value" definitions |
-| 1996 | Discussion of BH's acquisition criteria |
-| 2007 | Derivatives warning |
-| 2014 | "The Wholesome Giant" concept |
+典型信件结构包括：
+
+1. **开场**：年度回顾总结
+2. **经营业绩**：各业务板块表现
+3. **保险业务**：浮存金和承保的详细讨论
+4. **投资组合**：持股和投资理由
+5. **收购**：重大交易和思考
+6. **理念**：投资和商业经验
+7. **结尾**：展望和反思
 
 ---
 
-## Letters Index
+## 信件中的关键主题
 
-### By Decade
+### 投资原则
+
+1. **[[concept-value-investing]]**：内在价值方法的持续应用
+2. **[[concept-economic-moat]]**：关注持久竞争优势
+3. **长期思维**：强调多年视野
+4. **集中投资**：高置信度仓位
+
+### 商业管理
+
+1. **资本配置**：高效部署留存收益
+2. **激励对齐**：管理层薪酬与长期价值挂钩
+3. **坦诚沟通**：直接报告，不提供季度指导
+4. **去中心化**：子公司 CEO 的运营自主权
+
+### 保险业务
+
+1. **[[concept-float]]**：建立和使用保险浮存金
+2. **承保纪律**：只做有利可图的业务
+3. **灾难意识**：管理尾部风险
+
+---
+
+## 经典概念引入时间线
+
+| 信件年份 | 概念 |
+|----------|------|
+| 1977 | ROE 作为业绩指标 |
+| 1983 | "宽护城河"概念引入 |
+| 1987 | "市场先生"适应 |
+| 1990 | "内在价值"定义 |
+| 1996 | 伯克希尔收购标准讨论 |
+| 2007 | 衍生品警告 |
+| 2014 | "健康巨人"概念 |
+
+---
+
+## 信件索引
+
+### 按年代
 
 #### 1977-1979
-- [[source-buffett-letters-1977]]: Foundation of insurance strategy
+- [[source-buffett-letters-1977]]：保险战略基础
 
 #### 1980-1989
-- (Letters from 1980-1989 available)
+- （1980-1989年信件可查阅）
 
 #### 1990-1999
-- (Letters from 1990-1997 available)
+- （1990-1997年信件可查阅）
 
 #### 2000-2009
-- (Letters from 2003-2009 available)
+- （2003-2009年信件可查阅）
 
 #### 2010-2019
-- (Letters from 2010-2019 available)
+- （2010-2019年信件可查阅）
 
-#### 2020-Present
-- (Letters from 2020-2025 available)
-
----
-
-## Reading Guide
-
-### For Beginners
-
-Start with these most-accessible letters:
-1. **1996**: Clear explanation of Berkshire's structure
-2. **2005**: Excellent business philosophy summary
-3. **2012**: Comprehensive overview of insurance operations
-
-### For Deep Dives
-
-For specific topics:
-- **[[concept-value-investing]]**: 1987, 2000, 2014
-- **[[concept-economic-moat]]**: 1983, 2007, 2019
-- **[[concept-float]]**: 1977, 1997, 2019
-- **[[entity-warren-buffett|Management Philosophy]]**: 1987, 1992, 2014
+#### 2020年至今
+- （2020-2025年信件可查阅）
 
 ---
 
-## Key Quotes
+## 阅读指南
 
-### On Intrinsic Value
+### 初学者入门
 
-> "Intrinsic value is an all-important concept that offers the only logical approach to evaluating the relative attractiveness of investments and businesses."
+从最容易理解的信件开始：
+1. **1996年**：清晰解释伯克希尔结构
+2. **2005年**：优秀商业理念总结
+3. **2012年**：保险业务全面概览
 
-### On Mr. Market
+### 深度研究
 
-> "The market is a device for transferring money from the impatient to the patient."
-
-### On Moats
-
-> "The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given business and, above all, the durability of that advantage."
-
-### On Time Horizon
-
-> "Our favorite holding period is forever."
+针对特定主题：
+- **[[concept-value-investing]]**：1987年、2000年、2014年
+- **[[concept-economic-moat]]**：1983年、2007年、2019年
+- **[[concept-float]]**：1977年、1997年、2019年
+- **[[entity-warren-buffett|管理理念]]**：1987年、1992年、2014年
 
 ---
 
-## Source Files
+## 经典引言
 
-### HTML Format (1977-1997)
+### 论内在价值
+
+> "内在价值是一个极其重要的概念，它提供了评估投资和企业相对吸引力的唯一合乎逻辑的方法。"
+
+### 论市场先生
+
+> "市场是一种将资金从急躁者转移到耐心者手中的工具。"
+
+### 论护城河
+
+> "投资的关键不是评估一个行业将如何影响社会，或者它将增长多少，而是确定任何特定企业的竞争优势，最重要的是该优势的持久性。"
+
+### 论时间视野
+
+> "我们最喜欢的持有期是永远。"
+
+---
+
+## 源文件
+
+### HTML 格式（1977-1997年）
 ```
 raw/books/html/
 ├── 1977_buffett_letter.html
@@ -153,7 +154,7 @@ raw/books/html/
 └── 1997_buffett_letter.html
 ```
 
-### PDF Format (2003-2025)
+### PDF 格式（2003-2025年）
 ```
 raw/books/pdf/
 ├── 2003_buffett_letter.pdf
@@ -164,23 +165,23 @@ raw/books/pdf/
 
 ---
 
-## Related Pages
+## 相关页面
 
-- [[entity-warren-buffett]]: Author
-- [[entity-berkshire-hathaway]]: Company being discussed
-- [[concept-value-investing]]: Core philosophy
-- [[concept-economic-moat]]: Key analytical framework
-- [[concept-float]]: Insurance strategy
-
----
-
-## Metadata
-
-**Created**: 2026-04-08  
-**Last Updated**: 2026-04-08  
-**Collection Size**: 44 letters  
-**Coverage**: 1977-1997, 2003-2025
+- [[entity-warren-buffett]]：作者
+- [[entity-berkshire-hathaway]]：所讨论的公司
+- [[concept-value-investing]]：核心理念
+- [[concept-economic-moat]]：关键分析框架
+- [[concept-float]]：保险策略
 
 ---
 
-*This page summarizes Buffett's annual letters to shareholders*
+## 元数据
+
+**创建日期**：2026-04-08  
+**最后更新**：2026-04-08  
+**合集大小**：44封信  
+**覆盖范围**：1977-1997年，2003-2025年
+
+---
+
+*本页面总结了巴菲特年度致股东信*

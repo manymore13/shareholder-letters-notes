@@ -1,159 +1,236 @@
-# Berkshire Hathaway
+# 伯克希尔·哈撒韦
 
 ---
 
-## Overview
+## 概述
 
-Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska. Under the leadership of Warren Buffett since 1965, it has grown from a struggling textile company into one of the world's largest and most valuable corporations.
+伯克希尔·哈撒韦（Berkshire Hathaway）是一家美国跨国多元化控股公司，由传奇投资者 **[[entity-warren-buffett]]** 领导。公司最初是一家衰落的纺织厂，如今已发展成为世界上最大、最有价值的公司之一。
 
-**Type**: Organization  
-**Industry**: Conglomerate / Holding Company  
-**Founded**: 1839 (as Berkshire Cotton Manufacturing Company)  
-**Headquarters**: Omaha, Nebraska, USA  
-**CEO**: Warren Buffett  
-
----
-
-## Key Information
-
-- **Ticker Symbol**: BRK.A, BRK.B (NYSE)
-- **Market Capitalization**: Over $800 billion
-- **Employees**: Over 360,000 (through subsidiaries)
-- **Key Leader**: Warren Buffett (Chairman & CEO)
+**类型**：组织 / 跨国公司  
+**总部**：美国内布拉斯加州奥马哈  
+**董事长兼 CEO**：沃伦·巴菲特  
+**副董事长**：查理·芒格（1924-2023）→ 格雷格·阿贝尔  
 
 ---
 
-## History
+## 核心特征
 
-### Early History
+### 与众不同的商业模式
 
-- **1839**: Founded as Berkshire Cotton Manufacturing Company in Massachusetts
-- **1955**: Merged with Hathaway Manufacturing to form Berkshire Hathaway Inc.
-- **1965**: Warren Buffett began acquiring shares and took control
-- **Late 1960s-Early 1970s**: Exited textile business, began acquiring insurance companies
+伯克希尔·哈撒韦与典型公司不同：
 
-### Buffett Era (1965-Present)
+1. **去中心化管理**：总部只有约 25 人，运营子公司高度自治
+2. **长期投资视野**：永久持有优秀企业
+3. **资本配置灵活性**：可以在任何行业进行任何规模的投资
+4. **独特文化**：强调诚信、理性、忠诚
 
-Buffett transformed Berkshire from a declining textile company into a diversified conglomerate:
+### 财务规模
 
-- **1967**: Acquired National Indemnity Company ($8.6 million) - the foundation of insurance operations
-- **1970s**: Built insurance empire, began equity investments
-- **1980s-1990s**: Major acquisitions including See's Candies, Scott & Fetzer
-- **2000s**: Acquired utilities, railroads, and more insurance companies
-- **2010s-Present**: Continued expansion, largest cash reserves in corporate history
-
----
-
-## Business Segments
-
-### Insurance (Core Business)
-
-The insurance segment is the heart of Berkshire Hathaway, providing **[[concept-float]]** for investments:
-
-| Company | Type | Key Person |
-|---------|------|------------|
-| GEICO | Auto Insurance | Tony Nicely |
-| National Indemnity | Reinsurance | Jack Sinclair |
-| General Re | Reinsurance | Tad Montross |
-| Various Homestate | Regional Insurance | Various |
-
-### Railroad
-
-- **BNSF Railway**: One of the largest freight railroads in North America
-
-### Utilities
-
-- **Berkshire Hathaway Energy**: Electric utility companies including:
-  - MidAmerican Energy
-  - Pacific Power
-  - NV Energy
-
-### Manufacturing & Services
-
-- Industrial products (Michelin, Lubrizol, etc.)
-- Building products (Shaw, MiTek)
-- Consumer products (See's Candies, Dairy Queen)
-
-### Retail
-
-- Furniture stores
-- Jewelry stores
-- Automotive dealers
+| 指标 | 2019年数据 |
+|------|-----------|
+| 市值 | ~5500亿美元 |
+| 营业收入 | ~3000亿美元 |
+| 员工数 | ~39万人 |
+| 保险浮存金 | ~1290亿美元 |
 
 ---
 
-## Financial Philosophy
+## 业务板块
 
-### Capital Allocation
+### 保险业务（核心）
 
-Buffett has a distinctive approach to capital allocation:
+保险业务是伯克希尔的"增长引擎"，提供投资所需的浮存金。
 
-1. **Reinvest if ROIC > Cost of Capital**: Expand businesses that generate high returns
-2. **Acquire if Strategic**: Buy whole businesses at reasonable prices
-3. **Return to Shareholders**: If no good opportunities, buy back stock or pay dividends
+**主要保险公司**：
+- **[[entity-geico]]**：政府雇员保险公司，美国第三大汽车保险公司
+- **National Indemnity**：再保险公司，拥有美国最大的一般保险业务
+- **通用再保险（General Re）**：全球领先再保险商
+- **伯克希尔·哈撒韦主体保险**：涵盖各种专业保险业务
 
-### "The Wholesome Giant" Concept
+**保险业务关键数据**：
+- 浮存金规模：1290亿美元
+- 成本：约 1.2%（远低于市场利率）
 
-Berkshire Hathaway embodies Buffett's belief in:
-- **Honest accounting**: Clear, understandable financial reporting
-- **Decentralization**: Operating autonomy for subsidiary CEOs
-- **Long-term thinking**: No quarterly earnings guidance
-- **Shareholder alignment**: Managers are compensated for long-term value creation
+### 非保险业务
 
----
+#### 铁路业务
 
-## Competitive Advantages
+**BNSF 铁路**：
+- 美国最大的铁路运营商之一
+- 2009年以260亿美元收购
+- 每年运送约25%的美国货运
 
-### [[concept-economic-moat|Economic Moat]] Sources
+#### 公用事业
 
-1. **Float**: Insurance float provides cheap, stable capital
-2. **Tax Advantages**: Deferred taxes on unrealized gains
-3. **Capital Allocation**: Best-in-class capital allocation
-4. **Culture**: Shareholder-oriented management culture
-5. **Scale**: Purchasing power and financial strength
+**伯克希尔·哈撒韦能源（Berkshire Hathaway Energy）**：
+- 覆盖电力、天然气、可再生能源
+- 运营涵盖11个州
+- 管理约290亿美元资产
 
----
+#### 制造业
 
-## Famous Investments
+- **Iscar**：金属切削工具
+- **Lubrizol**：特种化学品
+- **Marmon Group**：工业集团
+- **Clayton Homes**：活动房屋制造商
 
-### Controlled Businesses
+#### 零售与消费品
 
-- [[entity-geico]] (insurance)
-- Burlington Northern Santa Fe (railroad)
-- Berkshire Hathaway Energy (utilities)
-- See's Candies (consumer products)
+- **[[entity-sees-candies|See's Candies]]**：糖果制造商
+- **Borsheim's**：珠宝零售商
+- **Nebraska Furniture Mart**：家具零售商
+- **Helzberg's Diamond Shops**：珠宝店
 
-### Equity Holdings (Selected)
+#### 服务业务
 
-- Apple (largest equity holding)
-- Coca-Cola
-- American Express
-- Bank of America
-- Moody Corporation
-
----
-
-## Source References
-
-- [[source-buffett-letters]]: Annual reports and shareholder letters
-- [[source-buffett-letters-1977]]
+- **FlightSafety International**：飞行员培训
+- **NetJets**：私人飞机所有权
+- **HomeServices**：房地产经纪
 
 ---
 
-## Notes
+## 投资组合
 
-- Berkshire Hathaway's Class A shares are the most expensive publicly traded shares in the world
-- The annual shareholder meeting ("Woodstock of Capitalism") attracts 40,000+ attendees
-- Known as the "American Express of American business" by Buffett
+### 主要股票投资
+
+巴菲特长期持有以下股票：
+
+| 公司 | 行业 | 特点 |
+|------|------|------|
+| 可口可乐 | 消费品 | 1988年开始持有 |
+| 美国运通 | 金融服务 | 1991年开始持有 |
+| 苹果 | 科技 | 2016年开始增持 |
+| 富国银行 | 银行 | 1989年开始持有 |
+| 美国银行 | 银行 | 2011年开始投资 |
+
+### 投资原则
+
+1. **永远持有**：不寻求短期交易
+2. **集中投资**：高置信度仓位
+3. **逆向投资**：别人恐惧时贪婪
+4. **简单业务**：理解并预测的业务
 
 ---
 
-## Metadata
+## 公司治理
 
-**Created**: 2026-04-08  
-**Last Updated**: 2026-04-08  
-**Related Pages**: [[entity-warren-buffett]], [[concept-float]], [[concept-value-investing]], [[concept-economic-moat]]
+### 管理结构
+
+**独特的"仆人"模式**：
+
+巴菲特将伯克希尔定位为"业主导向"（owner-oriented）公司：
+
+> "作为一个所有者而不是管理者——这是你作为经理做出决策时应该采取的心态。"
+
+### 继任计划
+
+- **2012年**：宣布查理·芒格为副董事长
+- **2019年**：指定格雷格·阿贝尔为接班人
+- **芒格去世（2023年）**：阿贝尔承担更大责任
+
+### 去中心化哲学
+
+巴菲特的管理哲学：
+> "我会给你权力，但我要的是结果。在我的世界里，你会因为你的所作所为而获得掌声或责备，而不是因为你的解释。"
 
 ---
 
-*This page follows the entity template*
+## 财务历史
+
+### 账面价值增长
+
+伯克希尔账面价值（近似内含价值）长期增长：
+
+| 年份 | 账面价值增长率 |
+|------|--------------|
+| 1964-2019 | 2,744,062%（年化约19.9%） |
+| 2000-2019 | ~10%年化 |
+| 2010-2019 | ~13%年化 |
+
+### 与标准普尔500比较
+
+1964-2019年：
+- **伯克希尔**：2,744,062%
+- **标普500指数**：19,748%
+
+---
+
+## 伯克希尔的文化
+
+### 核心理念
+
+1. **诚信**：永远做正确的事
+2. **理性**：避免愚蠢行为
+3. **忠诚**：对股东、客户、员工的承诺
+4. **独立性**：不受华尔街压力影响
+
+### 年报传统
+
+巴菲特的致股东信是投资者的必读材料：
+- **透明坦诚**：承认错误
+- **深入浅出**：解释复杂概念
+- **长期视角**：强调价值投资
+
+---
+
+## 竞争优势
+
+### [[concept-economic-moat|经济护城河]]
+
+伯克希尔拥有多条强大护城河：
+
+1. **保险浮存金**：低成本资本优势
+2. **规模经济**：数百亿美元可投资资本
+3. **品牌声誉**：巴菲特个人品牌价值
+4. **多元化**：抵御单一行业风险
+5. **文化优势**：独特的所有者导向文化
+
+---
+
+## 未来展望
+
+### 挑战
+
+- **规模**：管理5000亿美元市值比50亿更难
+- **继承**：找到能延续文化的新领导者
+- **机会**：寻找能吸收大量资本的投资
+
+### 机遇
+
+- **现金储备**：持续积累用于大机会
+- **保险业务**：浮存金持续增长
+- **收购能力**：随时可以进行数十亿美元的交易
+
+---
+
+## 关键引言
+
+### 巴菲特论伯克希尔
+
+> "我们想要的是一个伟大的企业，而不是一个仅仅是好的企业。"
+
+> "伯克希尔的优势在于我们可以做任何事情——我们没有被限制在任何特定的行业。"
+
+> "我们的工作是每天增加每股内含价值。"
+
+---
+
+## 相关实体
+
+- [[entity-warren-buffett]]：董事长兼 CEO
+- [[entity-geico]]：GEICO 保险
+- [[entity-mrs-b]]：芒格夫人（MidAmerican Energy）
+- [[concept-float]]：保险浮存金
+- [[concept-economic-moat]]：经济护城河
+
+---
+
+## 元数据
+
+**创建日期**：2026-04-08  
+**最后更新**：2026-04-08  
+**相关页面**：[[entity-warren-buffett]]，[[concept-value-investing]]，[[concept-float]]，[[concept-economic-moat]]
+
+---
+
+*本页面遵循实体模板*

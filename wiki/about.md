@@ -1,127 +1,127 @@
-# About This Wiki
+# 关于本 Wiki
 
 ---
 
 <!--
 # YAML Frontmatter Placeholder
 ---
-title: About This Wiki
-description: Personal knowledge management system based on LLM Wiki
+title: 关于本 Wiki
+description: 基于 LLM Wiki 的个人知识管理系统
 date: 2026-04-08
 ---
 -->
 
-## What is This?
+## 这是什么？
 
-This is a personal knowledge management system designed to help you build a growing, interconnected knowledge base with minimal maintenance effort.
+这是一个个人知识管理系统，旨在帮助你以最少的维护工作构建一个不断增长、互联互通的知识库。
 
-## How It Works
+## 工作原理
 
-### Three-Layer Architecture
+### 三层架构
 
-1. **Raw Layer** (`raw/`): You place source documents here - papers, articles, notes, books, etc.
-2. **Wiki Layer** (`wiki/`): LLM automatically organizes knowledge into structured pages with cross-references
-3. **Schema Layer** (`CLAUDE.md`): Instructions that guide LLM behavior
+1. **原始层**（`raw/`）：你将源文档放置在这里——论文、文章、笔记、书籍等
+2. **Wiki 层**（`wiki/`）：LLM 自动将知识组织成带有交叉引用的结构化页面
+3. **模式层**（`CLAUDE.md`）：指导 LLM 行为的指令
 
-### Core Operations
+### 核心操作
 
-- **Ingest**: Add new documents to the wiki
-- **Query**: Ask questions and explore knowledge
-- **Check**: Verify wiki health and fix issues
+- **摄入**：向 Wiki 添加新文档
+- **查询**：提问和探索知识
+- **检查**：验证 Wiki 健康状况并修复问题
 
-## Design Philosophy
+## 设计理念
 
-### Inspired by LLM Wiki
+### 灵感来源
 
-This system is based on the LLM Wiki concept, which treats a structured file system as a database that LLMs can maintain autonomously.
+本系统基于 LLM Wiki 概念，该概念将结构化文件系统视为 LLM 可以自主维护的数据库。
 
-### Key Principles
+### 核心原则
 
-1. **Zero Maintenance**: LLM handles all organization work
-2. **Knowledge Compound Interest**: Each addition enriches the entire wiki
-3. **Bidirectional Links**: Every connection is mutual and discoverable
-4. **Source Traceability**: All knowledge traces back to source documents
-5. **Future-Proof**: Pure Markdown files, no vendor lock-in
+1. **零维护**：LLM 处理所有组织工作
+2. **知识复利**：每次添加都会丰富整个 Wiki
+3. **双向链接**：每个连接都是相互的，可被发现
+4. **来源可追溯**：所有知识都可追溯到源文档
+5. **面向未来**：纯 Markdown 文件，无供应商锁定
 
-## Features
+## 功能特性
 
-### Current (MVP)
+### 当前功能（MVP）
 
-- ✅ Structured directory organization
-- ✅ Four page types (entities, concepts, sources, synthesis)
-- ✅ Obsidian-compatible bidirectional links
-- ✅ Automatic cross-referencing
-- ✅ Operation logging
-- ✅ Health checking
+- ✅ 结构化目录组织
+- ✅ 四种页面类型（实体、概念、来源、综合）
+- ✅ Obsidian 兼容的双向链接
+- ✅ 自动交叉引用
+- ✅ 操作日志记录
+- ✅ 健康检查
 
-### Future Extensions
+### 未来扩展
 
-- 🔄 Static site generation (VitePress/Hugo)
-- 🔄 Public knowledge sharing
-- 🔄 Advanced search and visualization
-- 🔄 Integration with note-taking apps
+- 🔄 静态站点生成（VitePress/Hugo）
+- 🔄 公共知识共享
+- 🔄 高级搜索和可视化
+- 🔄 与笔记应用集成
 
-## How to Use
+## 如何使用
 
-### Adding Knowledge
+### 添加知识
 
-1. Place document in appropriate `raw/` subdirectory
-2. Ask LLM: "Ingest [filename]"
-3. LLM will:
-   - Extract entities and concepts
-   - Create structured pages
-   - Add cross-references
-   - Update index
+1. 将文档放入适当的 `raw/` 子目录
+2. 询问 LLM："摄入 [文件名]"
+3. LLM 将：
+   - 提取实体和概念
+   - 创建结构化页面
+   - 添加交叉引用
+   - 更新索引
 
-### Exploring Knowledge
+### 探索知识
 
-1. Browse `wiki/index.md` for overview
-2. Follow `[[links]]` to related pages
-3. Ask LLM questions about any topic
-4. Use Obsidian for visual exploration
+1. 浏览 `wiki/index.md` 获取概览
+2. 通过 `[[链接]]` 转到相关页面
+3. 向 LLM 提问任何主题
+4. 使用 Obsidian 进行可视化探索
 
-### Maintaining Quality
+### 维护质量
 
-1. Periodically run health checks
-2. Review and fix orphan pages
-3. Resolve contradictions
-4. Update outdated information
+1. 定期运行健康检查
+2. 审查并修复孤立页面
+3. 解决矛盾问题
+4. 更新过时信息
 
-## Tools
+## 工具推荐
 
-### Recommended
+### 推荐工具
 
-- **Obsidian**: Visual knowledge exploration and editing
-- **Any Markdown Editor**: Simple viewing and editing
-- **Git**: Version control and history tracking
+- **Obsidian**：可视化知识探索和编辑
+- **任何 Markdown 编辑器**：简单的查看和编辑
+- **Git**：版本控制和历史跟踪
 
-### Future
+### 未来工具
 
-- **VitePress**: Static site generation
-- **Hugo**: Alternative static site generator
-- **Custom Tools**: Specialized wiki tools
+- **VitePress**：静态站点生成
+- **Hugo**：替代静态站点生成器
+- **自定义工具**：专用 Wiki 工具
 
-## File Structure
+## 文件结构
 
 ```
 wiki/
-├── index.md        # Main navigation hub
-├── about.md        # This file
-├── log.md          # Operation log (private)
-├── entities/       # People, organizations, projects
-├── concepts/       # Ideas, theories, methods
-├── sources/        # Document summaries
-└── synthesis/      # Comprehensive analyses
+├── index.md        # 主导航中心
+├── about.md        # 本文件
+├── log.md          # 操作日志（私有）
+├── entities/       # 人物、组织、项目
+├── concepts/       # 想法、理论、方法
+├── sources/        # 文档摘要
+└── synthesis/       # 综合分析
 ```
 
-## Contributing
+## 贡献
 
-This is a personal wiki, but you can create similar systems for your own use. See `CLAUDE.md` for the schema configuration.
+这是一个个人 Wiki，但你也可以创建类似的系统供自己使用。参见 `CLAUDE.md` 获取模式配置。
 
-## License
+## 许可证
 
-Personal knowledge base - All rights reserved unless otherwise noted.
+个人知识库——除非另有说明，否则保留所有权利。
 
 ---
 
-*Built with ❤️ based on LLM Wiki principles*
+*基于 LLM Wiki 原则构建* ❤️
