@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c230d5df296e638",
+        "id": "ce733e7c0983d457",
         "type": "tabs",
         "children": [
           {
-            "id": "7b27d827b94de7a0",
+            "id": "23ffc1ad378eb25c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
+                "file": "templates/concept.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "concept"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 322.5
   },
   "right": {
     "id": "684947280e1d7bd4",
@@ -182,39 +182,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7b27d827b94de7a0",
+  "active": "9859425f9fb4e195",
   "lastOpenFiles": [
+    "wiki/concepts/concept-super-cat-reinsurance.md",
+    "wiki/entities/entity-wesco-financial.md",
+    "wiki/entities/entity-charlie-munger.md",
+    "wiki/sources/source-wesco-letter-1997.md",
+    "raw/books/pdf/cm1997.pdf",
+    "raw/books/pdf/cm1997.pdf.crdownload",
+    "llm-wiki.md",
+    "CLAUDE.md",
+    "未命名 2.base",
+    "未命名.base",
+    "wiki/about.md",
+    "未命名 1.base",
+    "llm-wiki-理解.md",
+    "templates/concept.md",
+    "wiki/entities/entity-american-express.md",
+    "wiki/sources/source-buffett-letters-2022.md",
+    "wiki/entities/entity-berkshire-hathaway.md",
+    "wiki/index.md",
+    "wiki/concepts/concept-owner-earnings.md",
+    "wiki/entities/entity-warren-buffett.md",
     "wiki/entities/entity-benjamin-graham.md",
     "link_utils_fixed.py",
     "test_output.txt",
     "__pycache__/link_utils.cpython-312.pyc",
     "__pycache__",
     "test_links.py",
-    "convert_links.py",
-    "link_utils.py",
     "README_zh.md",
-    "未命名.base",
-    "wiki/index.md",
     "wiki/sources/source-buffett-letters-2023.md",
     "wiki/sources/source-buffett-letters-2002.md",
-    "temp/pdf_content.txt",
-    "temp/read_pdf.py",
     "wiki/sources/source-buffett-letters-2001.md",
     "wiki/sources/source-buffett-letters-2000.md",
     "wiki/sources/source-buffett-letters.md",
     "wiki/sources/source-buffett-letters-1977.md",
     "concept-book-value.md",
-    "CLAUDE.md",
     "wiki/log.md",
     "wiki/concepts/concept-mr-market.md",
-    "entity-benjamin-graham.md",
-    "wiki/concepts/concept-value-investing.md",
-    "wiki/concepts/concept-return-on-equity.md",
-    "wiki/entities/entity-warren-buffett.md",
-    "wiki/sources/source-buffett-letters-1978.md",
-    "未命名.canvas",
-    "wiki/sources/source-buffett-letters-2003.md",
-    "wiki/concepts/concept-float.md",
-    "wiki/concepts/concept-economic-moat.md"
+    "未命名.canvas"
   ]
 }
