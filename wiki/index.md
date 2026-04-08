@@ -92,7 +92,7 @@
 
 ### 书籍
 
-- [[source-buffett-letters|巴菲特致股东信]] - 年度信件（1977-2025年），共44封
+- [[source-buffett-letters|巴菲特致股东信]] - 年度信件（1977-2025年），共48封
 
 ### 来源详情
 
@@ -107,7 +107,7 @@
 - [[source-buffett-letters-1982|Letter 1982]] - 未分配收益价值，股票发行原则
 - [[source-buffett-letters-1983|Letter 1983]] - 内布拉斯加家具城收购，经济商誉概念
 - [[source-buffett-letters-1984|Letter 1984]] - WPPSS债券投资，股息政策分析
-- [[source-buffett-letters-1985|Letter 1985]] - 待处理（源文件读取困难）
+- [[source-buffett-letters-1985|Letter 1985]] - 纺织业务关闭，Capital Cities/ABC收购，Scott & Fetzer收购
 - [[source-buffett-letters-1986|Letter 1986]] - 永久持股原则，所有者收益概念，Fechheimer收购
 - [[source-buffett-letters-1987|Letter 1987]] - 市场先生理论，永久持股再确认
 
@@ -124,7 +124,13 @@
 - [[source-buffett-letters-1996|Letter 1996]] - B类股票发行，FlightSafety收购，浮存金规模突破67亿
 - [[source-buffett-letters-1997|Letter 1997]] - 市场波动正确理解，规模挑战，非传统投资
 
-#### 第3批：2003-2012年
+#### 第3批：2000-2002年
+
+- [[source-buffett-letters-2000|Letter 2000]] - 8大收购，80亿美元支出，GEICO挑战，6.5%账面价值增长
+- [[source-buffett-letters-2001|Letter 2001]] - 9/11影响，首次账面价值下降(-6.2%)，General Re错误，新收购
+- [[source-buffett-letters-2002|Letter 2002]] - 10.0%账面价值增长，The Pampered Chef收购，衍生品警告（"金融大规模杀伤性武器"），跑赢标普500指数32.1%
+
+#### 第4批：2003-2012年
 
 - [[source-buffett-letters-2003|Letter 2003]] - Clayton Homes收购，制造业住房行业问题
 - [[source-buffett-letters-2004|Letter 2004]] - 锌项目失败，公用事业业务，投资者三大错误
@@ -137,7 +143,7 @@
 - [[source-buffett-letters-2011|Letter 2011]] - Lubrizol收购，继任计划，住房市场预测错误
 - [[source-buffett-letters-2012|Letter 2012]] - Heinz收购，"五大"创纪录，保险卓越表现
 
-#### 第4批：2013-2022年
+#### 第5批：2013-2022年
 
 - [[source-buffett-letters-2013|Letter 2013]] - Heinz收购与3G合作，五大金刚创纪录，内在价值vs账面价值
 - [[source-buffett-letters-2014|Letter 2014]] - 黄金周年纪念，Duracell收购，BNSF服务改进
@@ -150,7 +156,7 @@
 - [[source-buffett-letters-2021|Letter 2021]] - 基础设施资产规模，业务选择者理念，税收贡献
 - [[source-buffett-letters-2022|Letter 2022]] - 秘密武器，可口可乐美国运通复利，市场愚蠢价格
 
-#### 第5批：2023-2025年
+#### 第6批：2023-2025年
 
 - [[source-buffett-letters-2023|Letter 2023]] - Charlie Munger致敬，建筑师vs承包商，Bertie股东模型
 - [[source-buffett-letters-2024|Letter 2024]] - 税收记录268亿，Pete Liegl致敬，Greg Abel继任
@@ -177,7 +183,7 @@
 
 - **实体总数**：50
 - **概念总数**：47
-- **来源总数**：44（1977-2025年，1985年待处理）
+- **来源总数**：48（1977-2025年）
 - **综合分析总数**：0
 - **最后更新**：2026-04-08
 
@@ -189,11 +195,12 @@
 
 **位置**：`raw/books/`
 
-| 格式 | 年份 | 数量 |
-|------|------|------|
-| HTML | 1977-1997 | 21封信 |
-| PDF | 2003-2025 | 23封信 |
-| **总计** | | **44封信** |
+| 格式     | 年份        | 数量       |
+| ------ | --------- | -------- |
+| HTML   | 1977-1999 | 23封信     |
+| PDF    | 2000-2002 | 3封信      |
+| PDF    | 2003-2025 | 23封信     |
+| **总计** |           | **48封信** |
 
 ---
 

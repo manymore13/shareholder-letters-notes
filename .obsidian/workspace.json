@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20562059c4c96aca",
+        "id": "1c230d5df296e638",
         "type": "tabs",
         "children": [
           {
-            "id": "83ff89210f595183",
+            "id": "7b27d827b94de7a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "right": {
     "id": "684947280e1d7bd4",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -158,12 +164,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +182,36 @@
       "bases:新建数据库": false
     }
   },
-  "active": "83ff89210f595183",
+  "active": "7b27d827b94de7a0",
   "lastOpenFiles": [
-    "wiki/concepts/concept-return-on-equity.md",
-    "wiki/concepts/concept-value-investing.md",
+    "未命名.base",
+    "wiki/index.md",
+    "wiki/sources/source-buffett-letters-2023.md",
+    "wiki/sources/source-buffett-letters-2002.md",
+    "temp/pdf_content.txt",
+    "temp/read_pdf.py",
+    "wiki/sources/source-buffett-letters-2001.md",
+    "wiki/sources/source-buffett-letters-2000.md",
+    "raw/books/html/Chairman's Letter - 1985.html",
+    "wiki/sources/source-buffett-letters.md",
+    "wiki/sources/source-buffett-letters-1977.md",
+    "raw/books/pdf/2002pdf.pdf",
+    "raw/books/pdf/2002pdf.pdf.crdownload",
+    "raw/books/html/Chairman's Letter-2001.html",
+    "raw/books/html/Chairman's Letter-2000.html",
+    "raw/books/html/Chairman's Letter - 1999.html",
+    "raw/books/html/Chairman's Letter - 1999_files/saved_resource.html",
+    "concept-book-value.md",
+    "CLAUDE.md",
+    "wiki/log.md",
     "wiki/concepts/concept-mr-market.md",
+    "entity-benjamin-graham.md",
+    "wiki/concepts/concept-value-investing.md",
+    "wiki/concepts/concept-return-on-equity.md",
+    "wiki/entities/entity-warren-buffett.md",
+    "wiki/sources/source-buffett-letters-1978.md",
+    "未命名.canvas",
+    "wiki/sources/source-buffett-letters-2003.md",
     "wiki/concepts/concept-float.md",
     "wiki/concepts/concept-economic-moat.md"
   ]
