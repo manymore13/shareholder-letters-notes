@@ -44,6 +44,7 @@
 - [H.J. Heinz](./entities/entity-heinz.md) - 食品公司，2013年收购
 - [MidAmerican Energy](./entities/entity-midamerican-energy.md) - 公用事业公司
 - [IBM](./entities/entity-ibm.md) - 科技公司，2011年重大投资
+- [美国运通](./entities/entity-american-express.md) - 金融服务公司，永久持股
 
 ---
 
@@ -181,8 +182,8 @@
 
 ## 统计数据
 
-- **实体总数**：50
-- **概念总数**：47
+- **实体总数**：34（已完成创建）
+- **概念总数**：21（已完成创建）
 - **来源总数**：48（1977-2025年）
 - **综合分析总数**：0
 - **最后更新**：2026-04-08

@@ -29,6 +29,37 @@ Each entry follows this format:
 
 <!-- New log entries will be appended below -->
 
+---
+
+## 2026-04-08
+
+### [19:50] Link Repair Operation
+- **Operation**: Fixed 48 broken links in wiki/index.md
+- **Created Entities (30 files)**:
+  - entity-american-express.md, entity-benjamin-graham.md, entity-borsheims.md
+  - entity-buffalo-news.md, entity-bnsf.md, entity-cap-cities-abc.md
+  - entity-dexter-shoe.md, entity-fechheimer.md, entity-flightsafety.md
+  - entity-geico.md, entity-gillette.md, entity-h-h-brown.md
+  - entity-heinz.md, entity-helzbergs.md, entity-h-h-brown.md
+  - entity-ibm.md, entity-iscar.md, entity-kansas-bankers-surety.md
+  - entity-lowell-shoe.md, entity-lubrizol.md, entity-marmon-group.md
+  - entity-midamerican-energy.md, entity-national-indemnity.md
+  - entity-nebraska-furniture-mart.md, entity-rc-willey.md
+  - entity-scott-fetzer.md, entity-sees-candies.md, entity-tti.md
+  - entity-washington-post.md, entity-wells-fargo.md, entity-coca-cola.md
+- **Created Concepts (16 files)**:
+  - concept-intrinsic-value.md, concept-permanent-holdings.md
+  - concept-owner-earnings.md, concept-economic-goodwill.md
+  - concept-look-through-earnings.md, concept-margin-of-safety.md
+  - concept-book-value.md, concept-capital-allocation.md
+  - concept-yardsticks.md, concept-managerial-culture.md
+  - concept-financial-strength.md, concept-normal-earning-power.md
+  - concept-five-year-periods.md, concept-per-share-growth.md
+  - concept-bolt-on-acquisitions.md, concept-inversion.md
+- **Updated**: wiki/index.md (added American Express entry, updated statistics)
+- **Notes**: All broken links have been fixed. Wiki now has 34 entity pages, 21 concept pages, and 48 source pages.
+
+
 ## 2026-04-08
 
 ### [13:10] Ingest - Buffett's Letters Collection
