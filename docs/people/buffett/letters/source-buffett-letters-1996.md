@@ -1,0 +1,195 @@
+---
+type: source
+title: 巴菲特致股东信 1996
+year: 1996
+author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+created: 2026-04-08
+tags:
+  - berkshire-hathaway
+  - annual-letter
+  - 1996
+---
+
+# 巴菲特致股东信 1996
+
+## 核心摘要
+
+1996年，伯克希尔的每股账面价值增长31.8%，在过去32年中年复合增长率为23.8%。这一年，巴菲特完成了两项重大收购：Kansas Bankers Surety和FlightSafety International，并首次发行B类股票，使更多投资者能够参与伯克希尔。
+
+## 关键洞察
+
+### 1. B类股票发行
+
+首次发行B类股票：
+- 每股B类股票相当于A类股票的1/30
+- 目的：满足中小投资者需求
+- 防止单位投资信托产品化
+
+背景：
+- 许多人想投资但买不起A类股票
+- 出现单位投资信托试图打包销售
+- 通过发行B类股票解决问题
+
+原则：
+- 不稀释现有股东利益
+- 所有B类股票按比例稀释A类
+- 保持长期股东导向
+
+### 2. FlightSafety International收购
+
+收购背景：
+- Richard Sercer和Alma Murphy推荐
+- Al Ueltschi创立并管理
+- 世界领先的飞行员培训公司
+
+公司特点：
+- 在41个地点运营
+- 拥有175台模拟器
+- 培训范围：单引擎飞机到波音747
+- 资本密集型业务（模拟器成本高达1900万美元）
+
+收购细节：
+- 交易价值约15亿美元
+- 51%现金，41%A类股票，8%B类股票
+- 尽量减少股票发行
+
+Al Ueltschi：
+- 79岁，精力充沛
+- 与查尔斯·林德伯格一起飞行
+- 终身热爱航空
+
+### 3. Kansas Bankers Surety收购
+
+收购背景：
+- Jane Rogers生日派对上的偶然机会
+- Roy Dinsdale（Jane的父亲）推荐
+
+公司特点：
+- 专门为银行提供保险
+- 在22个州经营
+- Don Towle的卓越管理
+- 优秀的承保记录
+
+交易：
+- 支付7500万美元
+- 放入Wesco（伯克希尔控股80%）
+
+### 4. 保险浮存金
+
+深入讨论[浮存金](../../knowledge/concepts/concept-float.md)：
+- 1996年浮存金：67.02亿美元
+- 成本：负（承保盈利）
+- 1967年以来年复合增长率：22.3%
+
+浮存金的优势：
+- 免费甚至付费获得的资金
+- 大幅提升伯克希尔的业绩
+- GEICO的收购进一步增加浮存金
+
+### 5. 内在价值与市场价格
+
+讨论股价与内在价值的关系：
+- 1996年：内在价值大幅增长，股价变化不大
+- 股价暂时跑输业务表现
+- 长期来看，股价会追随内在价值
+
+目标：
+- 最小化股东之间的利益转移
+- 追求公平的市场定价
+- 吸引长期股东
+
+### 6. 超级巨灾保险（Super-Cat）
+
+讨论超级巨灾保险业务：
+- 大多数年份盈利丰厚
+- 偶尔会有巨额亏损
+- 需要多年才能评估吸引力
+
+关键原则：
+- 真正糟糕的年份一定会到来
+- 投资者不应因此恐慌卖出
+- 伯克希尔有财务实力承受损失
+
+风险敞口：
+- 佛罗里达飓风保险（Allstate）
+- 加州地震保险（加州地震管理局）
+- 最大可能损失：约6亿美元（税后）
+
+## 重要实体
+
+- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [FlightSafety International](../../knowledge/entities/entity-flightsafety.md) - 飞行安全国际
+- [Kansas Bankers Surety](../../knowledge/entities/entity-kansas-bankers-surety.md) - 堪萨斯银行家保险
+- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
+
+## 关键概念
+
+- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [安全边际](../../knowledge/concepts/concept-margin-of-safety.md) - 价格保护
+- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+
+## 投资理念
+
+### 规模挑战
+
+规模增长的影响：
+- 更难找到足够大的机会
+- 需要至少1亿美元的投资
+- 投资机会减少
+
+应对：
+- 保持投资标准
+- 不因现金过多而妥协
+- 耐心等待机会
+
+### 收购策略
+
+收购FlightSafety的逻辑：
+- 优秀的管理层（Al Ueltschi）
+- 可理解的业务
+- 长期前景良好
+- 合理价格
+
+避免的陷阱：
+- 不减少股票发行
+- 不因规模压力降低标准
+- 不追求"战略协同"
+
+### 风险管理
+
+超级巨灾保险的风险：
+- 承认巨大损失一定会发生
+- 有财务实力承受
+- 投资者应理解这一业务性质
+
+## 数据要点
+
+- 每股账面价值增长：31.8%
+- 32年复合增长率：23.8%
+- 净资产：约190亿美元
+- 浮存金：67.02亿美元
+- FlightSafety收购：15亿美元
+- B类股票发行成功
+
+## 引用金句
+
+> "规模是投资回报的敌人。"
+
+> "真正糟糕的年份一定会到来，唯一的问题是什么时候。"
+
+> "如果你因某只股票下跌而恐慌卖出，那你根本不应该持有它。"
+
+> "我们承诺伯克希尔几乎所有收益都会归属股东。"
+
+## 相关信件
+
+- 前一年：[Letter 1995](./source-buffett-letters-1995.md)
+- 下一年：[Letter 1997](./source-buffett-letters-1997.md)
+- 相关：[Letter 1995](./source-buffett-letters-1995.md) - GEICO全资收购
+
+## 注释
+
+1996年是伯克希尔重要的一年，B类股票的发行使更多投资者能够参与伯克希尔，同时防止了单位投资信托的产品化。FlightSafety的收购扩展了伯克希尔的业务版图。这一年也展示了规模增长的挑战：随着资本规模扩大，寻找足够大的投资机会变得更加困难。

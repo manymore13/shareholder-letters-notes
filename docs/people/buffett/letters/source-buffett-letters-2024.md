@@ -1,0 +1,197 @@
+---
+title: 巴菲特致股东信 2024
+type: source
+date: 2025-02-22
+tags:
+  - berkshire-hathaway
+  - warren-buffett
+  - annual-letter
+  - greg-abel-succession
+  - tax-record
+  - pete-liegl
+source_url: https://www.berkshirehathaway.com/letters/2024ltr.pdf
+---
+
+# 巴菲特致股东信 2024
+
+## 概述
+
+2024年是创造美国企业历史的一年。伯克希尔向美国国税局支付268亿美元所得税，超过任何美国公司历史记录。巴菲特坦承多次错误，赞扬了Pete Liegl（Forest River创始人），并明确Greg Abel将在不久后接任CEO。
+
+## 核心要点
+
+### 美国企业税收记录
+
+**历史对比**：
+- **1965年**：伯克希尔未支付一分钱所得税（十年普遍如此）
+- **2024年**：支付268亿美元
+  - 约占美国企业税收总额的5%
+  - 还支付大量外国政府和44个州的所得税
+
+**可视化**：
+- 如果伯克希尔每20分钟向财政部开出100万美元支票
+- 2024全年（366天，闰年）
+- 年底仍欠政府大笔款项
+- 直到1月才能短暂休息
+
+**60年累计**：向美国财政部支付超过1010亿美元
+
+### 错误文化
+
+**坦率承认**：
+- 2019-2023年，在信中使用"错误"或"失误"16次
+- 许多大公司从未使用这些词
+- Amazon在2021年信中做了残酷坦率的观察
+
+**董事会的禁忌**：
+- 巴菲特曾担任一些大公司董事
+- "错误"或"错"在董事会或分析师会议上被禁止
+- 禁忌暗示管理完美，总让他紧张
+
+**Charlie的建议**：
+- 问题不能通过愿望消失
+- 需要行动，无论多么不舒服
+- 拖延纠正是"拇指吸吮"
+
+### Pete Liegl：独一无二的经理人
+
+**Forest River收购（2005年）**：
+- 6月21日收到中介信件
+- Pete（100%所有者）明确想卖给伯克希尔
+- 喜欢这种直截了当的方式
+
+**谈判过程**：
+- 6月28日在奥马哈会面
+- Pete要求保证家庭财务安全
+- 房地产：巴菲特接受Pete的估值，无需评估
+- 薪酬：Pete说"我不想比老板赚得多，年薪10万美元"
+- 奖金：超出当前利润部分的10%
+
+**19年表现**：
+- "射爆了灯光"
+- 没有竞争对手接近他的表现
+
+**教育背景**：
+- 2024年去世，仍在工作，享年80岁
+- 从未关心学校背景
+- 巴菲特从未查看候选人就读学校
+
+### Greg Abel继任
+
+**时间表**：
+- 巴菲特94岁
+- "不久后Greg Abel将接替我担任CEO"
+- Greg将撰写年度信件
+
+**共同理念**：
+- "报告"是伯克希尔CEO每年对股东的义务
+- 如果开始愚弄股东，很快就会相信自己的胡说八道
+- 也会愚弄自己
+
+### 2024年业绩
+
+**营业利润**：474亿美元
+
+**业务表现**：
+- 53%的189家运营企业报告收益下降
+- 投资收益大幅增加（国库券收益率提高）
+- 保险业务重大改善（GEICO领导）
+  - Todd Combs五年重塑GEICO
+  - 提高效率，更新承保实践
+  - 2024年改善惊人
+
+**财产险定价**：
+- 2024年定价增强
+- 反映对流风暴损害大幅增加
+- 气候变化可能在宣布到来
+
+**未发生的风险**：
+- 2024年未发生"怪物"事件
+- 某天，任何一天，真正惊人的保险损失将发生
+- 不保证每年只有一次
+
+### 资本配置：双箭策略
+
+**右手：控股企业（189家）**：
+- 通常持有至少80%股份
+- 一般持有100%
+- 价值数千亿美元
+- 包括少数珍宝、许多良好企业、一些落后者
+- 没有主要拖累，但有一些不该购买
+
+**左手：少数股权投资**：
+- 十几家非常大型且高利润企业
+- Apple、American Express、Coca-Cola、Moody's等
+- 净有形股权回报非常高
+- 年末价值：2720亿美元
+- 周一至周五在华尔街可购买小部分
+- 非常偶尔，以便宜价格出售
+
+## 关键实体
+
+- [Pete Liegl](../../knowledge/entities/entity-pete-liegl.md) - Forest River创始人，1944-2024
+- [Forest River](../../knowledge/entities/entity-forest-river.md) - 房车制造商
+- [Greg Abel](../../knowledge/entities/entity-greg-abel.md) - 即将接任的CEO
+- [Todd Combs](../../knowledge/entities/entity-todd-combs.md) - GEICO改革者
+- [Apple](../../knowledge/entities/entity-apple.md) - 最大股票持仓
+- [Moody's](../../knowledge/entities/entity-moodys.md) - 主要持股
+
+## 关键概念
+
+- [错误文化](../../knowledge/concepts/concept-mistake-culture.md) - 坦率承认和快速纠正
+- [税收记录](../../knowledge/concepts/concept-tax-record.md) - 268亿美元的历史记录
+- [经理人选择](../../knowledge/concepts/concept-manager-selection.md) - 不看学校，看天赋和诚信
+- [双箭资本配置](../../knowledge/concepts/concept-ambidextrous-capital.md) - 控制vs少数股权
+
+## 重要数据
+
+- 营业利润：474亿美元
+- 所得税支付：268亿美元（历史记录）
+- 60年累计税收：超过1010亿美元
+- 股息支付：仅一次（1967年1月3日，101,755美元）
+- 运营企业：189家
+- 股票投资组合价值：2720亿美元
+- 现金和国库券：超过3700亿美元
+
+## Pete Liegl的启示
+
+**经理人选择标准**：
+- 教育背景不重要
+- Ben Rosner（零售天才）：从未超过6年级
+- Bill Gates：辍学创办改变世界的公司
+- 天赋大部分是天生的，先天胜过后天
+
+**关键决策**：
+- 不需要复杂合同
+- 信任和共同理解
+- "适当的"和"重大的"从未被定义，从未引起问题
+
+## 历史教训
+
+**1965年的黄色警告灯**：
+- 伯克希尔未支付所得税
+- 对光彩照人的创业公司可以理解
+- 对美国工业的古老支柱是闪烁的黄灯
+- 伯克希尔正走向垃圾堆
+
+**60年后的奇迹**：
+- 同一家公司
+- 同一个名字
+- 支付超过任何美国公司的税收
+- 超过市场价值万亿美元的美国科技巨头
+
+## 引用格式
+
+> "At 94, it won't be long before Greg Abel replaces me as CEO."
+
+> "One investment rule at Berkshire has not and will not change: Never risk permanent loss of capital."
+
+---
+
+**相关信件**：
+- 前一年：[source-buffett-letters-2023](./source-buffett-letters-2023.md)
+- 后一年：[source-buffett-letters-2025](./source-buffett-letters-2025.md)
+
+**相关主题**：
+- [领导层过渡](../../knowledge/concepts/concept-leadership-transition.md)
+- [管理卓越](../../knowledge/concepts/concept-managerial-excellence.md)

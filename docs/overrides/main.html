@@ -1,0 +1,18 @@
+<!-- 主模板覆盖 -->
+
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+
+  <!-- 在内容后添加评论组件 -->
+  {% if page.meta.comments != false %}
+    {% include "partials/comments.html" %}
+  {% endif %}
+
+  <!-- 在内容后添加广告组件 -->
+  {% if page.meta.ads != false %}
+    {% include "partials/ads.html" %}
+  {% endif %}
+
+{% endblock %}

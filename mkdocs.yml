@@ -1,0 +1,162 @@
+site_name: 大佬语录 Wiki
+site_description: 巴菲特、芒格、段永平等投资大佬的讲话与发表物知识库
+site_author: 大佬语录 Wiki
+site_url: letters.value888.site
+
+# Repository
+repo_name: shareholder-letters-notes
+repo_url: https://github.com/manymore13/shareholder-letters-notes
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2026 大佬语录 Wiki
+
+# Configuration
+theme:
+  name: material
+  language: zh
+  custom_dir: docs/overrides
+  features:
+    - navigation.instant      # 即时加载（无刷新跳转）
+    - navigation.tracking     # URL 跟踪
+    - navigation.tabs         # 顶部标签导航
+    - navigation.sections     # 侧边栏分组
+    - navigation.expand       # 自动展开侧边栏
+    - navigation.indexes      # 章节索引页
+    - navigation.top          # 返回顶部按钮
+    - search.highlight        # 搜索高亮
+    - search.share            # 搜索分享
+    - search.suggest          # 搜索建议
+    - toc.follow              # 目录跟随
+    - content.code.copy       # 代码复制按钮
+    - content.tabs.link       # 标签链接
+    - announce.dismiss        # 可关闭公告
+
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+
+  font:
+    text: 'Noto Sans SC'
+    code: 'Roboto Mono'
+
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github
+
+  favicon: assets/favicon.png
+
+# Extensions
+markdown_extensions:
+  - abbr                      # 缩写
+  - admonition                # 提示框
+  - attr_list                 # 属性列表
+  - def_list                  # 定义列表
+  - footnotes                 # 脚注
+  - md_in_html                # HTML 中的 Markdown
+  - toc:
+      permalink: true         # 永久链接
+      toc_depth: 3            # 目录深度
+  - pymdownx.arithmatex:      # 数学公式
+      generic: true
+  - pymdownx.betterem:        # 更好的强调
+      smart_enable: all
+  - pymdownx.caret            # 插入符
+  - pymdownx.details          # 详情折叠
+  - pymdownx.emoji:           # Emoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:       # 代码高亮
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite     # 行内代码高亮
+  - pymdownx.keys             # 键盘键
+  - pymdownx.mark             # 标记
+  - pymdownx.smartsymbols     # 智能符号
+  - pymdownx.superfences:     # 超级围栏
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:          # 标签页
+      alternate_style: true
+  - pymdownx.tasklist:        # 任务列表
+      custom_checkbox: true
+  - pymdownx.tilde            # 删除线
+
+# Plugins
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?=\d)|[?&#<>]\w'
+  - tags
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/shareholder-letters-notes
+      name: GitHub 仓库
+
+  analytics:
+    feedback:
+      title: 这篇文章有帮助吗？
+      ratings:
+        - icon: material/thumb-up
+          name: 有帮助
+          data: 1
+          note: 感谢反馈！
+        - icon: material/thumb-down
+          name: 没帮助
+          data: 0
+          note: 感谢反馈，我们会改进！
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Extra JavaScript
+extra_javascript:
+  - javascripts/extra.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Navigation
+nav:
+  - 首页: index.md
+  - 人物:
+    - 概览: people/index.md
+    - 巴菲特: people/buffett/index.md
+    - 芒格: people/munger/index.md
+    - 段永平: people/duan/index.md
+  - 知识库:
+    - 概览: knowledge/index.md
+    - 概念: knowledge/concepts/index.md
+    - 实体: knowledge/entities/index.md
+  - PDF 原文: pdfs/index.md
+  - 标签: tags.md
+  - 关于: about.md

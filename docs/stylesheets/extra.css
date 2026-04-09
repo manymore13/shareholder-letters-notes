@@ -1,0 +1,162 @@
+/* 自定义样式 */
+
+/* 首页网格卡片 */
+.grid {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 1rem;
+}
+
+/* 卡片样式 */
+.card {
+  border-radius: 8px;
+  padding: 1.5rem;
+  background-color: var(--md-default-bg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* 概念和实体图标 */
+:root {
+  --md-icon-concept: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>');
+  --md-icon-office: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>');
+}
+
+/* 时间线样式 */
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: var(--md-primary-fg-color);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -24px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--md-primary-fg-color);
+  border: 2px solid var(--md-default-bg-color);
+}
+
+/* 信件年份卡片 */
+.letter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.letter-card {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  background-color: var(--md-code-bg-color);
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.letter-card:hover {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+}
+
+/* 概念和实体列表 */
+.concept-list, .entity-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.concept-list li, .entity-list li {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background-color: var(--md-code-bg-color);
+  border-radius: 4px;
+  border-left: 3px solid var(--md-primary-fg-color);
+}
+
+/* 引用块样式 */
+blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+/* 标签样式 */
+.md-tag {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  background-color: var(--md-code-bg-color);
+  margin-right: 0.25rem;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 深色模式优化 */
+[data-md-color-scheme="slate"] {
+  .card {
+    background-color: var(--md-code-bg-color);
+  }
+}
+
+/* 广告容器样式 */
+.ad-container {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.ad-placeholder {
+  padding: 1rem;
+  background-color: var(--md-code-bg-color);
+  border-radius: 8px;
+  border: 1px dashed var(--md-default-fg-color--lighter);
+}
+
+.ad-banner {
+  width: 100%;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.ad-banner img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* 评论区域样式 */
+#__comments {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}

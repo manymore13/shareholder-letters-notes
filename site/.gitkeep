@@ -1,9 +1,0 @@
-# This file ensures the site/ directory is tracked by Git
-# This directory is reserved for future static site configuration
-# You can add VitePress, Hugo, or other static site generator files here
-
-Future static site files:
-- VitePress config (.vitepress/config.js)
-- Hugo config (config.toml)
-- Custom deployment scripts
-- Static site build output
