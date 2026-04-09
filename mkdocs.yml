@@ -119,7 +119,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/shareholder-letters-notes
+      link: https://github.com/manymore13/shareholder-letters-notes
       name: GitHub 仓库
 
   analytics:
