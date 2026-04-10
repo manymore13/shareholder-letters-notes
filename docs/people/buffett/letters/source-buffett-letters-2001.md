@@ -93,16 +93,16 @@ source_url: https://www.berkshirehathaway.com/letters/2001.html
 
 ## 关键实体
 
-- [Fruit of the Loom](../../knowledge/entities/entity-fruit-of-the-loom.md) - 通过破产程序收购
-- [MiTek](../../knowledge/entities/entity-mitek.md) - 管理层参与的收购
-- [XTRA](../../knowledge/entities/entity-xtra.md) - 拖车租赁
-- [Larson-Juhl](../../knowledge/entities/entity-larson-juhl.md) - 相框业务
+- [Fruit of the Loom](../../../knowledge/entities/entity-fruit-of-the-loom.md) - 通过破产程序收购
+- [MiTek](../../../knowledge/entities/entity-mitek.md) - 管理层参与的收购
+- [XTRA](../../../knowledge/entities/entity-xtra.md) - 拖车租赁
+- [Larson-Juhl](../../../knowledge/entities/entity-larson-juhl.md) - 相框业务
 
 ## 关键概念
 
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险业务的核心
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 管理层激励
-- [风险管理](../../knowledge/concepts/concept-risk-management.md) - 承保纪律的重要性
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险业务的核心
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 管理层激励
+- [风险管理](../../../knowledge/concepts/concept-risk-management.md) - 承保纪律的重要性
 
 ## 重要数据
 
@@ -126,5 +126,5 @@ source_url: https://www.berkshirehathaway.com/letters/2001.html
 - 后一年：[source-buffett-letters-2002](./source-buffett-letters-2002.md)
 
 **相关主题**：
-- [浮存金](../../knowledge/concepts/concept-float.md)
-- [风险管理](../../knowledge/concepts/concept-risk-management.md)
+- [浮存金](../../../knowledge/concepts/concept-float.md)
+- [风险管理](../../../knowledge/concepts/concept-risk-management.md)

@@ -1,7 +1,7 @@
 from pypdf import PdfReader
 import sys
 
-pdf_path = r"d:\codebuddySpace\Buffett'sLetter\raw\books\pdf\2002pdf.pdf"
+pdf_path = r"d:\codebuddySpace\shareholder-letters-notes\raw\books\pdf\2002pdf.pdf"
 reader = PdfReader(pdf_path)
 
 print(f"Total pages: {len(reader.pages)}")
@@ -14,7 +14,7 @@ for i, page in enumerate(reader.pages[:15]):  # 前15页
         text += page_text
 
 # 保存到文件
-with open(r"d:\codebuddySpace\Buffett'sLetter\temp\pdf_content.txt", "w", encoding="utf-8") as f:
+with open(r"d:\codebuddySpace\shareholder-letters-notes\temp\pdf_content.txt", "w", encoding="utf-8") as f:
     f.write(text)
 
 print("PDF内容已保存到 temp/pdf_content.txt")

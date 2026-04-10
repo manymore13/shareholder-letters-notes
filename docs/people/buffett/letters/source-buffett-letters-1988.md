@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1988
 year: 1988
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -28,9 +28,9 @@ tags:
 ### 2. 永久持股原则
 
 明确表示以下股票为"永久持股"，不会因价格高估而出售：
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Capital Cities/ABC](../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
-- [Washington Post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Capital Cities/ABC](../../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
+- [Washington Post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
 
 理由：
 - 这些公司拥有卓越的经济特征
@@ -48,7 +48,7 @@ tags:
 
 - GEICO承保利润显著
 - 浮存金（Float）成本为负
-- [浮存金](../../knowledge/concepts/concept-float.md)是伯克希尔的重要资金来源
+- [浮存金](../../../knowledge/concepts/concept-float.md)是伯克希尔的重要资金来源
 
 ### 5. 收购原则
 
@@ -60,20 +60,20 @@ tags:
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Capital Cities/ABC](../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
-- [Washington Post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐（开始大量买入）
-- [Nebraska Furniture Mart](../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Capital Cities/ABC](../../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/美国广播公司
+- [Washington Post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐（开始大量买入）
+- [Nebraska Furniture Mart](../../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
 
 ## 关键概念
 
-- [市场先生（Mr. Market）](../../knowledge/concepts/concept-mr-market.md) - 格雷厄姆的市场比喻
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实经济价值
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [永久持股](../../knowledge/concepts/concept-permanent-holdings.md) - 不因价格出售的股票
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 基于内在价值投资
+- [市场先生（Mr. Market）](../../../knowledge/concepts/concept-mr-market.md) - 格雷厄姆的市场比喻
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实经济价值
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [永久持股](../../../knowledge/concepts/concept-permanent-holdings.md) - 不因价格出售的股票
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 基于内在价值投资
 
 ## 投资理念
 

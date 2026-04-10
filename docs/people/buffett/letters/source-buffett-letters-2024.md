@@ -129,19 +129,19 @@ source_url: https://www.berkshirehathaway.com/letters/2024ltr.pdf
 
 ## 关键实体
 
-- [Pete Liegl](../../knowledge/entities/entity-pete-liegl.md) - Forest River创始人，1944-2024
-- [Forest River](../../knowledge/entities/entity-forest-river.md) - 房车制造商
-- [Greg Abel](../../knowledge/entities/entity-greg-abel.md) - 即将接任的CEO
-- [Todd Combs](../../knowledge/entities/entity-todd-combs.md) - GEICO改革者
-- [Apple](../../knowledge/entities/entity-apple.md) - 最大股票持仓
-- [Moody's](../../knowledge/entities/entity-moodys.md) - 主要持股
+- [Pete Liegl](../../../knowledge/entities/entity-pete-liegl.md) - Forest River创始人，1944-2024
+- [Forest River](../../../knowledge/entities/entity-forest-river.md) - 房车制造商
+- [Greg Abel](../../../knowledge/entities/entity-greg-abel.md) - 即将接任的CEO
+- [Todd Combs](../../../knowledge/entities/entity-todd-combs.md) - GEICO改革者
+- [Apple](../../../knowledge/entities/entity-apple.md) - 最大股票持仓
+- [Moody's](../../../knowledge/entities/entity-moodys.md) - 主要持股
 
 ## 关键概念
 
-- [错误文化](../../knowledge/concepts/concept-mistake-culture.md) - 坦率承认和快速纠正
-- [税收记录](../../knowledge/concepts/concept-tax-record.md) - 268亿美元的历史记录
-- [经理人选择](../../knowledge/concepts/concept-manager-selection.md) - 不看学校，看天赋和诚信
-- [双箭资本配置](../../knowledge/concepts/concept-ambidextrous-capital.md) - 控制vs少数股权
+- [错误文化](../../../knowledge/concepts/concept-mistake-culture.md) - 坦率承认和快速纠正
+- [税收记录](../../../knowledge/concepts/concept-tax-record.md) - 268亿美元的历史记录
+- [经理人选择](../../../knowledge/concepts/concept-manager-selection.md) - 不看学校，看天赋和诚信
+- [双箭资本配置](../../../knowledge/concepts/concept-ambidextrous-capital.md) - 控制vs少数股权
 
 ## 重要数据
 
@@ -193,5 +193,5 @@ source_url: https://www.berkshirehathaway.com/letters/2024ltr.pdf
 - 后一年：[source-buffett-letters-2025](./source-buffett-letters-2025.md)
 
 **相关主题**：
-- [领导层过渡](../../knowledge/concepts/concept-leadership-transition.md)
-- [管理卓越](../../knowledge/concepts/concept-managerial-excellence.md)
+- [领导层过渡](../../../knowledge/concepts/concept-leadership-transition.md)
+- [管理卓越](../../../knowledge/concepts/concept-managerial-excellence.md)

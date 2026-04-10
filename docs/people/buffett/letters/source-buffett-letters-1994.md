@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1994
 year: 1994
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -111,18 +111,18 @@ Scott Fetzer的薪酬方案：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [Scott Fetzer](../../knowledge/entities/entity-scott-fetzer.md) - 斯科特·费泽
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 富国银行
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Scott Fetzer](../../../knowledge/entities/entity-scott-fetzer.md) - 斯科特·费泽
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 富国银行
 
 ## 关键概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
-- [账面价值](../../knowledge/concepts/concept-book-value.md) - 历史投入资本
-- [净资产收益率](../../knowledge/concepts/concept-return-on-equity.md) - 盈利能力指标
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [账面价值](../../../knowledge/concepts/concept-book-value.md) - 历史投入资本
+- [净资产收益率](../../../knowledge/concepts/concept-return-on-equity.md) - 盈利能力指标
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
 
 ## 投资理念
 

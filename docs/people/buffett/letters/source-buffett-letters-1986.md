@@ -22,8 +22,8 @@ source_file: raw/books/html/1986_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1987年2月27日  
 **源文件**: `raw/books/html/1986_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -116,30 +116,30 @@ source_file: raw/books/html/1986_buffett_letter.html
 ### 提到的实体
 
 #### 人物
-- [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md) - 信件作者
-- [entity-charlie-munger](../../knowledge/entities/entity-charlie-munger.md) - 副董事长
-- [entity-bob-heldman](../../knowledge/entities/entity-bob-heldman.md) - Fechheimer董事长
-- [entity-mrs-b](../../knowledge/entities/entity-mrs-b.md) - 内布拉斯加家具城董事长
+- [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md) - 信件作者
+- [entity-charlie-munger](../../../knowledge/entities/entity-charlie-munger.md) - 副董事长
+- [entity-bob-heldman](../../../knowledge/entities/entity-bob-heldman.md) - Fechheimer董事长
+- [entity-mrs-b](../../../knowledge/entities/entity-mrs-b.md) - 内布拉斯加家具城董事长
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [entity-fechheimer](../../knowledge/entities/entity-fechheimer.md) - Fechheimer Bros.公司，新收购
-- [entity-cap-cities-abc](../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/ABC公司，永久持股之一
-- [entity-geico](../../knowledge/entities/entity-geico.md) - GEICO公司，永久持股之一
-- [entity-washington-post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，永久持股之一
-- [entity-nebraska-furniture-mart](../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
-- [entity-buffalo-news](../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
-- [entity-sees-candies](../../knowledge/entities/entity-sees-candies.md) - 喜诗糖果
-- [entity-scott-fetzer](../../knowledge/entities/entity-scott-fetzer.md) - Scott Fetzer公司
-- [entity-world-book](../../knowledge/entities/entity-world-book.md) - 世界图书公司
-- [entity-kirby](../../knowledge/entities/entity-kirby.md) - Kirby公司
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-fechheimer](../../../knowledge/entities/entity-fechheimer.md) - Fechheimer Bros.公司，新收购
+- [entity-cap-cities-abc](../../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/ABC公司，永久持股之一
+- [entity-geico](../../../knowledge/entities/entity-geico.md) - GEICO公司，永久持股之一
+- [entity-washington-post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，永久持股之一
+- [entity-nebraska-furniture-mart](../../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
+- [entity-buffalo-news](../../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
+- [entity-sees-candies](../../../knowledge/entities/entity-sees-candies.md) - 喜诗糖果
+- [entity-scott-fetzer](../../../knowledge/entities/entity-scott-fetzer.md) - Scott Fetzer公司
+- [entity-world-book](../../../knowledge/entities/entity-world-book.md) - 世界图书公司
+- [entity-kirby](../../../knowledge/entities/entity-kirby.md) - Kirby公司
 
 ### 讨论的概念
 
-- [concept-permanent-holdings](../../knowledge/concepts/concept-permanent-holdings.md) - 永久持股，不因价格波动而出售
-- [concept-owner-earnings](../../knowledge/concepts/concept-owner-earnings.md) - 所有者收益，企业的真实盈利能力
-- [concept-acquisition-criteria](../../knowledge/concepts/concept-acquisition-criteria.md) - 收购标准，选择目标企业的标准
-- [concept-capital-allocation](../../knowledge/concepts/concept-capital-allocation.md) - 资本配置，资本的最优使用
+- [concept-permanent-holdings](../../../knowledge/concepts/concept-permanent-holdings.md) - 永久持股，不因价格波动而出售
+- [concept-owner-earnings](../../../knowledge/concepts/concept-owner-earnings.md) - 所有者收益，企业的真实盈利能力
+- [concept-acquisition-criteria](../../../knowledge/concepts/concept-acquisition-criteria.md) - 收购标准，选择目标企业的标准
+- [concept-capital-allocation](../../../knowledge/concepts/concept-capital-allocation.md) - 资本配置，资本的最优使用
 
 ### 方法/技术
 
@@ -178,9 +178,9 @@ source_file: raw/books/html/1986_buffett_letter.html
 
 ### 相关内容
 
-- [concept-intrinsic-value](../../knowledge/concepts/concept-intrinsic-value.md) - 永久持股基于内在价值
-- [concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md) - 核心持股具有强大护城河
-- [concept-value-investing](../../knowledge/concepts/concept-value-investing.md) - 价值投资的长期实践
+- [concept-intrinsic-value](../../../knowledge/concepts/concept-intrinsic-value.md) - 永久持股基于内在价值
+- [concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md) - 核心持股具有强大护城河
+- [concept-value-investing](../../../knowledge/concepts/concept-value-investing.md) - 价值投资的长期实践
 
 ### 影响内容
 
@@ -223,7 +223,7 @@ source_file: raw/books/html/1986_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md), [concept-permanent-holdings](../../knowledge/concepts/concept-permanent-holdings.md), [concept-owner-earnings](../../knowledge/concepts/concept-owner-earnings.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md), [concept-permanent-holdings](../../../knowledge/concepts/concept-permanent-holdings.md), [concept-owner-earnings](../../../knowledge/concepts/concept-owner-earnings.md)
 
 ---
 

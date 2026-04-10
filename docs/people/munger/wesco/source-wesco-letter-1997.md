@@ -21,7 +21,7 @@ source_file: raw/books/pdf/cm1997.pdf
 **标题**: Wesco Financial Corporation Letter to Shareholders 1997
 **类型**: 股东信
 **日期**: 1997年12月31日
-**作者**: [Charles T. Munger](../../knowledge/entities/entity-charlie-munger.md)
+**作者**: [Charles T. Munger](../../../knowledge/entities/entity-charlie-munger.md)
 **来源文件**: `raw/books/pdf/cm1997.pdf`
 
 ---
@@ -151,28 +151,28 @@ source_file: raw/books/pdf/cm1997.pdf
 ## 提取的实体
 
 ### 人物
-- [Charles T. Munger](../../knowledge/entities/entity-charlie-munger.md) - Wesco 董事长，信件作者
+- [Charles T. Munger](../../../knowledge/entities/entity-charlie-munger.md) - Wesco 董事长，信件作者
 - Donald Towle - KBS 总裁
 - David Hillstrom - Precision Steel CEO
 
 ### 组织
-- [Wesco Financial Corporation](../../knowledge/entities/entity-wesco-financial.md) - 伯克希尔控股80%的子公司
-- [Wes-FIC](../../knowledge/entities/entity-wes-fic.md) - Wesco 保险子公司
-- [Kansas Bankers Surety Company](../../knowledge/entities/entity-kansas-bankers-surety.md) - 1996年收购
-- [Precision Steel](../../knowledge/entities/entity-precision-steel.md) - 钢铁仓储业务
-- [Salomon Inc](../../knowledge/entities/entity-salomon.md) - 投资标的，后与 Travelers 合并
-- [Travelers Group](../../knowledge/entities/entity-travelers.md) - 与 Salomon 合并
-- [US Airways](../../knowledge/entities/entity-us-airways.md) - 可转换优先股投资
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 成功的可转换优先股投资
+- [Wesco Financial Corporation](../../../knowledge/entities/entity-wesco-financial.md) - 伯克希尔控股80%的子公司
+- [Wes-FIC](../../../knowledge/entities/entity-wes-fic.md) - Wesco 保险子公司
+- [Kansas Bankers Surety Company](../../../knowledge/entities/entity-kansas-bankers-surety.md) - 1996年收购
+- [Precision Steel](../../../knowledge/entities/entity-precision-steel.md) - 钢铁仓储业务
+- [Salomon Inc](../../../knowledge/entities/entity-salomon.md) - 投资标的，后与 Travelers 合并
+- [Travelers Group](../../../knowledge/entities/entity-travelers.md) - 与 Salomon 合并
+- [US Airways](../../../knowledge/entities/entity-us-airways.md) - 可转换优先股投资
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 成功的可转换优先股投资
 
 ---
 
 ## 提取的概念
 
-- [超级巨灾再保险](../../knowledge/concepts/concept-super-cat-reinsurance.md) - 需要堡垒级资产负债表的高风险高回报业务
-- [内在价值估算](../../knowledge/concepts/concept-intrinsic-value-estimation.md) - 芒格的清算价值+递延税优势方法
-- [递延税优势](../../knowledge/concepts/concept-deferred-tax-advantage.md) - 政府无息"贷款"的价值
-- [可转换优先股](../../knowledge/concepts/concept-convertible-preferred-stock.md) - 伯克希尔/Wesco 常用的投资工具
+- [超级巨灾再保险](../../../knowledge/concepts/concept-super-cat-reinsurance.md) - 需要堡垒级资产负债表的高风险高回报业务
+- [内在价值估算](../../../knowledge/concepts/concept-intrinsic-value-estimation.md) - 芒格的清算价值+递延税优势方法
+- [递延税优势](../../../knowledge/concepts/concept-deferred-tax-advantage.md) - 政府无息"贷款"的价值
+- [可转换优先股](../../../knowledge/concepts/concept-convertible-preferred-stock.md) - 伯克希尔/Wesco 常用的投资工具
 
 ---
 
@@ -195,8 +195,8 @@ source_file: raw/books/pdf/cm1997.pdf
 ## 与其他来源的关系
 
 ### 关联来源
-- [Buffett Letters](source-buffett-letters.md) - 巴菲特致股东信系列
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - Wesco 的母公司
+- [巴菲特致股东信](../../../people/buffett/index.md) - 巴菲特致股东信系列
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - Wesco 的母公司
 
 ### 时间线位置
 - 这是芒格作为 Wesco 董事长撰写的年度股东信之一
@@ -225,7 +225,7 @@ source_file: raw/books/pdf/cm1997.pdf
 **创建日期**: 2026-04-08
 **最后更新**: 2026-04-08
 **来源类型**: 股东信
-**相关页面**: [Charlie Munger](../../knowledge/entities/entity-charlie-munger.md), [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md), [超级巨灾再保险](../../knowledge/concepts/concept-super-cat-reinsurance.md)
+**相关页面**: [Charlie Munger](../../../knowledge/entities/entity-charlie-munger.md), [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md), [超级巨灾再保险](../../../knowledge/concepts/concept-super-cat-reinsurance.md)
 
 ---
 

@@ -22,8 +22,8 @@ source_file: raw/books/html/1978_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1978年3月14日  
 **源文件**: `raw/books/html/1978_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -113,21 +113,21 @@ source_file: raw/books/html/1978_buffett_letter.html
 ### 提到的实体
 
 #### 人物
-- [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md) - 伯克希尔董事长兼CEO，信件作者
-- [entity-charlie-munger](../../knowledge/entities/entity-charlie-munger.md) - 伯克希尔副董事长，在投资决策中发挥重要作用
-- [entity-gene-abegg](../../knowledge/entities/entity-gene-abegg.md) - 伊利诺伊国民银行CEO，银行业务管理者
+- [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md) - 伯克希尔董事长兼CEO，信件作者
+- [entity-charlie-munger](../../../knowledge/entities/entity-charlie-munger.md) - 伯克希尔副董事长，在投资决策中发挥重要作用
+- [entity-gene-abegg](../../../knowledge/entities/entity-gene-abegg.md) - 伊利诺伊国民银行CEO，银行业务管理者
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司，多元化投资集团
-- [entity-national-indemnity](../../knowledge/entities/entity-national-indemnity.md) - 伯克希尔旗下保险公司
-- [entity-illinois-national-bank](../../knowledge/entities/entity-illinois-national-bank.md) - 伊利诺伊国民银行，伯克希尔旗下银行
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司，多元化投资集团
+- [entity-national-indemnity](../../../knowledge/entities/entity-national-indemnity.md) - 伯克希尔旗下保险公司
+- [entity-illinois-national-bank](../../../knowledge/entities/entity-illinois-national-bank.md) - 伊利诺伊国民银行，伯克希尔旗下银行
 
 ### 讨论的概念
 
-- [concept-return-on-equity](../../knowledge/concepts/concept-return-on-equity.md) - 净资产收益率，评估企业表现的核心指标
-- [concept-float](../../knowledge/concepts/concept-float.md) - 保险浮存金，保险公司的核心竞争优势
-- [concept-capital-allocation](../../knowledge/concepts/concept-capital-allocation.md) - 资本配置，将资本分配到最高回报的用途
-- [concept-underwriting-profit](../../knowledge/concepts/concept-underwriting-profit.md) - 承保利润，保险业务的核心盈利来源
+- [concept-return-on-equity](../../../knowledge/concepts/concept-return-on-equity.md) - 净资产收益率，评估企业表现的核心指标
+- [concept-float](../../../knowledge/concepts/concept-float.md) - 保险浮存金，保险公司的核心竞争优势
+- [concept-capital-allocation](../../../knowledge/concepts/concept-capital-allocation.md) - 资本配置，将资本分配到最高回报的用途
+- [concept-underwriting-profit](../../../knowledge/concepts/concept-underwriting-profit.md) - 承保利润，保险业务的核心盈利来源
 
 ### 方法/技术
 
@@ -177,8 +177,8 @@ source_file: raw/books/html/1978_buffett_letter.html
 
 ### 相关内容
 
-- [concept-value-investing](../../knowledge/concepts/concept-value-investing.md) - 价值投资理念贯穿整个信件
-- [concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md) - 保险浮存金是伯克希尔的护城河之一
+- [concept-value-investing](../../../knowledge/concepts/concept-value-investing.md) - 价值投资理念贯穿整个信件
+- [concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md) - 保险浮存金是伯克希尔的护城河之一
 
 ### 影响内容
 
@@ -258,7 +258,7 @@ source_file: raw/books/html/1978_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md), [concept-return-on-equity](../../knowledge/concepts/concept-return-on-equity.md), [concept-float](../../knowledge/concepts/concept-float.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md), [concept-return-on-equity](../../../knowledge/concepts/concept-return-on-equity.md), [concept-float](../../../knowledge/concepts/concept-float.md)
 
 ---
 

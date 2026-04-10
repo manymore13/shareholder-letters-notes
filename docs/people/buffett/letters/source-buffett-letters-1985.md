@@ -124,17 +124,17 @@ source_url: https://www.berkshirehathaway.com/letters/1985.html
 
 ## 关键实体
 
-- [Capital Cities/ABC](../../knowledge/entities/entity-cap-cities-abc.md) - 重大媒体收购
-- [Scott & Fetzer](../../knowledge/entities/entity-scott-fetzer.md) - 多元化制造商收购
-- [GEICO](../../knowledge/entities/entity-geico.md) - 核心保险投资
-- [华盛顿邮报](../../knowledge/entities/entity-washington-post.md) - 长期投资
+- [Capital Cities/ABC](../../../knowledge/entities/entity-cap-cities-abc.md) - 重大媒体收购
+- [Scott & Fetzer](../../../knowledge/entities/entity-scott-fetzer.md) - 多元化制造商收购
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 核心保险投资
+- [华盛顿邮报](../../../knowledge/entities/entity-washington-post.md) - 长期投资
 
 ## 关键概念
 
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 以折扣价购买优质企业
-- [经济护城河](../../knowledge/concepts/concept-economic-moat.md) - 竞争优势分析
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 资本决策的重要性
-- [管理层文化](../../knowledge/concepts/concept-managerial-culture.md) - 激励机制设计
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 以折扣价购买优质企业
+- [经济护城河](../../../knowledge/concepts/concept-economic-moat.md) - 竞争优势分析
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 资本决策的重要性
+- [管理层文化](../../../knowledge/concepts/concept-managerial-culture.md) - 激励机制设计
 
 ## 重要数据
 
@@ -153,6 +153,6 @@ source_url: https://www.berkshirehathaway.com/letters/1985.html
 - 后一年：[source-buffett-letters-1986](./source-buffett-letters-1986.md)
 
 **相关主题**：
-- [价值投资](../../knowledge/concepts/concept-value-investing.md)
-- [经济护城河](../../knowledge/concepts/concept-economic-moat.md)
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md)
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md)
+- [经济护城河](../../../knowledge/concepts/concept-economic-moat.md)
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md)

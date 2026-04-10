@@ -68,22 +68,22 @@ source_url: https://www.berkshirehathaway.com/letters/2013ltr.pdf
 
 ## 关键实体
 
-- [NV Energy](../../knowledge/entities/entity-nv-energy.md) - 内华达州公用事业公司
-- [H.J. Heinz](../../knowledge/entities/entity-heinz.md) - 食品公司，与3G Capital联合收购
-- [3G Capital](../../knowledge/entities/entity-3g-capital.md) - 巴西私募股权公司，新合作伙伴
-- [Jorge Paulo Lemann](../../knowledge/entities/entity-jorge-paulo-lemann.md) - 3G Capital创始人
-- [Iscar (IMC)](../../knowledge/entities/entity-iscar.md) - 以色列金属切削工具制造商
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [BNSF](../../knowledge/entities/entity-bnsf.md) - 伯灵顿北方圣达菲铁路
-- [Berkshire Hathaway Energy](../../knowledge/entities/entity-berkshire-hathaway-energy.md) - 公用事业公司
+- [NV Energy](../../../knowledge/entities/entity-nv-energy.md) - 内华达州公用事业公司
+- [H.J. Heinz](../../../knowledge/entities/entity-heinz.md) - 食品公司，与3G Capital联合收购
+- [3G Capital](../../../knowledge/entities/entity-3g-capital.md) - 巴西私募股权公司，新合作伙伴
+- [Jorge Paulo Lemann](../../../knowledge/entities/entity-jorge-paulo-lemann.md) - 3G Capital创始人
+- [Iscar (IMC)](../../../knowledge/entities/entity-iscar.md) - 以色列金属切削工具制造商
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [BNSF](../../../knowledge/entities/entity-bnsf.md) - 伯灵顿北方圣达菲铁路
+- [Berkshire Hathaway Energy](../../../knowledge/entities/entity-berkshire-hathaway-energy.md) - 公用事业公司
 
 ## 关键概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实经济价值vs账面价值
-- [补强型收购](../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 现有业务的增量收购
-- [五大金刚](../../knowledge/concepts/concept-powerhouse-five.md) - 五大非保险核心业务
-- [每股增长](../../knowledge/concepts/concept-per-share-growth.md) - 关注每股收益而非总规模
-- [合作模板](../../knowledge/concepts/concept-partnership-template.md) - Heinz收购创造的新模式
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实经济价值vs账面价值
+- [补强型收购](../../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 现有业务的增量收购
+- [五大金刚](../../../knowledge/concepts/concept-powerhouse-five.md) - 五大非保险核心业务
+- [每股增长](../../../knowledge/concepts/concept-per-share-growth.md) - 关注每股收益而非总规模
+- [合作模板](../../../knowledge/concepts/concept-partnership-template.md) - Heinz收购创造的新模式
 
 ## 重要数据
 
@@ -107,5 +107,5 @@ source_url: https://www.berkshirehathaway.com/letters/2013ltr.pdf
 - 后一年：[source-buffett-letters-2014](./source-buffett-letters-2014.md)
 
 **相关主题**：
-- [收购策略](../../knowledge/concepts/concept-acquisitions.md)
-- [美国乐观主义](../../knowledge/concepts/concept-american-optimism.md)
+- [收购策略](../../../knowledge/concepts/concept-acquisitions.md)
+- [美国乐观主义](../../../knowledge/concepts/concept-american-optimism.md)

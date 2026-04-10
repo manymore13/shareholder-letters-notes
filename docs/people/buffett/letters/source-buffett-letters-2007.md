@@ -92,18 +92,18 @@
 
 ## 相关实体
 
-- [Marmon Group](../../knowledge/entities/entity-marmon-group.md) - 工业集团，2007年收购
-- [TTI Industries](../../knowledge/entities/entity-tti.md) - 电子元器件分销商，2007年收购
-- [Iscar](../../knowledge/entities/entity-iscar.md) - 金属切削工具制造商
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 银行业投资
-- [Pritzker Family](../../knowledge/entities/entity-pritzker-family.md) - Marmon集团前所有者
+- [Marmon Group](../../../knowledge/entities/entity-marmon-group.md) - 工业集团，2007年收购
+- [TTI Industries](../../../knowledge/entities/entity-tti.md) - 电子元器件分销商，2007年收购
+- [Iscar](../../../knowledge/entities/entity-iscar.md) - 金属切削工具制造商
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 银行业投资
+- [Pritzker Family](../../../knowledge/entities/entity-pritzker-family.md) - Marmon集团前所有者
 
 ## 相关概念
 
-- [双重价值衡量标准](../../knowledge/concepts/concept-yardsticks.md) - 投资与非保险业务收益
-- [管理文化](../../knowledge/concepts/concept-managerial-culture.md) - 独特的经理人结构
-- [保险浮存金](../../knowledge/concepts/concept-float.md) - 免费投资资金
-- [规模挑战](../../knowledge/concepts/concept-scale-challenge.md) - 大规模资金对收益的影响
+- [双重价值衡量标准](../../../knowledge/concepts/concept-yardsticks.md) - 投资与非保险业务收益
+- [管理文化](../../../knowledge/concepts/concept-managerial-culture.md) - 独特的经理人结构
+- [保险浮存金](../../../knowledge/concepts/concept-float.md) - 免费投资资金
+- [规模挑战](../../../knowledge/concepts/concept-scale-challenge.md) - 大规模资金对收益的影响
 
 ## 引用与链接
 

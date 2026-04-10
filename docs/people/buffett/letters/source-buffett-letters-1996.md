@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1996
 year: 1996
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -76,7 +76,7 @@ Al Ueltschi：
 
 ### 4. 保险浮存金
 
-深入讨论[浮存金](../../knowledge/concepts/concept-float.md)：
+深入讨论[浮存金](../../../knowledge/concepts/concept-float.md)：
 - 1996年浮存金：67.02亿美元
 - 成本：负（承保盈利）
 - 1967年以来年复合增长率：22.3%
@@ -117,19 +117,19 @@ Al Ueltschi：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [FlightSafety International](../../knowledge/entities/entity-flightsafety.md) - 飞行安全国际
-- [Kansas Bankers Surety](../../knowledge/entities/entity-kansas-bankers-surety.md) - 堪萨斯银行家保险
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [FlightSafety International](../../../knowledge/entities/entity-flightsafety.md) - 飞行安全国际
+- [Kansas Bankers Surety](../../../knowledge/entities/entity-kansas-bankers-surety.md) - 堪萨斯银行家保险
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [安全边际](../../knowledge/concepts/concept-margin-of-safety.md) - 价格保护
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [安全边际](../../../knowledge/concepts/concept-margin-of-safety.md) - 价格保护
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

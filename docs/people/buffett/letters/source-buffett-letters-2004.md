@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2004
 year: 2004
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -91,17 +91,17 @@ HomeServices of America：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 中美能源
-- [HomeServices of America](../../knowledge/entities/entity-homeservices.md) - 美国家庭服务
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 中美能源
+- [HomeServices of America](../../../knowledge/entities/entity-homeservices.md) - 美国家庭服务
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
 
 ## 关键概念
 
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
-- [简单业务](../../knowledge/concepts/concept-simple-business.md) - 避免复杂性
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
+- [简单业务](../../../knowledge/concepts/concept-simple-business.md) - 避免复杂性
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

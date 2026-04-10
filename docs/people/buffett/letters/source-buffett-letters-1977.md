@@ -43,7 +43,7 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 **保险业的竞争优势**：
 > "保险公司提供可以被任何人复制的标准化保单。它们的唯一产品是承诺...毫无疑问，保险业务的性质放大了个人管理者对公司业绩的影响。"
 
-这预示了他后来对管理质量和[concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md)的关注。
+这预示了他后来对管理质量和[concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md)的关注。
 
 ### 投资哲学
 
@@ -114,21 +114,21 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 
 ## 关键实体
 
-- [National Indemnity](../../knowledge/entities/entity-national-indemnity.md) - 保险业务基石
-- [GEICO](../../knowledge/entities/entity-geico.md) - 主要投资
-- [华盛顿邮报](../../knowledge/entities/entity-washington-post.md) - 主要投资
-- [See's Candies](../../knowledge/entities/entity-sees-candies.md) - Blue Chip控股子公司
-- [Phil Liesche](../../knowledge/entities/entity-phil-liesche.md) - National Indemnity领导人
-- [Gene Abegg](../../knowledge/entities/entity-gene-abegg.md) - 伊利诺伊国民银行创始人
-- [Chuck Huggins](../../knowledge/entities/entity-chuck-huggins.md) - See's Candies管理者
+- [National Indemnity](../../../knowledge/entities/entity-national-indemnity.md) - 保险业务基石
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 主要投资
+- [华盛顿邮报](../../../knowledge/entities/entity-washington-post.md) - 主要投资
+- [See's Candies](../../../knowledge/entities/entity-sees-candies.md) - Blue Chip控股子公司
+- [Phil Liesche](../../../knowledge/entities/entity-phil-liesche.md) - National Indemnity领导人
+- [Gene Abegg](../../../knowledge/entities/entity-gene-abegg.md) - 伊利诺伊国民银行创始人
+- [Chuck Huggins](../../../knowledge/entities/entity-chuck-huggins.md) - See's Candies管理者
 
 ## 关键概念
 
-- [股本回报率](../../knowledge/concepts/concept-return-on-equity.md) - 核心业绩衡量标准
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险作为资本生成引擎
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期业务评估
-- [管理质量](../../knowledge/concepts/concept-management-quality.md) - 个人管理者对结果的影响
-- [利益相关者思维](../../knowledge/concepts/concept-stakeholder-thinking.md) - 平衡股东回报与社会责任
+- [股本回报率](../../../knowledge/concepts/concept-return-on-equity.md) - 核心业绩衡量标准
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险作为资本生成引擎
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期业务评估
+- [管理质量](../../../knowledge/concepts/concept-management-quality.md) - 个人管理者对结果的影响
+- [利益相关者思维](../../../knowledge/concepts/concept-stakeholder-thinking.md) - 平衡股东回报与社会责任
 
 ## 重要数据
 
@@ -146,8 +146,8 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 
 这封信确立了将在巴菲特后续信件中反复出现的主题：
 
-1. **[concept-float](../../knowledge/concepts/concept-float.md)关注**：保险作为资本生成引擎
-2. **[concept-value-investing](../../knowledge/concepts/concept-value-investing.md)纪律**：长期业务评估
+1. **[concept-float](../../../knowledge/concepts/concept-float.md)关注**：保险作为资本生成引擎
+2. **[concept-value-investing](../../../knowledge/concepts/concept-value-investing.md)纪律**：长期业务评估
 3. **管理质量**：个人管理者对结果的影响
 4. **诚实自我评估**：承认错误（纺织预测）
 5. **利益相关者思维**：平衡股东回报与社会责任
@@ -172,6 +172,6 @@ source_url: https://www.berkshirehathaway.com/letters/1977.html
 - 后一年：[source-buffett-letters-1978](./source-buffett-letters-1978.md)
 
 **相关主题**：
-- [浮存金](../../knowledge/concepts/concept-float.md)
-- [价值投资](../../knowledge/concepts/concept-value-investing.md)
-- [股本回报率](../../knowledge/concepts/concept-return-on-equity.md)
+- [浮存金](../../../knowledge/concepts/concept-float.md)
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md)
+- [股本回报率](../../../knowledge/concepts/concept-return-on-equity.md)

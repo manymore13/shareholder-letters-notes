@@ -150,16 +150,16 @@ source_url: https://www.berkshirehathaway.com/letters/2002.html
 
 ## 关键实体
 
-- [The Pampered Chef](../../knowledge/entities/entity-the-pampered-chef.md) - 厨房用品直销
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 公用事业和管道
-- [CTB](../../knowledge/entities/entity-ctb.md) - 农业设备
-- [HomeServices](../../knowledge/entities/entity-homeservices.md) - 房地产经纪
+- [The Pampered Chef](../../../knowledge/entities/entity-the-pampered-chef.md) - 厨房用品直销
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 公用事业和管道
+- [CTB](../../../knowledge/entities/entity-ctb.md) - 农业设备
+- [HomeServices](../../../knowledge/entities/entity-homeservices.md) - 房地产经纪
 
 ## 关键概念
 
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险业务的核心
-- [衍生品](../../knowledge/concepts/concept-derivatives.md) - 金融大规模杀伤性武器
-- [风险管理](../../knowledge/concepts/concept-risk-management.md) - 承保纪律
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险业务的核心
+- [衍生品](../../../knowledge/concepts/concept-derivatives.md) - 金融大规模杀伤性武器
+- [风险管理](../../../knowledge/concepts/concept-risk-management.md) - 承保纪律
 
 ## 重要数据
 
@@ -187,6 +187,6 @@ source_url: https://www.berkshirehathaway.com/letters/2002.html
 - 后一年：[source-buffett-letters-2003](./source-buffett-letters-2003.md)
 
 **相关主题**：
-- [浮存金](../../knowledge/concepts/concept-float.md)
-- [衍生品](../../knowledge/concepts/concept-derivatives.md)
-- [风险管理](../../knowledge/concepts/concept-risk-management.md)
+- [浮存金](../../../knowledge/concepts/concept-float.md)
+- [衍生品](../../../knowledge/concepts/concept-derivatives.md)
+- [风险管理](../../../knowledge/concepts/concept-risk-management.md)

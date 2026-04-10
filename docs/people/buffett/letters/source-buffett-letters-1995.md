@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1995
 year: 1995
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -99,19 +99,19 @@ Peter Drucker的观点：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司（全资收购）
-- [Helzberg's Diamond Shops](../../knowledge/entities/entity-helzbergs.md) - 海尔兹伯格珠宝店
-- [R.C. Willey Home Furnishings](../../knowledge/entities/entity-rc-willey.md) - R.C.威利家具
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司（全资收购）
+- [Helzberg's Diamond Shops](../../../knowledge/entities/entity-helzbergs.md) - 海尔兹伯格珠宝店
+- [R.C. Willey Home Furnishings](../../../knowledge/entities/entity-rc-willey.md) - R.C.威利家具
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [经济护城河](../../knowledge/concepts/concept-economic-moat.md) - 竞争优势
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [经济护城河](../../../knowledge/concepts/concept-economic-moat.md) - 竞争优势
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

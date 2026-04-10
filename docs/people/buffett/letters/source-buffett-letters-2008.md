@@ -137,18 +137,18 @@ Charlie和巴菲特专注于四个目标：
 
 ## 相关实体
 
-- [Marmon Group](../../knowledge/entities/entity-marmon-group.md) - 2008年收购完成
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 公用事业业务
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [Wrigley](../../knowledge/entities/entity-wrigley.md) - 协助收购的企业
+- [Marmon Group](../../../knowledge/entities/entity-marmon-group.md) - 2008年收购完成
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 公用事业业务
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [Wrigley](../../../knowledge/entities/entity-wrigley.md) - 协助收购的企业
 
 ## 相关概念
 
-- [财务实力](../../knowledge/concepts/concept-financial-strength.md) - 直布罗陀般的财务地位
-- [经济护城河](../../knowledge/concepts/concept-moat.md) - 持久竞争优势
-- [保险浮存金](../../knowledge/concepts/concept-float.md) - 免费资本来源
-- [安全边际](../../knowledge/concepts/concept-margin-of-safety.md) - Ben Graham理论
-- [美国韧性](../../knowledge/concepts/concept-american-resilience.md) - 经济系统长期活力
+- [财务实力](../../../knowledge/concepts/concept-financial-strength.md) - 直布罗陀般的财务地位
+- [经济护城河](../../../knowledge/concepts/concept-moat.md) - 持久竞争优势
+- [保险浮存金](../../../knowledge/concepts/concept-float.md) - 免费资本来源
+- [安全边际](../../../knowledge/concepts/concept-margin-of-safety.md) - Ben Graham理论
+- [美国韧性](../../../knowledge/concepts/concept-american-resilience.md) - 经济系统长期活力
 
 ## 引用与链接
 

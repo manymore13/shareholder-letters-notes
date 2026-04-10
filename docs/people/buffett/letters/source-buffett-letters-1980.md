@@ -22,8 +22,8 @@ source_file: raw/books/html/1980_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1981年2月27日  
 **源文件**: `raw/books/html/1980_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -89,15 +89,15 @@ source_file: raw/books/html/1980_buffett_letter.html
 ### 提到的实体
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [entity-geico](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司，伯克希尔重仓持有
-- [entity-washington-post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，伯克希尔持股
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-geico](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司，伯克希尔重仓持有
+- [entity-washington-post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，伯克希尔持股
 
 ### 讨论的概念
 
-- [concept-intrinsic-value](../../knowledge/concepts/concept-intrinsic-value.md) - 内在价值，企业的真实价值
-- [concept-noncontrolling-interest](../../knowledge/concepts/concept-noncontrolling-interest.md) - 非控股权益，部分持股的投资收益
-- [concept-cost-advantage](../../knowledge/concepts/concept-cost-advantage.md) - 成本优势，企业的竞争优势
+- [concept-intrinsic-value](../../../knowledge/concepts/concept-intrinsic-value.md) - 内在价值，企业的真实价值
+- [concept-noncontrolling-interest](../../../knowledge/concepts/concept-noncontrolling-interest.md) - 非控股权益，部分持股的投资收益
+- [concept-cost-advantage](../../../knowledge/concepts/concept-cost-advantage.md) - 成本优势，企业的竞争优势
 
 ### 数据/统计
 
@@ -114,8 +114,8 @@ source_file: raw/books/html/1980_buffett_letter.html
 
 ### 相关内容
 
-- [concept-float](../../knowledge/concepts/concept-float.md) - GEICO的浮存金优势
-- [concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md) - GEICO的成本护城河
+- [concept-float](../../../knowledge/concepts/concept-float.md) - GEICO的浮存金优势
+- [concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md) - GEICO的成本护城河
 
 ---
 
@@ -134,7 +134,7 @@ source_file: raw/books/html/1980_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-geico](../../knowledge/entities/entity-geico.md), [concept-intrinsic-value](../../knowledge/concepts/concept-intrinsic-value.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-geico](../../../knowledge/entities/entity-geico.md), [concept-intrinsic-value](../../../knowledge/concepts/concept-intrinsic-value.md)
 
 ---
 

@@ -131,16 +131,16 @@ source_url: https://www.berkshirehathaway.com/letters/2023ltr.pdf
 
 ## 关键实体
 
-- [Charlie Munger](../../knowledge/entities/entity-charlie-munger.md) - 伯克希尔建筑师，1924-2023
-- [Bertie](../../knowledge/entities/entity-bertie.md) - 巴菲特的妹妹，理想股东模型
-- [Ben Graham](../../knowledge/entities/entity-ben-graham.md) - 巴菲特的导师，但方法需放弃
+- [Charlie Munger](../../../knowledge/entities/entity-charlie-munger.md) - 伯克希尔建筑师，1924-2023
+- [Bertie](../../../knowledge/entities/entity-bertie.md) - 巴菲特的妹妹，理想股东模型
+- [Ben Graham](../../../knowledge/entities/entity-ben-graham.md) - 巴菲特的导师，但方法需放弃
 
 ## 关键概念
 
-- [建筑师vs承包商](../../knowledge/concepts/concept-architect-vs-contractor.md) - Charlie与Warren的角色分工
-- [终身股东](../../knowledge/concepts/concept-lifetime-shareholders.md) - 伯克希尔的独特股东群体
-- [赌场市场](../../knowledge/concepts/concept-casino-markets.md) - 现代市场的投机行为
-- [永久资本损失](../../knowledge/concepts/concept-permanent-capital-loss.md) - 永远不要冒的风险
+- [建筑师vs承包商](../../../knowledge/concepts/concept-architect-vs-contractor.md) - Charlie与Warren的角色分工
+- [终身股东](../../../knowledge/concepts/concept-lifetime-shareholders.md) - 伯克希尔的独特股东群体
+- [赌场市场](../../../knowledge/concepts/concept-casino-markets.md) - 现代市场的投机行为
+- [永久资本损失](../../../knowledge/concepts/concept-permanent-capital-loss.md) - 永远不要冒的风险
 
 ## 重要数据
 
@@ -177,5 +177,5 @@ source_url: https://www.berkshirehathaway.com/letters/2023ltr.pdf
 - 后一年：[source-buffett-letters-2024](./source-buffett-letters-2024.md)
 
 **相关主题**：
-- [Charlie Munger遗产](../../knowledge/concepts/concept-charlie-munger.md)
-- [股东伙伴关系](../../knowledge/concepts/concept-shareholder-partnership.md)
+- [Charlie Munger遗产](../../../knowledge/concepts/concept-charlie-munger.md)
+- [股东伙伴关系](../../../knowledge/concepts/concept-shareholder-partnership.md)

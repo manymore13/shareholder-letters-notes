@@ -82,18 +82,18 @@ source_url: https://www.berkshirehathaway.com/letters/2014ltr.pdf
 
 ## 关键实体
 
-- [Duracell](../../knowledge/entities/entity-duracell.md) - 电池制造商，2014年签约收购
-- [Van Tuyl Automotive](../../knowledge/entities/entity-van-tuyl-automotive.md) - 汽车经销商集团
-- [Tim Hortons](../../knowledge/entities/entity-tim-hortons.md) - 加拿大咖啡连锁，Burger King收购
-- [Burger King](../../knowledge/entities/entity-burger-king.md) - 快餐连锁
-- [Kraft Heinz](../../knowledge/entities/entity-kraft-heinz.md) - 后来的合并公司
+- [Duracell](../../../knowledge/entities/entity-duracell.md) - 电池制造商，2014年签约收购
+- [Van Tuyl Automotive](../../../knowledge/entities/entity-van-tuyl-automotive.md) - 汽车经销商集团
+- [Tim Hortons](../../../knowledge/entities/entity-tim-hortons.md) - 加拿大咖啡连锁，Burger King收购
+- [Burger King](../../../knowledge/entities/entity-burger-king.md) - 快餐连锁
+- [Kraft Heinz](../../../knowledge/entities/entity-kraft-heinz.md) - 后来的合并公司
 
 ## 关键概念
 
-- [补强型收购](../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 31项收购，总成本78亿美元
-- [五大金刚](../../knowledge/concepts/concept-powerhouse-five.md) - 五大非保险核心业务
-- [服务卓越](../../knowledge/concepts/concept-service-excellence.md) - BNSF改进服务的承诺
-- [经验学习](../../knowledge/concepts/concept-experience-learning.md) - 投资与商业的双向启发
+- [补强型收购](../../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 31项收购，总成本78亿美元
+- [五大金刚](../../../knowledge/concepts/concept-powerhouse-five.md) - 五大非保险核心业务
+- [服务卓越](../../../knowledge/concepts/concept-service-excellence.md) - BNSF改进服务的承诺
+- [经验学习](../../../knowledge/concepts/concept-experience-learning.md) - 投资与商业的双向启发
 
 ## 重要数据
 
@@ -123,5 +123,5 @@ source_url: https://www.berkshirehathaway.com/letters/2014ltr.pdf
 - 后一年：[source-buffett-letters-2015](./source-buffett-letters-2015.md)
 
 **相关主题**：
-- [长期价值](../../knowledge/concepts/concept-long-term-value.md)
-- [伯克希尔文化](../../knowledge/concepts/concept-berkshire-culture.md)
+- [长期价值](../../../knowledge/concepts/concept-long-term-value.md)
+- [伯克希尔文化](../../../knowledge/concepts/concept-berkshire-culture.md)

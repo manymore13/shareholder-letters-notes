@@ -175,26 +175,26 @@
 
 ## 相关实体
 
-- [H.J. Heinz](../../knowledge/entities/entity-heinz.md) - 食品公司，2013年收购
-- [Burlington Northern Santa Fe](../../knowledge/entities/entity-bnsf.md) - 铁路公司
-- [Iscar](../../knowledge/entities/entity-iscar.md) - 金属切削工具制造商
-- [Lubrizol](../../knowledge/entities/entity-lubrizol.md) - 特种化学品公司
-- [Marmon Group](../../knowledge/entities/entity-marmon-group.md) - 工业集团
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 公用事业
-- [GEICO](../../knowledge/entities/entity-geico.md) - 汽车保险公司
-- [American Express](../../knowledge/entities/entity-american-express.md) - 金融服务业持股
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 消费品持股
-- [IBM](../../knowledge/entities/entity-ibm.md) - 科技公司持股
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 银行持股
+- [H.J. Heinz](../../../knowledge/entities/entity-heinz.md) - 食品公司，2013年收购
+- [Burlington Northern Santa Fe](../../../knowledge/entities/entity-bnsf.md) - 铁路公司
+- [Iscar](../../../knowledge/entities/entity-iscar.md) - 金属切削工具制造商
+- [Lubrizol](../../../knowledge/entities/entity-lubrizol.md) - 特种化学品公司
+- [Marmon Group](../../../knowledge/entities/entity-marmon-group.md) - 工业集团
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 公用事业
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 汽车保险公司
+- [American Express](../../../knowledge/entities/entity-american-express.md) - 金融服务业持股
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 消费品持股
+- [IBM](../../../knowledge/entities/entity-ibm.md) - 科技公司持股
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 银行持股
 
 ## 相关概念
 
-- [每股增长](../../knowledge/concepts/concept-per-share-growth.md) - 核心目标
-- [买入持有](../../knowledge/concepts/concept-buy-and-hold.md) - 投资哲学
-- [补强型收购](../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 增长策略
-- [保险浮存金](../../knowledge/concepts/concept-insurance-float.md) - 免费资本来源
-- [承保盈利](../../knowledge/concepts/concept-underwriting-profit.md) - 保险业务卓越
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 管理层核心职责
+- [每股增长](../../../knowledge/concepts/concept-per-share-growth.md) - 核心目标
+- [买入持有](../../../knowledge/concepts/concept-buy-and-hold.md) - 投资哲学
+- [补强型收购](../../../knowledge/concepts/concept-bolt-on-acquisitions.md) - 增长策略
+- [保险浮存金](../../../knowledge/concepts/concept-insurance-float.md) - 免费资本来源
+- [承保盈利](../../../knowledge/concepts/concept-underwriting-profit.md) - 保险业务卓越
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 管理层核心职责
 
 ## 引用与链接
 

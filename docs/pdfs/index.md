@@ -10,21 +10,21 @@
 
 ### 2000-2025年 PDF
 
-| 年份 | 预览 |
-|------|------|
-| 2000 | [预览](./buffett/2000.md) |
-| 2001 | [预览](./buffett/2001.md) |
-| ... | ... |
+| 年份 | 格式 | 链接 |
+|------|------|------|
+| 2000 | HTML | [查看原文](https://github.com/manymore13/shareholder-letters-notes/tree/main/raw/books/html) |
+| 2001 | HTML | [查看原文](https://github.com/manymore13/shareholder-letters-notes/tree/main/raw/books/html) |
+| 2002-2025 | PDF | [查看原文](https://github.com/manymore13/shareholder-letters-notes/tree/main/raw/books/pdf) |
 
-*PDF 预览页面建设中...*
+*PDF 在线预览功能建设中...*
 
 ---
 
 ## 芒格致股东信
 
-| 年份 | 预览 |
+| 年份 | 链接 |
 |------|------|
-| 1997 | [Wesco 1997](./munger/1997.md) |
+| 1997 | [Wesco 1997 原文](https://github.com/manymore13/shareholder-letters-notes/tree/main/raw/books/pdf) |
 
 ---
 

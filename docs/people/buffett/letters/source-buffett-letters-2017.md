@@ -102,20 +102,20 @@ source_url: https://www.berkshirehathaway.com/letters/2017ltr.pdf
 
 ## 关键实体
 
-- [Pilot Flying J](../../knowledge/entities/entity-pilot-flying-j.md) - 旅行中心运营商
-- [Haslam Family](../../knowledge/entities/entity-haslam-family.md) - "Big Jim"和Jimmy
-- [HomeServices](../../knowledge/entities/entity-homeservices.md) - 房地产经纪业务
-- [Clayton Homes](../../knowledge/entities/entity-clayton-homes.md) - 制造住宅
-- [Shaw Industries](../../knowledge/entities/entity-shaw-industries.md) - 地板覆盖物
-- [Ajit Jain](../../knowledge/entities/entity-ajit-jain.md) - 保险业务负责人
-- [Greg Abel](../../knowledge/entities/entity-greg-abel.md) - 非保险业务负责人
+- [Pilot Flying J](../../../knowledge/entities/entity-pilot-flying-j.md) - 旅行中心运营商
+- [Haslam Family](../../../knowledge/entities/entity-haslam-family.md) - "Big Jim"和Jimmy
+- [HomeServices](../../../knowledge/entities/entity-homeservices.md) - 房地产经纪业务
+- [Clayton Homes](../../../knowledge/entities/entity-clayton-homes.md) - 制造住宅
+- [Shaw Industries](../../../knowledge/entities/entity-shaw-industries.md) - 地板覆盖物
+- [Ajit Jain](../../../knowledge/entities/entity-ajit-jain.md) - 保险业务负责人
+- [Greg Abel](../../../knowledge/entities/entity-greg-abel.md) - 非保险业务负责人
 
 ## 关键概念
 
-- [税制改革](../../knowledge/concepts/concept-tax-reform.md) - 290亿美元的一次性收益
-- [GAAP扭曲](../../knowledge/concepts/concept-gaap-distortion.md) - 新规则的误导性影响
-- [收购审慎](../../knowledge/concepts/concept-acquisition-prudence.md) - 在高价市场中保持纪律
-- [管理层继任](../../knowledge/concepts/concept-management-succession.md) - Jain和Abel的任命
+- [税制改革](../../../knowledge/concepts/concept-tax-reform.md) - 290亿美元的一次性收益
+- [GAAP扭曲](../../../knowledge/concepts/concept-gaap-distortion.md) - 新规则的误导性影响
+- [收购审慎](../../../knowledge/concepts/concept-acquisition-prudence.md) - 在高价市场中保持纪律
+- [管理层继任](../../../knowledge/concepts/concept-management-succession.md) - Jain和Abel的任命
 
 ## 重要数据
 
@@ -150,5 +150,5 @@ source_url: https://www.berkshirehathaway.com/letters/2017ltr.pdf
 - 后一年：[source-buffett-letters-2018](./source-buffett-letters-2018.md)
 
 **相关主题**：
-- [收益质量](../../knowledge/concepts/concept-earnings-quality.md)
-- [公司治理](../../knowledge/concepts/concept-corporate-governance.md)
+- [收益质量](../../../knowledge/concepts/concept-earnings-quality.md)
+- [公司治理](../../../knowledge/concepts/concept-corporate-governance.md)

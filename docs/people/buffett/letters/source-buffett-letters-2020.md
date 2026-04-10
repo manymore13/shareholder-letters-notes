@@ -90,15 +90,15 @@ source_url: https://www.berkshirehathaway.com/letters/2020ltr.pdf
 
 ## 关键实体
 
-- [Precision Castparts](../../knowledge/entities/entity-precision-castparts.md) - 2016年收购，2020年减值
-- [Mark Donegan](../../knowledge/entities/entity-mark-donegan.md) - PCC CEO，仍全力以赴
+- [Precision Castparts](../../../knowledge/entities/entity-precision-castparts.md) - 2016年收购，2020年减值
+- [Mark Donegan](../../../knowledge/entities/entity-mark-donegan.md) - PCC CEO，仍全力以赴
 
 ## 关键概念
 
-- [企业集团差异](../../knowledge/concepts/concept-conglomerate-difference.md) - 伯克希尔vs传统模式
-- [错误承认](../../knowledge/concepts/concept-mistake-admission.md) - PCC收购价格过高
-- [双重优势](../../knowledge/concepts/concept-dual-advantage.md) - 整体收购vs股票投资
-- [退出便利](../../knowledge/concepts/concept-exit-ease.md) - 公开股票投资的优势
+- [企业集团差异](../../../knowledge/concepts/concept-conglomerate-difference.md) - 伯克希尔vs传统模式
+- [错误承认](../../../knowledge/concepts/concept-mistake-admission.md) - PCC收购价格过高
+- [双重优势](../../../knowledge/concepts/concept-dual-advantage.md) - 整体收购vs股票投资
+- [退出便利](../../../knowledge/concepts/concept-exit-ease.md) - 公开股票投资的优势
 
 ## 重要数据
 
@@ -142,5 +142,5 @@ source_url: https://www.berkshirehathaway.com/letters/2020ltr.pdf
 - 后一年：[source-buffett-letters-2021](./source-buffett-letters-2021.md)
 
 **相关主题**：
-- [收购错误](../../knowledge/concepts/concept-acquisition-mistakes.md)
-- [公司结构](../../knowledge/concepts/concept-corporate-structure.md)
+- [收购错误](../../../knowledge/concepts/concept-acquisition-mistakes.md)
+- [公司结构](../../../knowledge/concepts/concept-corporate-structure.md)

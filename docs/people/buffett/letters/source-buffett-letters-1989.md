@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1989
 year: 1989
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -28,9 +28,9 @@ tags:
 - 应关注企业真实盈利能力
 
 示例：
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md)：未分配盈余计入
-- [GEICO](../../knowledge/entities/entity-geico.md)：留存利润创造价值
-- [Capital Cities/ABC](../../knowledge/entities/entity-cap-cities-abc.md)：内在价值增长
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md)：未分配盈余计入
+- [GEICO](../../../knowledge/entities/entity-geico.md)：留存利润创造价值
+- [Capital Cities/ABC](../../../knowledge/entities/entity-cap-cities-abc.md)：内在价值增长
 
 ### 2. 重大收购
 
@@ -56,8 +56,8 @@ tags:
 
 ### 4. 保险业务
 
-- [GEICO](../../knowledge/entities/entity-geico.md)持续表现优异
-- [浮存金](../../knowledge/concepts/concept-float.md)规模增长
+- [GEICO](../../../knowledge/entities/entity-geico.md)持续表现优异
+- [浮存金](../../../knowledge/concepts/concept-float.md)规模增长
 - 承保利润为正，浮存金成本为负
 
 ### 5. 25年业绩回顾
@@ -69,18 +69,18 @@ tags:
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Borsheim's](../../knowledge/entities/entity-borsheims.md) - 波仙珠宝
-- [Fechheimer Bros.](../../knowledge/entities/entity-fechheimer.md) - 制服制造商
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Borsheim's](../../../knowledge/entities/entity-borsheims.md) - 波仙珠宝
+- [Fechheimer Bros.](../../../knowledge/entities/entity-fechheimer.md) - 制服制造商
 
 ## 关键概念
 
-- [透视盈余](../../knowledge/concepts/concept-look-through-earnings.md) - 包括未分配利润的真实盈余
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [所有者收益](../../knowledge/concepts/concept-owner-earnings.md) - 真实盈利能力
+- [透视盈余](../../../knowledge/concepts/concept-look-through-earnings.md) - 包括未分配利润的真实盈余
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [所有者收益](../../../knowledge/concepts/concept-owner-earnings.md) - 真实盈利能力
 
 ## 投资理念
 

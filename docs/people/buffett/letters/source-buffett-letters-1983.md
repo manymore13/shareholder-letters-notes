@@ -22,8 +22,8 @@ source_file: raw/books/html/1983_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1984年3月14日  
 **源文件**: `raw/books/html/1983_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -92,19 +92,19 @@ source_file: raw/books/html/1983_buffett_letter.html
 ### 提到的实体
 
 #### 人物
-- [entity-mrs-b](../../knowledge/entities/entity-mrs-b.md) - Rose Blumkin，内布拉斯加家具城创始人
-- [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md) - 信件作者
+- [entity-mrs-b](../../../knowledge/entities/entity-mrs-b.md) - Rose Blumkin，内布拉斯加家具城创始人
+- [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md) - 信件作者
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [entity-nebraska-furniture-mart](../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城，新收购企业
-- [entity-buffalo-news](../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-nebraska-furniture-mart](../../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城，新收购企业
+- [entity-buffalo-news](../../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
 
 ### 讨论的概念
 
-- [concept-economic-goodwill](../../knowledge/concepts/concept-economic-goodwill.md) - 经济商誉，企业的真实无形价值
-- [concept-accounting-goodwill](../../knowledge/concepts/concept-accounting-goodwill.md) - 会计商誉，财务报表中的商誉
-- [concept-return-on-equity](../../knowledge/concepts/concept-return-on-equity.md) - 净资产收益率，评估企业表现
+- [concept-economic-goodwill](../../../knowledge/concepts/concept-economic-goodwill.md) - 经济商誉，企业的真实无形价值
+- [concept-accounting-goodwill](../../../knowledge/concepts/concept-accounting-goodwill.md) - 会计商誉，财务报表中的商誉
+- [concept-return-on-equity](../../../knowledge/concepts/concept-return-on-equity.md) - 净资产收益率，评估企业表现
 
 ### 数据/统计
 
@@ -121,8 +121,8 @@ source_file: raw/books/html/1983_buffett_letter.html
 
 ### 相关内容
 
-- [concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md) - 内布拉斯加家具城的护城河
-- [concept-intrinsic-value](../../knowledge/concepts/concept-intrinsic-value.md) - 商誉反映内在价值
+- [concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md) - 内布拉斯加家具城的护城河
+- [concept-intrinsic-value](../../../knowledge/concepts/concept-intrinsic-value.md) - 商誉反映内在价值
 
 ---
 
@@ -141,7 +141,7 @@ source_file: raw/books/html/1983_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-mrs-b](../../knowledge/entities/entity-mrs-b.md), [concept-economic-goodwill](../../knowledge/concepts/concept-economic-goodwill.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-mrs-b](../../../knowledge/entities/entity-mrs-b.md), [concept-economic-goodwill](../../../knowledge/concepts/concept-economic-goodwill.md)
 
 ---
 

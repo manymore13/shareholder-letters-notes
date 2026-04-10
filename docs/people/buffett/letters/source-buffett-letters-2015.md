@@ -79,19 +79,19 @@ source_url: https://www.berkshirehathaway.com/letters/2015ltr.pdf
 
 ## 关键实体
 
-- [Precision Castparts](../../knowledge/entities/entity-precision-castparts.md) - 航空航天零部件制造商
-- [Kraft Heinz](../../knowledge/entities/entity-kraft-heinz.md) - 食品公司合并
-- [Mark Donegan](../../knowledge/entities/entity-mark-donegan.md) - PCC CEO
-- [Jacob Harpaz](../../knowledge/entities/entity-jacob-harpaz.md) - IMC CEO
-- [Matt Rose](../../knowledge/entities/entity-matt-rose.md) - BNSF CEO
-- [Carl Ice](../../knowledge/entities/entity-carl-ice.md) - BNSF总裁
+- [Precision Castparts](../../../knowledge/entities/entity-precision-castparts.md) - 航空航天零部件制造商
+- [Kraft Heinz](../../../knowledge/entities/entity-kraft-heinz.md) - 食品公司合并
+- [Mark Donegan](../../../knowledge/entities/entity-mark-donegan.md) - PCC CEO
+- [Jacob Harpaz](../../../knowledge/entities/entity-jacob-harpaz.md) - IMC CEO
+- [Matt Rose](../../../knowledge/entities/entity-matt-rose.md) - BNSF CEO
+- [Carl Ice](../../../knowledge/entities/entity-carl-ice.md) - BNSF总裁
 
 ## 关键概念
 
-- [六大金刚](../../knowledge/concepts/concept-powerhouse-six.md) - 从五大金刚升级
-- [可再生能源](../../knowledge/concepts/concept-renewable-energy.md) - 公用事业的领导地位
-- [服务改进](../../knowledge/concepts/concept-service-improvement.md) - BNSF的卓越改进
-- [大型收购](../../knowledge/concepts/concept-large-acquisitions.md) - PCC收购策略
+- [六大金刚](../../../knowledge/concepts/concept-powerhouse-six.md) - 从五大金刚升级
+- [可再生能源](../../../knowledge/concepts/concept-renewable-energy.md) - 公用事业的领导地位
+- [服务改进](../../../knowledge/concepts/concept-service-improvement.md) - BNSF的卓越改进
+- [大型收购](../../../knowledge/concepts/concept-large-acquisitions.md) - PCC收购策略
 
 ## 重要数据
 
@@ -125,5 +125,5 @@ source_url: https://www.berkshirehathaway.com/letters/2015ltr.pdf
 - 后一年：[source-buffett-letters-2016](./source-buffett-letters-2016.md)
 
 **相关主题**：
-- [收购整合](../../knowledge/concepts/concept-acquisition-integration.md)
-- [可再生能源投资](../../knowledge/concepts/concept-renewable-investment.md)
+- [收购整合](../../../knowledge/concepts/concept-acquisition-integration.md)
+- [可再生能源投资](../../../knowledge/concepts/concept-renewable-investment.md)

@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1992
 year: 1992
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -20,7 +20,7 @@ tags:
 
 ### 1. 内在价值评估
 
-深入讨论[内在价值](../../knowledge/concepts/concept-intrinsic-value.md)：
+深入讨论[内在价值](../../../knowledge/concepts/concept-intrinsic-value.md)：
 
 定义：
 - 企业未来现金流的折现值
@@ -39,7 +39,7 @@ tags:
 
 ### 2. 安全边际
 
-强调[安全边际](../../knowledge/concepts/concept-margin-of-safety.md)的重要性：
+强调[安全边际](../../../knowledge/concepts/concept-margin-of-safety.md)的重要性：
 - 以低于内在价值的价格买入
 - 容错空间
 - 抵御不确定性
@@ -63,15 +63,15 @@ tags:
 
 ### 4. 透视盈余
 
-继续讨论[透视盈余](../../knowledge/concepts/concept-look-through-earnings.md)：
+继续讨论[透视盈余](../../../knowledge/concepts/concept-look-through-earnings.md)：
 - 主要投资对象的盈余
 - 未分配利润的价值
 - 反映真实经济收益
 
 主要贡献者：
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列
 
 ### 5. 市场估值
 
@@ -87,19 +87,19 @@ tags:
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [Lowell Shoe](../../knowledge/entities/entity-lowell-shoe.md) - 洛威尔鞋业
-- [H.H. Brown](../../knowledge/entities/entity-h-h-brown.md) - 布朗鞋业
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Lowell Shoe](../../../knowledge/entities/entity-lowell-shoe.md) - 洛威尔鞋业
+- [H.H. Brown](../../../knowledge/entities/entity-h-h-brown.md) - 布朗鞋业
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
 
 ## 关键概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
-- [安全边际](../../knowledge/concepts/concept-margin-of-safety.md) - 买入价格缓冲
-- [透视盈余](../../knowledge/concepts/concept-look-through-earnings.md) - 真实经济收益
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 价值投资理念
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [安全边际](../../../knowledge/concepts/concept-margin-of-safety.md) - 买入价格缓冲
+- [透视盈余](../../../knowledge/concepts/concept-look-through-earnings.md) - 真实经济收益
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 价值投资理念
 
 ## 投资理念
 

@@ -84,16 +84,16 @@ source_url: https://www.berkshirehathaway.com/letters/2000.html
 
 ## 关键实体
 
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 公用事业收购
-- [GEICO](../../knowledge/entities/entity-geico.md) - 保险业务面临挑战
-- [Shaw Industries](../../knowledge/entities/entity-shaw.md) - 全球最大地毯制造商
-- [Benjamin Moore](../../knowledge/entities/entity-benjamin-moore.md) - 油漆制造商
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 公用事业收购
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 保险业务面临挑战
+- [Shaw Industries](../../../knowledge/entities/entity-shaw.md) - 全球最大地毯制造商
+- [Benjamin Moore](../../../knowledge/entities/entity-benjamin-moore.md) - 油漆制造商
 
 ## 关键概念
 
-- [收购战略](../../knowledge/concepts/concept-acquisitions.md) - 伯克希尔的收购方法
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 80亿收购的资本配置
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险业务的资金来源
+- [收购战略](../../../knowledge/concepts/concept-acquisitions.md) - 伯克希尔的收购方法
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 80亿收购的资本配置
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险业务的资金来源
 
 ## 重要数据
 
@@ -119,5 +119,5 @@ source_url: https://www.berkshirehathaway.com/letters/2000.html
 - 后一年：[source-buffett-letters-2001](./source-buffett-letters-2001.md)
 
 **相关主题**：
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md)
-- [浮存金](../../knowledge/concepts/concept-float.md)
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md)
+- [浮存金](../../../knowledge/concepts/concept-float.md)

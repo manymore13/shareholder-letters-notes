@@ -120,16 +120,16 @@
 
 ## 相关实体
 
-- [Burlington Northern Santa Fe](../../knowledge/entities/entity-bnsf.md) - 铁路公司，2010年完成收购
-- [GEICO](../../knowledge/entities/entity-geico.md) - 汽车保险子公司
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [Burlington Northern Santa Fe](../../../knowledge/entities/entity-bnsf.md) - 铁路公司，2010年完成收购
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 汽车保险子公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
 
 ## 相关概念
 
-- [正常盈利能力](../../knowledge/concepts/concept-normal-earning-power.md) - 估算基准
-- [资本密集度](../../knowledge/concepts/concept-capital-intensity.md) - 投资需求特征
-- [五年周期](../../knowledge/concepts/concept-five-year-periods.md) - 业绩评估方法
-- [美国乐观主义](../../knowledge/concepts/concept-american-optimism.md) - 长期经济信心
+- [正常盈利能力](../../../knowledge/concepts/concept-normal-earning-power.md) - 估算基准
+- [资本密集度](../../../knowledge/concepts/concept-capital-intensity.md) - 投资需求特征
+- [五年周期](../../../knowledge/concepts/concept-five-year-periods.md) - 业绩评估方法
+- [美国乐观主义](../../../knowledge/concepts/concept-american-optimism.md) - 长期经济信心
 
 ## 引用与链接
 

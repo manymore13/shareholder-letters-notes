@@ -145,7 +145,7 @@
 
 - 《证券分析》—— 本杰明·格雷厄姆和戴维·多德（1934年）
 - 《聪明的投资者》—— 本杰明·格雷厄姆（1949年）
-- [source-buffett-letters](../../people/buffett/letters/source-buffett-letters.md)：巴菲特关于投资理念的信件
+- [巴菲特致股东信](../../people/buffett/index.md)：巴菲特关于投资理念的信件
 
 ---
 

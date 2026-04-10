@@ -180,22 +180,22 @@ source_url: https://www.berkshirehathaway.com/letters/2025ltr.pdf
 
 ## 关键实体
 
-- [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md) - 董事长，仍在办公室
-- [Greg Abel](../../knowledge/entities/entity-greg-abel.md) - 新任CEO
-- [Charlie Munger](../../knowledge/entities/entity-charlie-munger.md) - 精神导师
-- [Walter Scott, Jr.](../../knowledge/entities/entity-walter-scott.md) - Greg的导师
-- [Ajit Jain](../../knowledge/entities/entity-ajit-jain.md) - 风险管理大师
-- [OxyChem](../../knowledge/entities/entity-oxychem.md) - 2025年收购
-- [Bell Laboratories](../../knowledge/entities/entity-bell-laboratories.md) - 2025年收购
-- [Steve Levy](../../knowledge/entities/entity-steve-levy.md) - Bell Laboratories CEO
+- [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md) - 董事长，仍在办公室
+- [Greg Abel](../../../knowledge/entities/entity-greg-abel.md) - 新任CEO
+- [Charlie Munger](../../../knowledge/entities/entity-charlie-munger.md) - 精神导师
+- [Walter Scott, Jr.](../../../knowledge/entities/entity-walter-scott.md) - Greg的导师
+- [Ajit Jain](../../../knowledge/entities/entity-ajit-jain.md) - 风险管理大师
+- [OxyChem](../../../knowledge/entities/entity-oxychem.md) - 2025年收购
+- [Bell Laboratories](../../../knowledge/entities/entity-bell-laboratories.md) - 2025年收购
+- [Steve Levy](../../../knowledge/entities/entity-steve-levy.md) - Bell Laboratories CEO
 
 ## 关键概念
 
-- [文化与价值观](../../knowledge/concepts/concept-culture-values.md) - 五大基础价值观
-- [去中心化模型](../../knowledge/concepts/concept-decentralized-model.md) - 自主权+问责制
-- [财务实力](../../knowledge/concepts/concept-financial-strength.md) - 堡垒般资产负债表
-- [资本纪律](../../knowledge/concepts/concept-capital-discipline.md) - 每股内在价值增长
-- [风险管理](../../knowledge/concepts/concept-risk-management.md) - CEO是首席风险官
+- [文化与价值观](../../../knowledge/concepts/concept-culture-values.md) - 五大基础价值观
+- [去中心化模型](../../../knowledge/concepts/concept-decentralized-model.md) - 自主权+问责制
+- [财务实力](../../../knowledge/concepts/concept-financial-strength.md) - 堡垒般资产负债表
+- [资本纪律](../../../knowledge/concepts/concept-capital-discipline.md) - 每股内在价值增长
+- [风险管理](../../../knowledge/concepts/concept-risk-management.md) - CEO是首席风险官
 
 ## 重要数据
 
@@ -239,5 +239,5 @@ source_url: https://www.berkshirehathaway.com/letters/2025ltr.pdf
 - 前一年：[source-buffett-letters-2024](./source-buffett-letters-2024.md)
 
 **相关主题**：
-- [伯克希尔文化](../../knowledge/concepts/concept-berkshire-culture.md)
-- [继任计划](../../knowledge/concepts/concept-succession.md)
+- [伯克希尔文化](../../../knowledge/concepts/concept-berkshire-culture.md)
+- [继任计划](../../../knowledge/concepts/concept-succession.md)

@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2006
 year: 2006
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -96,17 +96,17 @@ Don Keough的建议：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 富国银行
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 富国银行
 
 ## 关键概念
 
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [生产力](../../knowledge/concepts/concept-productivity.md) - 效率提升
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [生产力](../../../knowledge/concepts/concept-productivity.md) - 效率提升
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md) - 资金部署决策
 
 ## 投资理念
 

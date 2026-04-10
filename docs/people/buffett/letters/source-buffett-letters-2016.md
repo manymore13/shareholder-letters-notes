@@ -79,18 +79,18 @@ source_url: https://www.berkshirehathaway.com/letters/2016ltr.pdf
 
 ## 关键实体
 
-- [Dexter Shoe](../../knowledge/entities/entity-dexter-shoe.md) - 1993年重大错误收购
-- [General Reinsurance](../../knowledge/entities/entity-general-re.md) - 1998年错误收购（后改进）
-- [GEICO](../../knowledge/entities/entity-geico.md) - 1996年成功全资收购
-- [MidAmerican Energy](../../knowledge/entities/entity-midamerican-energy.md) - 2000年成功收购
-- [BNSF](../../knowledge/entities/entity-bnsf.md) - 2009年收购，少数股份发行
+- [Dexter Shoe](../../../knowledge/entities/entity-dexter-shoe.md) - 1993年重大错误收购
+- [General Reinsurance](../../../knowledge/entities/entity-general-re.md) - 1998年错误收购（后改进）
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 1996年成功全资收购
+- [MidAmerican Energy](../../../knowledge/entities/entity-midamerican-energy.md) - 2000年成功收购
+- [BNSF](../../../knowledge/entities/entity-bnsf.md) - 2009年收购，少数股份发行
 
 ## 关键概念
 
-- [转型](../../knowledge/concepts/concept-transformation.md) - 从投资组合到企业拥有者
-- [股票vs现金](../../knowledge/concepts/concept-stock-vs-cash.md) - 支付方式的重大影响
-- [错误承认](../../knowledge/concepts/concept-mistake-admission.md) - 巴菲特的坦诚反思
-- [内在价值vs账面价值](../../knowledge/concepts/concept-intrinsic-vs-book.md) - 会计局限
+- [转型](../../../knowledge/concepts/concept-transformation.md) - 从投资组合到企业拥有者
+- [股票vs现金](../../../knowledge/concepts/concept-stock-vs-cash.md) - 支付方式的重大影响
+- [错误承认](../../../knowledge/concepts/concept-mistake-admission.md) - 巴菲特的坦诚反思
+- [内在价值vs账面价值](../../../knowledge/concepts/concept-intrinsic-vs-book.md) - 会计局限
 
 ## 重要数据
 
@@ -122,5 +122,5 @@ source_url: https://www.berkshirehathaway.com/letters/2016ltr.pdf
 - 后一年：[source-buffett-letters-2017](./source-buffett-letters-2017.md)
 
 **相关主题**：
-- [资本配置](../../knowledge/concepts/concept-capital-allocation.md)
-- [美国奇迹](../../knowledge/concepts/concept-american-miracle.md)
+- [资本配置](../../../knowledge/concepts/concept-capital-allocation.md)
+- [美国奇迹](../../../knowledge/concepts/concept-american-miracle.md)

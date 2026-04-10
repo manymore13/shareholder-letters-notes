@@ -165,18 +165,18 @@
 
 ## 相关实体
 
-- [Burlington Northern Santa Fe](../../knowledge/entities/entity-bnsf.md) - 铁路公司，2009年收购
-- [GEICO](../../knowledge/entities/entity-geico.md) - 保险子公司
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [Wrigley](../../knowledge/entities/entity-wrigley.md) - 协助收购
+- [Burlington Northern Santa Fe](../../../knowledge/entities/entity-bnsf.md) - 铁路公司，2009年收购
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 保险子公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [Wrigley](../../../knowledge/entities/entity-wrigley.md) - 协助收购
 
 ## 相关概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [账面价值](../../knowledge/concepts/concept-book-value.md) - 会计价值作为代理
-- [资本投资](../../knowledge/concepts/concept-capital-investment.md) - 对美国的信心
-- [去中心化管理](../../knowledge/concepts/concept-decentralization.md) - 组织哲学
-- [逆向思维](../../knowledge/concepts/concept-inversion.md) - Charlie Munger智慧
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [账面价值](../../../knowledge/concepts/concept-book-value.md) - 会计价值作为代理
+- [资本投资](../../../knowledge/concepts/concept-capital-investment.md) - 对美国的信心
+- [去中心化管理](../../../knowledge/concepts/concept-decentralization.md) - 组织哲学
+- [逆向思维](../../../knowledge/concepts/concept-inversion.md) - Charlie Munger智慧
 
 ## 引用与链接
 

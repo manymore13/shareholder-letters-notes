@@ -93,17 +93,17 @@ source_url: https://www.berkshirehathaway.com/letters/2018ltr.pdf
 
 ## 关键实体
 
-- [Kraft Heinz](../../knowledge/entities/entity-kraft-heinz.md) - 卡夫亨氏，无形资产减值
-- [Ajit Jain](../../knowledge/entities/entity-ajit-jain.md) - 保险业务负责人
-- [Greg Abel](../../knowledge/entities/entity-greg-abel.md) - 非保险业务负责人
-- [Berkadia](../../knowledge/entities/entity-berkadia.md) - 合资企业
+- [Kraft Heinz](../../../knowledge/entities/entity-kraft-heinz.md) - 卡夫亨氏，无形资产减值
+- [Ajit Jain](../../../knowledge/entities/entity-ajit-jain.md) - 保险业务负责人
+- [Greg Abel](../../../knowledge/entities/entity-greg-abel.md) - 非保险业务负责人
+- [Berkadia](../../../knowledge/entities/entity-berkadia.md) - 合资企业
 
 ## 关键概念
 
-- [森林林分](../../knowledge/concepts/concept-forest-groves.md) - 伯克希尔的五大业务板块
-- [GAAPvs营业利润](../../knowledge/concepts/concept-gaap-vs-operating.md) - 会计扭曲vs真实业绩
-- [账面价值过时](../../knowledge/concepts/concept-book-value-obsolescence.md) - 为何不再适用
-- [双箭资本配置](../../knowledge/concepts/concept-dual-capital-allocation.md) - 控制vs被动投资
+- [森林林分](../../../knowledge/concepts/concept-forest-groves.md) - 伯克希尔的五大业务板块
+- [GAAPvs营业利润](../../../knowledge/concepts/concept-gaap-vs-operating.md) - 会计扭曲vs真实业绩
+- [账面价值过时](../../../knowledge/concepts/concept-book-value-obsolescence.md) - 为何不再适用
+- [双箭资本配置](../../../knowledge/concepts/concept-dual-capital-allocation.md) - 控制vs被动投资
 
 ## 重要数据
 
@@ -143,5 +143,5 @@ source_url: https://www.berkshirehathaway.com/letters/2018ltr.pdf
 - 后一年：[source-buffett-letters-2019](./source-buffett-letters-2019.md)
 
 **相关主题**：
-- [收益质量](../../knowledge/concepts/concept-earnings-quality.md)
-- [企业估值](../../knowledge/concepts/concept-business-valuation.md)
+- [收益质量](../../../knowledge/concepts/concept-earnings-quality.md)
+- [企业估值](../../../knowledge/concepts/concept-business-valuation.md)

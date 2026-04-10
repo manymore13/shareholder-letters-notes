@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 2005
 year: 2005
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -116,18 +116,18 @@ Tony Nicely的领导：
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Medical Protective](../../knowledge/entities/entity-medical-protective.md) - 医疗保护公司
-- [Forest River](../../knowledge/entities/entity-forest-river.md) - 森河房车
-- [Business Wire](../../knowledge/entities/entity-business-wire.md) - 商业电讯
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Medical Protective](../../../knowledge/entities/entity-medical-protective.md) - 医疗保护公司
+- [Forest River](../../../knowledge/entities/entity-forest-river.md) - 森河房车
+- [Business Wire](../../../knowledge/entities/entity-business-wire.md) - 商业电讯
 
 ## 关键概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [生产力](../../knowledge/concepts/concept-productivity.md) - 效率提升
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [生产力](../../../knowledge/concepts/concept-productivity.md) - 效率提升
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

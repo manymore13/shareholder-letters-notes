@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1993
 year: 1993
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -50,16 +50,16 @@ tags:
 
 ### 3. 透视盈余
 
-继续讨论[透视盈余](../../knowledge/concepts/concept-look-through-earnings.md)：
+继续讨论[透视盈余](../../../knowledge/concepts/concept-look-through-earnings.md)：
 - 主要投资对象的未分配盈余
 - 1993年透视盈余约8.56亿美元
 - 目标：2000年达到18.5亿美元
 
 主要贡献者：
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐（9400万美元）
-- [GEICO](../../knowledge/entities/entity-geico.md) - GEICO（7600万美元）
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列（4400万美元）
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 富国银行（5300万美元）
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐（9400万美元）
+- [GEICO](../../../knowledge/entities/entity-geico.md) - GEICO（7600万美元）
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列（4400万美元）
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 富国银行（5300万美元）
 
 ### 4. 会计准则变化
 
@@ -82,19 +82,19 @@ tags:
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [Dexter Shoe](../../knowledge/entities/entity-dexter-shoe.md) - 德克斯特鞋业
-- [H.H. Brown](../../knowledge/entities/entity-h-h-brown.md) - 布朗鞋业
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [Dexter Shoe](../../../knowledge/entities/entity-dexter-shoe.md) - 德克斯特鞋业
+- [H.H. Brown](../../../knowledge/entities/entity-h-h-brown.md) - 布朗鞋业
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
 
 ## 关键概念
 
-- [透视盈余](../../knowledge/concepts/concept-look-through-earnings.md) - 真实经济收益
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [透视盈余](../../../knowledge/concepts/concept-look-through-earnings.md) - 真实经济收益
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 企业真实价值
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

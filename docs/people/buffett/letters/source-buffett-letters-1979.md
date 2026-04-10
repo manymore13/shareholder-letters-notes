@@ -22,8 +22,8 @@ source_file: raw/books/html/1979_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1979年3月26日  
 **源文件**: `raw/books/html/1979_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -89,15 +89,15 @@ source_file: raw/books/html/1979_buffett_letter.html
 ### 提到的实体
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [entity-national-indemnity](../../knowledge/entities/entity-national-indemnity.md) - 保险子公司
-- [entity-geico](../../knowledge/entities/entity-geico.md) - 伯克希尔投资的保险公司
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-national-indemnity](../../../knowledge/entities/entity-national-indemnity.md) - 保险子公司
+- [entity-geico](../../../knowledge/entities/entity-geico.md) - 伯克希尔投资的保险公司
 
 ### 讨论的概念
 
-- [concept-inflation](../../knowledge/concepts/concept-inflation.md) - 通货膨胀，对实际回报率的影响
-- [concept-underwriting-cycle](../../knowledge/concepts/concept-underwriting-cycle.md) - 承保周期，保险行业的周期性
-- [concept-real-return](../../knowledge/concepts/concept-real-return.md) - 实际回报率，考虑通胀后的真实收益
+- [concept-inflation](../../../knowledge/concepts/concept-inflation.md) - 通货膨胀，对实际回报率的影响
+- [concept-underwriting-cycle](../../../knowledge/concepts/concept-underwriting-cycle.md) - 承保周期，保险行业的周期性
+- [concept-real-return](../../../knowledge/concepts/concept-real-return.md) - 实际回报率，考虑通胀后的真实收益
 
 ### 数据/统计
 
@@ -114,8 +114,8 @@ source_file: raw/books/html/1979_buffett_letter.html
 
 ### 相关内容
 
-- [concept-float](../../knowledge/concepts/concept-float.md) - 保险浮存金概念
-- [concept-value-investing](../../knowledge/concepts/concept-value-investing.md) - 价值投资理念
+- [concept-float](../../../knowledge/concepts/concept-float.md) - 保险浮存金概念
+- [concept-value-investing](../../../knowledge/concepts/concept-value-investing.md) - 价值投资理念
 
 ---
 
@@ -134,7 +134,7 @@ source_file: raw/books/html/1979_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md), [concept-inflation](../../knowledge/concepts/concept-inflation.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md), [concept-inflation](../../../knowledge/concepts/concept-inflation.md)
 
 ---
 

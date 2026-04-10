@@ -104,7 +104,7 @@
 
 ## 参考文献
 
-- [source-buffett-letters](../../people/buffett/letters/source-buffett-letters.md)：巴菲特致股东年度信函（1977年至今）
+- [巴菲特致股东信](../../people/buffett/index.md)：巴菲特致股东年度信函（1977年至今）
 - 《聪明的投资者》—— 本杰明·格雷厄姆
 - 《滚雪球》—— 爱丽丝·施罗德（传记）
 

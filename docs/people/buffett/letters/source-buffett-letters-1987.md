@@ -22,8 +22,8 @@ source_file: raw/books/html/1987_buffett_letter.html
 **类型**: 年度股东信  
 **日期**: 1988年2月29日  
 **源文件**: `raw/books/html/1987_buffett_letter.html`  
-**作者**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md)  
-**机构**: [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md)
+**作者**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md)  
+**机构**: [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md)
 
 ---
 
@@ -99,26 +99,26 @@ source_file: raw/books/html/1987_buffett_letter.html
 ### 提到的实体
 
 #### 人物
-- [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md) - 信件作者
-- [entity-charlie-munger](../../knowledge/entities/entity-charlie-munger.md) - 副董事长
-- [entity-benjamin-graham](../../knowledge/entities/entity-benjamin-graham.md) - 本杰明·格雷厄姆，市场先生理论创造者
+- [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md) - 信件作者
+- [entity-charlie-munger](../../../knowledge/entities/entity-charlie-munger.md) - 副董事长
+- [entity-benjamin-graham](../../../knowledge/entities/entity-benjamin-graham.md) - 本杰明·格雷厄姆，市场先生理论创造者
 
 #### 组织
-- [entity-berkshire-hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
-- [entity-cap-cities-abc](../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/ABC公司，永久持股
-- [entity-geico](../../knowledge/entities/entity-geico.md) - GEICO公司，永久持股
-- [entity-washington-post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，永久持股
-- [entity-fechheimer](../../knowledge/entities/entity-fechheimer.md) - Fechheimer公司
-- [entity-nebraska-furniture-mart](../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
-- [entity-buffalo-news](../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
-- [entity-sees-candies](../../knowledge/entities/entity-sees-candies.md) - 喜诗糖果
+- [entity-berkshire-hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 母公司
+- [entity-cap-cities-abc](../../../knowledge/entities/entity-cap-cities-abc.md) - 大都会/ABC公司，永久持股
+- [entity-geico](../../../knowledge/entities/entity-geico.md) - GEICO公司，永久持股
+- [entity-washington-post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报公司，永久持股
+- [entity-fechheimer](../../../knowledge/entities/entity-fechheimer.md) - Fechheimer公司
+- [entity-nebraska-furniture-mart](../../../knowledge/entities/entity-nebraska-furniture-mart.md) - 内布拉斯加家具城
+- [entity-buffalo-news](../../../knowledge/entities/entity-buffalo-news.md) - 布法罗新闻报
+- [entity-sees-candies](../../../knowledge/entities/entity-sees-candies.md) - 喜诗糖果
 
 ### 讨论的概念
 
-- [concept-mr-market](../../knowledge/concepts/concept-mr-market.md) - 市场先生，格雷厄姆提出的寓言角色
-- [concept-permanent-holdings](../../knowledge/concepts/concept-permanent-holdings.md) - 永久持股，不因价格波动而出售
-- [concept-market-volatility](../../knowledge/concepts/concept-market-volatility.md) - 市场波动，价格涨跌的短期现象
-- [concept-investment-psychology](../../knowledge/concepts/concept-investment-psychology.md) - 投资心理学，投资者的心态管理
+- [concept-mr-market](../../../knowledge/concepts/concept-mr-market.md) - 市场先生，格雷厄姆提出的寓言角色
+- [concept-permanent-holdings](../../../knowledge/concepts/concept-permanent-holdings.md) - 永久持股，不因价格波动而出售
+- [concept-market-volatility](../../../knowledge/concepts/concept-market-volatility.md) - 市场波动，价格涨跌的短期现象
+- [concept-investment-psychology](../../../knowledge/concepts/concept-investment-psychology.md) - 投资心理学，投资者的心态管理
 
 ### 方法/技术
 
@@ -162,9 +162,9 @@ source_file: raw/books/html/1987_buffett_letter.html
 
 ### 相关内容
 
-- [concept-intrinsic-value](../../knowledge/concepts/concept-intrinsic-value.md) - 永久持股基于内在价值评估
-- [concept-value-investing](../../knowledge/concepts/concept-value-investing.md) - 格雷厄姆价值投资哲学的延续
-- [concept-economic-moat](../../knowledge/concepts/concept-economic-moat.md) - 核心持股具有强大护城河
+- [concept-intrinsic-value](../../../knowledge/concepts/concept-intrinsic-value.md) - 永久持股基于内在价值评估
+- [concept-value-investing](../../../knowledge/concepts/concept-value-investing.md) - 格雷厄姆价值投资哲学的延续
+- [concept-economic-moat](../../../knowledge/concepts/concept-economic-moat.md) - 核心持股具有强大护城河
 
 ### 影响内容
 
@@ -205,7 +205,7 @@ source_file: raw/books/html/1987_buffett_letter.html
 **创建时间**: 2026-04-08  
 **最后更新**: 2026-04-08  
 **源类型**: 年度股东信  
-**相关页面**: [entity-warren-buffett](../../knowledge/entities/entity-warren-buffett.md), [entity-benjamin-graham](../../knowledge/entities/entity-benjamin-graham.md), [concept-mr-market](../../knowledge/concepts/concept-mr-market.md), [concept-permanent-holdings](../../knowledge/concepts/concept-permanent-holdings.md)
+**相关页面**: [entity-warren-buffett](../../../knowledge/entities/entity-warren-buffett.md), [entity-benjamin-graham](../../../knowledge/entities/entity-benjamin-graham.md), [concept-mr-market](../../../knowledge/concepts/concept-mr-market.md), [concept-permanent-holdings](../../../knowledge/concepts/concept-permanent-holdings.md)
 
 ---
 

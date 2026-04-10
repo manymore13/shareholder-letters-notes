@@ -2,7 +2,7 @@
 type: source
 title: 巴菲特致股东信 1997
 year: 1997
-author: [Warren Buffett](../../knowledge/entities/entity-warren-buffett.md)
+author: [Warren Buffett](../../../knowledge/entities/entity-warren-buffett.md)
 created: 2026-04-08
 tags:
   - berkshire-hathaway
@@ -134,19 +134,19 @@ tags:
 
 ## 重要实体
 
-- [Berkshire Hathaway](../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
-- [GEICO](../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
-- [Coca-Cola](../../knowledge/entities/entity-coca-cola.md) - 可口可乐
-- [Gillette](../../knowledge/entities/entity-gillette.md) - 吉列公司
-- [Wells Fargo](../../knowledge/entities/entity-wells-fargo.md) - 富国银行
-- [Washington Post](../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
+- [Berkshire Hathaway](../../../knowledge/entities/entity-berkshire-hathaway.md) - 伯克希尔·哈撒韦
+- [GEICO](../../../knowledge/entities/entity-geico.md) - 政府雇员保险公司
+- [Coca-Cola](../../../knowledge/entities/entity-coca-cola.md) - 可口可乐
+- [Gillette](../../../knowledge/entities/entity-gillette.md) - 吉列公司
+- [Wells Fargo](../../../knowledge/entities/entity-wells-fargo.md) - 富国银行
+- [Washington Post](../../../knowledge/entities/entity-washington-post.md) - 华盛顿邮报
 
 ## 关键概念
 
-- [内在价值](../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
-- [浮存金](../../knowledge/concepts/concept-float.md) - 保险浮存金
-- [安全边际](../../knowledge/concepts/concept-margin-of-safety.md) - 价格保护
-- [价值投资](../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
+- [内在价值](../../../knowledge/concepts/concept-intrinsic-value.md) - 未来现金流折现
+- [浮存金](../../../knowledge/concepts/concept-float.md) - 保险浮存金
+- [安全边际](../../../knowledge/concepts/concept-margin-of-safety.md) - 价格保护
+- [价值投资](../../../knowledge/concepts/concept-value-investing.md) - 长期投资理念
 
 ## 投资理念
 

@@ -91,16 +91,16 @@ source_url: https://www.berkshirehathaway.com/letters/2021ltr.pdf
 
 ## 关键实体
 
-- [Berkshire Fine Spinning](../../knowledge/entities/entity-berkshire-fine-spinning.md) - 1955年合并前
-- [Hathaway Manufacturing](../../knowledge/entities/entity-hathaway-manufacturing.md) - 1955年合并前
-- [Lehman Brothers](../../knowledge/entities/entity-lehman-brothers.md) - 1955年合并顾问
+- [Berkshire Fine Spinning](../../../knowledge/entities/entity-berkshire-fine-spinning.md) - 1955年合并前
+- [Hathaway Manufacturing](../../../knowledge/entities/entity-hathaway-manufacturing.md) - 1955年合并前
+- [Lehman Brothers](../../../knowledge/entities/entity-lehman-brothers.md) - 1955年合并顾问
 
 ## 关键概念
 
-- [基础设施资产](../../knowledge/concepts/concept-infrastructure-assets.md) - 伯克希尔的真正规模
-- [业务选择者](../../knowledge/concepts/concept-business-pickers.md) - 非股票选择者
-- [税收伙伴关系](../../knowledge/concepts/concept-tax-partnership.md) - 政府与企业
-- [创造性破坏](../../knowledge/concepts/concept-creative-destruction.md) - Schumpeter理论
+- [基础设施资产](../../../knowledge/concepts/concept-infrastructure-assets.md) - 伯克希尔的真正规模
+- [业务选择者](../../../knowledge/concepts/concept-business-pickers.md) - 非股票选择者
+- [税收伙伴关系](../../../knowledge/concepts/concept-tax-partnership.md) - 政府与企业
+- [创造性破坏](../../../knowledge/concepts/concept-creative-destruction.md) - Schumpeter理论
 
 ## 重要数据
 
@@ -153,5 +153,5 @@ source_url: https://www.berkshirehathaway.com/letters/2021ltr.pdf
 - 后一年：[source-buffett-letters-2022](./source-buffett-letters-2022.md)
 
 **相关主题**：
-- [美国商业](../../knowledge/concepts/concept-american-business.md)
-- [股东文化](../../knowledge/concepts/concept-shareholder-culture.md)
+- [美国商业](../../../knowledge/concepts/concept-american-business.md)
+- [股东文化](../../../knowledge/concepts/concept-shareholder-culture.md)
