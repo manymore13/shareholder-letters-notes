@@ -237,3 +237,34 @@ Each entry follows this format:
   - 详细阐述了超级巨灾再保险的业务逻辑
   - 展示了可转换优先股投资的成功案例（Gillette、Salomon→Travelers）
 
+---
+
+## 2026-04-10
+
+### [Ingest] 演讲文档 - The Superinvestors of Graham-and-Doddsville
+- **Action**: Ingest
+- **Source**: 网络搜索（哥伦比亚大学官网）
+- **文档判断**: 类型=speech, 人物=buffett, 年份=1984, slug=columbia
+- **Created**:
+  - docs/people/buffett/source-buffett-speech-1984-columbia.md
+- **Updated**:
+  - docs/people/buffett/index.md（添加"演讲与文章"分类）
+- **Notes**:
+  - 测试 1：验证 speech 类型的新文档处理流程
+  - 文件命名符合新规范 `source-{person}-{type}-{year}-{slug}.md`
+  - 文件直接放在 `docs/people/buffett/` 下，无 letters 子目录
+  - YAML frontmatter 包含 source 字段指向原始链接
+
+### [Ingest] 文章文档 - Buy American. I Am.
+- **Action**: Ingest
+- **Source**: CNBC / 纽约时报（2008-10-17）
+- **文档判断**: 类型=article, 人物=buffett, 年份=2008, slug=nytimes
+- **Created**:
+  - docs/people/buffett/source-buffett-article-2008-nytimes.md
+- **Updated**:
+  - docs/people/buffett/index.md（添加文章到"演讲与文章"列表）
+- **Notes**:
+  - 测试 2：验证 article 类型的新文档处理流程
+  - 2008年全球金融危机期间发表的专栏文章
+  - article 类型判断正确（报纸专栏特征）
+

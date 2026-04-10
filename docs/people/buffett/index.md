@@ -85,6 +85,15 @@
 
 ---
 
+## 演讲与文章
+
+| 年份 | 类型 | 标题 | 主要主题 |
+|------|------|------|----------|
+| [1984](./source-buffett-speech-1984-columbia.md) | 演讲 | The Superinvestors of Graham-and-Doddsville | 反驳有效市场假说，介绍9位价值投资者 |
+| [2008](./source-buffett-article-2008-nytimes.md) | 文章 | Buy American. I Am. | 金融危机中公开喊话买入美国股票 |
+
+---
+
 ## 核心概念
 
 阅读巴菲特信件时，以下概念反复出现：

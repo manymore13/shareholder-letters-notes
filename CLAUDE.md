@@ -459,6 +459,83 @@ To add a new person (e.g., Benjamin Graham):
 3. Update `mkdocs.yml` navigation structure
 4. Place source documents in `raw/` and request ingestion
 
+## Content Depth Requirements
+
+Source pages are **the core value of this wiki**. Each page must allow a reader who has never read the original to gain a deep, substantive understanding. Avoid producing template-like outlines that merely organize headings without filling them with real content.
+
+### Writing Principles
+
+1. **Faithful to the original** — Content must accurately reflect what the author actually said and argued. Do not paraphrase into generic language. Preserve the author's specific logic, examples, and reasoning chains.
+2. **Substantive, not skeletal** — Every section must contain meaningful content. A bullet point must include the actual argument, supporting evidence, or concrete data — not just a topic label.
+3. **Specific over vague** — Use real numbers, names, dates, and cases from the original text. Replace "achieved excellent returns" with "compounded at 23% annually over 28 years."
+4. **No AI boilerplate** — Avoid phrases like "本文介绍了" / "核心观点是" / "值得注意的是" / "综上所述". Write as a knowledgeable reader summarizing for another reader, not as an AI generating a report.
+5. **Preserve the argument structure** — Follow the original's logical flow. If Buffett builds a case through a sequence of examples, present those examples in order with their full context.
+
+### Section-by-Section Standards
+
+#### Summary
+
+- **3-5 paragraphs** that faithfully reconstruct the original's core message
+- Must cover: background/context, main thesis, key supporting arguments, conclusion
+- Should read like a well-written book review, not a back-cover blurb
+
+#### Key Points
+
+This is the **most important section**. Requirements:
+
+- Each subsection must be a **mini-essay** (paragraphs, not just bullet labels)
+- Include the **original's specific evidence**: numbers, names, dates, examples
+- Show the **reasoning chain**: premise → evidence → conclusion
+- Use blockquotes for key original passages, followed by your analysis/explanation
+- **Minimum**: each key point section should be 100+ words of substantive content
+
+Example of WRONG vs RIGHT:
+
+```
+WRONG:
+### 抛硬币类比
+- 假设2.25亿人每天猜硬币
+- 成功的不寻常集中性意味着存在因果因素
+
+RIGHT:
+### 抛硬币类比：反驳随机性假说
+
+巴菲特用抛硬币的思想实验来拆解有效市场论者的"幸存者偏差"反驳。假设全美国2.25亿人每天抛一次硬币，猜正反面。第一天有一半人猜对，连续10天后约22万人全部猜对——纯统计结果。再猜10天，最终约215人连续20天全对。
+
+如果这215位"赢家"分散在全国各地，你确实可以归结为运气。但如果其中40人来自同一个地方——奥马哈——而且他们都师从同一个人——本·格雷厄姆，这就不是巧合了。巴菲特的原话是：
+
+> "If you're looking for the cause of this, you'd want to ask: what do these people have in common? And the answer is: they all learned from Ben Graham."
+
+这个类比的关键在于"非随机聚集"——当成功在统计学上不可能由随机性解释时，就必须寻找因果因素。对巴菲特而言，这个因素就是价值投资的核心理念：以低于内在价值的价格买入。
+```
+
+#### Notable Quotes
+
+- Each quote must include: the quote itself + context (what point was the author making?) + your brief interpretation
+- Do NOT just paste quotes without explanation
+- Select quotes that capture the author's **most original or counterintuitive** insights
+
+#### Entities Mentioned & Concepts Discussed
+
+- Each entry must explain **why and how** the entity/concept appears in this source
+- Must contain specific information from the text (not generic descriptions)
+- Example:
+  ```
+  WRONG: Walter Schloss - 9位超级投资者之一，极度分散策略
+  RIGHT: Walter Schloss - 在28年（1956-1984）中管理16个投资组合，年化收益20%，最大特点是不与公司管理层交谈、不追求深度研究，纯粹依靠财务数据筛选被低估股票。巴菲特特意选择他来证明"即使是最简单的价值投资方法也能持续跑赢市场"
+  ```
+
+### Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It's Bad | What to Do Instead |
+|---|---|---|
+| "本文介绍了..." 开头 | 模板化、空洞 | 直接切入内容 |
+| 只列条目不展开 | 没有信息量 | 每个条目附带论据和数据 |
+| 引用名言无上下文 | 读者不知道为什么重要 | 解释名言在原文论证中的作用 |
+| 实体/概念只有一句话 | 目录感 | 写出在本文中的具体角色和论据 |
+| "值得注意的是/综上所述" | AI腔 | 删除，或用具体内容替代 |
+| 用泛泛描述替代具体数据 | 丧失原文价值 | 还原原文中的数字和案例 |
+
 ## Quality Standards
 
 1. **Accuracy**: Verify facts from source documents
@@ -466,6 +543,7 @@ To add a new person (e.g., Benjamin Graham):
 3. **Consistency**: Follow naming conventions and templates
 4. **Connectivity**: Maintain rich cross-references
 5. **Clarity**: Write clear, concise summaries in Chinese (中文)
+6. **Depth**: Every section must contain substantive content, not just structure
 
 ---
 
